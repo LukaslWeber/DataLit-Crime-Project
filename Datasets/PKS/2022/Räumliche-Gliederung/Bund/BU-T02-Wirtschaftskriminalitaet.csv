@@ -1,0 +1,363 @@
+1;2;3;4;5;6;7;8;9;10;11;12;13;14;15;16;17;18;19;20
+Schluessel;Straftat;Anzahl erfasste Faelle;%-Anteil an allen Faellen;erfasste Faelle, davon Versuche Anzahl;erfasste Faelle, davon Versuche in %;Tatortverteilung bis unter 20000 Einwohner;Tatortverteilung 20000 bis unter 100000 Einwohner;Tatortverteilung 100000 bis unter 500000 Einwohner;Tatortverteilung 500000 und mehr Einwohner;Tatortverteilung unbekannt;mit Schusswaffe gedroht;mit Schusswaffe geschossen;Aufklaerung - Anzahl Faelle;Aufklaerung in % (Aufklaerungsquote) ;Tatverdaechtige insgesamt;Tatverdaechtige maennlich;Tatverdaechtige weiblich;Anzahl nichtdeutsche Tatverdaechtige;Anteil nichtdeutsche Tatverdaechtige an Gesamtzahl in %
+------;Straftaten insgesamt;73,114;100;2,746;3.8;43,878;7,537;7,112;12,327;2,260;0;0;67,129;91.8;26,770;19,367;7,403;7,687;28.7
+100000;Straftaten gegen die sexuelle Selbstbestimmung insgesamt;51;0.1;0;0;18;10;8;12;3;0;0;42;82.4;47;39;8;11;23.4
+131400;"Sexueller Missbrauch von Kindern - Einwirken auf Kinder ohne Körperkontakt § 176a Abs. 1 Nr. 3; 176b Abs. 1 Nr. 1 und 2 StGB";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+131410;Sexueller Missbrauch von Kindern - Einwirken auf Kinder ohne Körperkontakt mit dem Kind § 176a Abs. 1 Nr 3 i.V.m. Absatz 3 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+131420;Vorbereitung des sexuellen Missbrauchs von Kindern gem § 176b Abs. 1, 3 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+140000;Ausnutzen sexueller Neigung §§ 180, 180a, 181a, 184, 184a, 184b, 184c, 184e, 184f, 184g, 184k, 184l StGB;51;0.1;0;0;18;10;8;12;3;0;0;42;82.4;47;39;8;11;23.4
+143000;Verbreitung pornografischer Inhalte (Erzeugnisse) §§ 184, 184a, 184b, 184c, 184e StGB;51;0.1;0;0;18;10;8;12;3;0;0;42;82.4;47;39;8;11;23.4
+143200;Verbreitung, Erwerb, Besitz und Herstellung kinderpornografischer Inhalte § 184b StGB;47;0.1;0;0;18;10;4;12;3;0;0;38;80.9;42;35;7;9;21.4
+143210;Verbreitung, Erwerb, Besitz und Herstellung von Kinderpornografie § 184b Abs. 1 StGB;47;0.1;0;0;18;10;4;12;3;0;0;38;80.9;42;35;7;9;21.4
+143211;Verbreitung von Kinderpornografie § 184b Abs. 1 Nr. 1 StGB;40;0.1;0;0;18;10;2;7;3;0;0;32;80;35;28;7;7;20
+143212;Besitzverschaffung für andere von Kinderpornografie § 184b Abs. 1 Nr. 2 StGB;5;0;0;0;0;0;2;3;0;0;0;5;100;6;6;0;2;33.3
+143213;Herstellung auch ohne Verbreitungsabsicht von Kinderpornografie mit tatsächlichem Geschehen § 184b Abs. 1 Nr. 3 StGB;1;0;0;0;0;0;0;1;0;0;0;1;100;1;1;0;0;0
+143214;Herstellung mit Verbreitungsabsicht von Kinderpornografie § 184b Abs. 1 Nr. 4 StGB;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+143220;Verbreitung und Herstellung von Kinderpornografie gewerbs-/bandenmäßig § 184b Abs. 2 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+143500;Verbreitung, Erwerb, Besitz und Herstellung jugendpornografischer Inhalte § 184c StGB;4;0;0;0;0;0;4;0;0;0;0;4;100;5;4;1;2;40
+143510;Verbreitung, Erwerb, Besitz und Herstellung von Jugendpornografie § 184c Abs. 1 StGB;4;0;0;0;0;0;4;0;0;0;0;4;100;5;4;1;2;40
+143511;Verbreitung von Jugendpornografie § 184c Abs. 1 Nr. 1 StGB;2;0;0;0;0;0;2;0;0;0;0;2;100;2;2;0;0;0
+143512;Besitzverschaffung für andere von Jugendpornografie § 184c Abs. 1 Nr. 2 StGB;2;0;0;0;0;0;2;0;0;0;0;2;100;3;2;1;2;66.7
+143513;Herstellung auch ohne Verbreitungsabsicht mit tatsächlichem Geschehen von Jugendpornografie § 184c Abs. 1 Nr. 3 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+143514;Herstellung mit Verbreitungsabsicht von Jugendpornografie § 184c Abs. 1 Nr. 4 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+143520;Verbreitung und Herstellung von Jugendpornografie gewerbs-/bandenmäßig § 184c Abs. 2 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+146000;Inverkehrbringen, Erwerb und Besitz von Sexpuppen mit kindlichem Erscheinungsbild § 184l StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+200000;Rohheitsdelikte und Straftaten gegen die persönliche Freiheit;2;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0
+230000;Straftaten gegen die persönliche Freiheit §§ 232-233a, 234, 235, 236, 237, 238-239b, 240, 241, 316c StGB;2;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0
+239000;Menschenhandel, Zwangsprostitution, Zwangsarbeit, Ausbeutung der Arbeitskraft und Ausbeutung unter Ausnutzung einer Freiheitsberaubung §§ 232, 232a, 232b, 233, 233a StGB;2;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0
+239100;Menschenhandel § 232 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+239110;Handel zum Zweck der Ausbeutung bei Ausübung der Prostitution, der Vornahme sexueller Handlungen § 232 Abs. 1 Nr. 1a. Abs. 2 in Bezug auf Abs. 1 Nr. 1a, Abs. 3 Nr. 1 bis 3 in Bezug auf Abs. 1 Nr. 1a, Abs. 4 in Bezug auf Abs. 1 Nr. 1a StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+239120;"Handel zum Zweck der Ausbeutung durch eine Beschäftigung § 232 StGB Abs. 1, Nr. 1 b); Abs. 2 in Bezug auf Abs. 1 Nr. 1b); Abs. 3 Nr. 1 bis 3 in Bezug auf Abs. 1, Nr. 1b); Abs. 4 in Bezug auf Abs. 1 Nr. 1b) StGB";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+239130;Handel zum Zweck der Ausbeutung bei der Ausübung der Bettelei § 232 Abs. 1 Nr. 1 c), Abs. 2 in Bezug auf Abs. 1 Nr. 1 c), Abs. 3 Nr. 1 bis 3 in Bezug auf Abs. 1 Nr. 1c), Abs. 4 in Bezug auf Abs. 1 Nr. 1c) StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+239140;Handel zum Zweck der Ausbeutung bei der Begehung von mit Strafe bedrohten Handlungen § 232 StGB Abs. 1 Nr. 1d), Abs. 2 in Bezug auf Abs. 1 Nr. 1d), Abs. 3 Nr. 1 bis 3 in Bezug auf Abs. 1, Nr. 1d), Abs. 4 in Bezug auf Abs. 1 Nr. 1d) StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+239150;Handel zum Zweck des Haltens einer Person in Sklaverei, Leibeigenschaft, Schuldknechtschaft o.ä. § 232 Abs. 1 Nr. 2, Abs. 2 in Bezug auf Abs. 1 Nr. 2, Abs. 3 Nr. 1 bis 3 in Bezug auf Abs. 1 Nr. 2, Abs. 4 in Bezug auf Abs. 1 Nr. 2 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+239160;Handel zum Zweck der rechtswidrigen Organentnahme § 232 Abs. 1 Nr. 3, Abs. 2 in Bezug auf Abs. 1 Nr. 3, Abs. 3 Nr. 1 bis 3 in Bezug auf Abs. 1 Nr. 3, Abs. 4 in Bezug auf Abs. 1 Nr. 3 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+239200;Zwangsprostitution § 232a StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+239210;Veranlassen zur Aufnahme oder Fortsetzung der Prostitution oder zu sexuellen Handlungen, durch die eine Person ausgebeutet wird § 232a Abs. 1 bis 5 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+239300;Zwangsarbeit § 232b StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+239310;Veranlassen zur Aufnahme einer ausbeuterischen Beschäftigung § 232b Abs. 1 Nr. 1, Abs. 2 in Bezug auf Abs. 1 Nr. 1, Abs. 3 Nr. 1, Abs. 4 Nr. 1 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+239320;Veranlassen sich in Sklaverei, Leibeigenschaft, Schuldknechtschaft o.ä. zu begeben § 232b Abs. 1 Nr. 2, Abs. 2 in Bezug auf Abs. 1 Nr. 2, Abs. 3 Nr. 2, Abs. 4 Nr. 2 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+239330;Veranlassen zur Aufnahme oder Fortsetzung der Bettelei, durch die die Person ausgebeutet wird § 232b Abs. 1 Nr. 3, Abs. 2 in Bezug auf Abs. 1 Nr. 3, Abs. 3 Nr. 3, Abs. 4 Nr. 3 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+239400;Ausbeutung der Arbeitskraft § 233 StGB;2;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0
+239410;Ausbeutung durch eine Beschäftigung § 233 Abs. 1 Nr. 1, Abs. 2 in Fällen von Abs. 1 Nr. 1, Abs. 3 in Fällen von Abs. 1 Nr. 1, Abs. 4 in Bezug auf Abs. 1 Nr. 1, Abs. 5 in Bezug auf Abs. 1 Nr. 1 StGB;2;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0
+239420;Ausbeutung bei der Ausübung der Bettelei § 233 Abs. 1 Nr. 2, Abs. 2 in Fällen von Abs. 1 Nr. 2, Abs. 3 in Fällen von Abs. 1 Nr. 2, Abs. 4 in Bezug auf Abs. 1 Nr. 2 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+239430;Ausbeutung bei der Begehung von mit Strafe bedrohten Handlungen § 233 Abs. 1 Nr. 3, Abs. 2 in Fällen von Abs. 1 Nr. 3, Abs. 3 in Fällen von Abs. 1 Nr. 3, Abs. 4 in Bezug auf Abs. 1 Nr. 3 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+239500;Ausbeutung unter Ausnutzung einer Freiheitsberaubung § 233a StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+239510;Ausbeutung bei Ausübung der Prostitution § 233a Abs. 1 Nr. 1, Abs. 2 in Bezug auf Abs. 1 Nr. 1, Abs. 3 in Bezug auf Abs. 1 Nr. 1, Abs. 4 in Bezug auf Abs. 1 Nr. 1 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+239520;Ausbeutung durch eine Beschäftigung nach § 232 Abs. 1 Satz 2 StGB (gem. § 233a Abs. 1 Nr. 2, Abs. 2 in Bezug auf Abs. 1 Nr. 2, Abs. 3 in Bezug auf Abs. 1 Nr. 2, Abs. 4 in Bezug auf Abs. 1 Nr. 2 StGB);0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+239530;Ausbeutung bei der Ausübung der Bettelei § 233a Abs. 1 Nr. 3, Abs. 2 in Bezug auf Abs. 1 Nr. 3, Abs. 3 in Bezug auf Abs. 1 Nr. 3, Abs. 4 in Bezug auf Abs. 1 Nr. 3 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+239540;Ausbeutung bei der Begehung von mit Strafe bedrohten Handlungen § 233a Abs. 1 Nr. 4, Abs. 2 in Bezug auf Abs. 1 Nr. 4, Abs. 3 in Bezug auf Abs. 1 Nr. 4, Abs. 4 in Bezug auf Abs. 1 Nr. 4 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+500000;Vermögens- und Fälschungsdelikte;64,297;87.9;2,629;4.1;41,241;5,272;5,847;10,013;1,924;0;0;58,915;91.6;19,445;13,851;5,594;5,437;28
+510000;Betrug §§ 263, 263a, 264, 264a, 265, 265a-e StGB;53,874;73.7;2,601;4.8;38,380;3,141;2,560;7,982;1,811;0;0;48,826;90.6;11,797;8,484;3,313;3,753;31.8
+511000;Waren- und Warenkreditbetrug;1,752;2.4;113;6.4;396;310;220;312;514;0;0;1,014;57.9;836;600;236;219;26.2
+511100;Betrügerisches Erlangen von Kfz §§ 263, 263a StGB;17;0;2;11.8;6;2;3;4;2;0;0;14;82.4;19;19;0;11;57.9
+511110;Betrügerisches Erlangen von Kfz § 263 StGB;15;0;2;13.3;6;2;3;3;1;0;0;14;93.3;19;19;0;11;57.9
+511120;Betrügerisches Erlangen von Kfz § 263a StGB;2;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+511200;Sonstiger Warenkreditbetrug;646;0.9;51;7.9;148;164;64;134;136;0;0;349;54;300;216;84;68;22.7
+511201;Tankbetrug;86;0.1;1;1.2;34;31;10;10;1;0;0;47;54.7;50;46;4;10;20
+511210;Weitere Arten des Warenkreditbetruges §§ 263, 263a StGB;560;0.8;50;8.9;114;133;54;124;135;0;0;302;53.9;250;170;80;58;23.2
+511211;Weitere Arten des Warenkreditbetruges § 263 StGB;424;0.6;28;6.6;101;120;44;66;93;0;0;255;60.1;206;146;60;47;22.8
+511212;Weitere Arten des Warenkreditbetruges § 263a StGB;136;0.2;22;16.2;13;13;10;58;42;0;0;47;34.6;47;26;21;12;25.5
+511300;Warenbetrug;1,089;1.5;60;5.5;242;144;153;174;376;0;0;651;59.8;521;368;153;141;27.1
+513000;Kapitalanlage- und Anlagebetrug;3,068;4.2;103;3.4;897;532;304;917;418;0;0;1,322;43.1;759;628;131;228;30
+513100;Prospektbetrug (Kapitalanlagebetrug) § 264a StGB;85;0.1;0;0;24;16;9;22;14;0;0;14;16.5;23;18;5;4;17.4
+513200;Anlagebetrug § 263 StGB;2,983;4.1;103;3.5;873;516;295;895;404;0;0;1,308;43.8;740;613;127;224;30.3
+514000;Geldkreditbetrug;4,965;6.8;21;0.4;1,062;965;737;2,155;46;0;0;4,858;97.8;4,644;3,376;1,268;1,691;36.4
+514100;Kreditbetrug § 265b StGB (im geschäftlichen Verkehr);96;0.1;0;0;27;22;31;13;3;0;0;86;89.6;100;77;23;43;43
+514200;Subventionsbetrug § 264 StGB;4,732;6.5;0;0;1,003;903;670;2,116;40;0;0;4,648;98.2;4,399;3,182;1,217;1,593;36.2
+514300;Krediterlangungsbetrug § 263 StGB;137;0.2;21;15.3;32;40;36;26;3;0;0;124;90.5;156;127;29;56;35.9
+516000;Betrug bzw. Computerbetrug mittels rechtswidrig erlangter unbarer Zahlungsmittel;394;0.5;37;9.4;63;80;56;108;87;0;0;71;18;86;63;23;29;33.7
+516200;Betrug mittels rechtswidrig erlangter Zahlungskarten ohne PIN (Lastschriftverfahren);37;0.1;2;5.4;3;12;5;12;5;0;0;4;10.8;5;3;2;2;40
+516300;Computerbetrug mittels rechtswidrig erlangter Zahlungskarten mit PIN § 263a StGB;90;0.1;6;6.7;22;20;24;21;3;0;0;23;25.6;24;15;9;11;45.8
+516500;Betrug bzw. Computerbetrug mittels rechtswidrig erlangter Daten von Zahlungskarten §§ 263, 263a StGB;197;0.3;19;9.6;21;40;19;59;58;0;0;27;13.7;30;28;2;10;33.3
+516510;Betrug mittels rechtswidrig erlangter Daten von Zahlungskarten § 263 StGB;72;0.1;9;12.5;7;15;10;27;13;0;0;9;12.5;12;11;1;5;41.7
+516520;Computerbetrug mittels rechtswidrig erlangter Daten von Zahlungskarten § 263a StGB;125;0.2;10;8;14;25;9;32;45;0;0;18;14.4;18;17;1;5;27.8
+516900;Betrug bzw. Computerbetrug mittels rechtswidrig erlangter sonstiger unbarer Zahlungsmittel §§ 263, 263a StGB;70;0.1;10;14.3;17;8;8;16;21;0;0;17;24.3;27;17;10;6;22.2
+516910;Betrug mittels rechtswidrig erlangter sonstiger unbarer Zahlungsmittel § 263 StGB;26;0;5;19.2;8;2;4;7;5;0;0;10;38.5;20;16;4;3;15
+516920;Computerbetrug mittels rechtswidrig erlangter sonstiger unbarer Zahlungsmittel § 263a StGB;44;0.1;5;11.4;9;6;4;9;16;0;0;7;15.9;7;1;6;3;42.9
+517000;Sonstiger Betrug;43,695;59.8;2,327;5.3;35,962;1,254;1,243;4,490;746;0;0;41,561;95.1;5,845;4,094;1,751;1,718;29.4
+517100;Leistungsbetrug;34,150;46.7;27;0.1;33,826;63;42;192;27;0;0;34,064;99.7;288;235;53;83;28.8
+517200;Leistungskreditbetrug §§ 263, 263a StGB;217;0.3;9;4.1;115;40;14;38;10;0;0;179;82.5;151;120;31;25;16.6
+517210;Leistungskreditbetrug § 263 StGB;196;0.3;6;3.1;114;36;10;34;2;0;0;174;88.8;143;113;30;22;15.4
+517220;Leistungskreditbetrug § 263a StGB;21;0;3;14.3;1;4;4;4;8;0;0;5;23.8;8;7;1;3;37.5
+517400;Betrug z.N.v. Versicherungen und Versicherungsmissbrauch §§ 263, 265 StGB;85;0.1;8;9.4;23;25;16;21;0;0;0;84;98.8;117;91;26;18;15.4
+517410;Betrug zum Nachteil von Versicherungen;84;0.1;8;9.5;23;24;16;21;0;0;0;83;98.8;116;91;25;18;15.5
+517420;Versicherungsmissbrauch;1;0;0;0;0;1;0;0;0;0;0;1;100;1;0;1;0;0
+517500;Computerbetrug (sonstiger) § 263a StGB (soweit nicht unter den Schlüsseln 511120, 511212, 516300, 516520, 516920, 517220, 517900, 518112 bzw. 518302 zu erfassen);558;0.8;165;29.6;27;35;33;415;48;0;0;155;27.8;166;119;47;70;42.2
+517510;Computerbetrug (sonstiger) § 263a Abs. 1 und 2 StGB;555;0.8;163;29.4;27;34;33;413;48;0;0;155;27.9;166;119;47;70;42.2
+517520;Vorbereitung des Computerbetruges § 263a Abs. 3 StGB;3;0;2;66.7;0;1;0;2;0;0;0;0;0;0;0;0;0;0
+517600;Provisionsbetrug;22;0;0;0;4;7;9;1;1;0;0;20;90.9;19;18;1;2;10.5
+517800;Sozialleistungsbetrug;132;0.2;4;3;51;24;34;23;0;0;0;130;98.5;150;87;63;53;35.3
+517900;Missbräuchliche Nutzung von Telekommunikationsdiensten § 263a StGB;2;0;2;100;0;0;0;2;0;0;0;0;0;0;0;0;0;0
+518100;Abrechnungsbetrug;2,826;3.9;102;3.6;1,294;433;396;697;6;0;0;2,713;96;1,807;1,048;759;236;13.1
+518110;Abrechnungsbetrug im Gesundheitswesen §§ 263, 263a StGB;2,744;3.8;95;3.5;1,277;408;367;686;6;0;0;2,644;96.4;1,708;982;726;231;13.5
+518111;Abrechnungsbetrug im Gesundheitswesen § 263 StGB;2,709;3.7;92;3.4;1,269;395;359;680;6;0;0;2,615;96.5;1,667;961;706;227;13.6
+518112;Abrechnungsbetrug im Gesundheitswesen § 263a StGB;35;0;3;8.6;8;13;8;6;0;0;0;29;82.9;41;21;20;4;9.8
+518179;Sonstiger Abrechnungsbetrug;82;0.1;7;8.5;17;25;29;11;0;0;0;69;84.1;102;68;34;5;4.9
+518300;Überweisungsbetrug §§ 263, 263a StGB;531;0.7;408;76.8;49;75;18;121;268;0;0;89;16.8;85;70;15;46;54.1
+518301;Überweisungsbetrug § 263 StGB;426;0.6;364;85.4;48;71;14;31;262;0;0;77;18.1;75;63;12;39;52
+518302;Überweisungsbetrug § 263a StGB;105;0.1;44;41.9;1;4;4;90;6;0;0;12;11.4;10;7;3;7;70
+518500;Sportwettbetrug und Manipulation von berufssportlichen Wettbewerben §§ 265c-e StGB;1;0;0;0;0;0;1;0;0;0;0;1;100;2;2;0;2;100
+518510;Sportwettbetrug §§ 265c, 265e StGB;1;0;0;0;0;0;1;0;0;0;0;1;100;2;2;0;2;100
+518520;Manipulation von berufssportlichen Wettbewerben §§ 265d, 265e StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+518800;Kreditvermittlungsbetrug § 263 StGB;16;0;1;6.3;2;7;0;5;2;0;0;13;81.3;24;16;8;6;25
+518900;Sonstige weitere Betrugsarten;5,155;7.1;1,601;31.1;571;545;680;2,975;384;0;0;4,113;79.8;3,102;2,343;759;1,189;38.3
+520000;Veruntreuungen §§ 266, 266a, 266b StGB;5,302;7.3;0;0;1,752;1,240;957;1,342;11;0;0;5,198;98;3,894;3,011;883;929;23.9
+521000;Untreue § 266 StGB;1,341;1.8;0;0;273;246;203;613;6;0;0;1,297;96.7;1,347;978;369;95;7.1
+521079;Sonstige Untreue;1,240;1.7;0;0;235;221;181;597;6;0;0;1,202;96.9;1,298;942;356;92;7.1
+521100;Untreue bei Kapitalanlagegeschäften;101;0.1;0;0;38;25;22;16;0;0;0;95;94.1;52;38;14;3;5.8
+522000;Vorenthalten und Veruntreuen von Arbeitsentgelt § 266a StGB;3,958;5.4;0;0;1,478;993;753;729;5;0;0;3,899;98.5;2,594;2,071;523;847;32.7
+523000;Missbrauch von Scheck- und Kreditkarten § 266b StGB;3;0;0;0;1;1;1;0;0;0;0;2;66.7;2;1;1;0;0
+530000;Unterschlagung §§ 246, 247, 248a StGB;225;0.3;1;0.4;67;74;37;40;7;0;0;188;83.6;182;142;40;46;25.3
+530079;Unterschlagung sonstiger Güter/Sachen §§ 246, 247, 248a StGB - ohne von Kfz;191;0.3;0;0;55;67;30;33;6;0;0;160;83.8;147;114;33;28;19
+531000;Unterschlagung von Kfz §§ 246, 247 StGB;34;0;1;2.9;12;7;7;7;1;0;0;28;82.4;36;28;8;18;50
+540000;Urkundenfälschung §§ 267-271, 273-279, 281 StGB;2,349;3.2;15;0.6;89;141;1,913;113;93;0;0;2,184;93;2,190;1,147;1,043;380;17.4
+540002;Mittelbare Falschbeurkundung;8;0;0;0;4;1;1;2;0;0;0;7;87.5;9;8;1;3;33.3
+540003;Verändern von amtlichen Ausweisen;1;0;0;0;1;0;0;0;0;0;0;1;100;1;1;0;1;100
+540004;Urkundenunterdrückung, Veränderung einer Grenzbezeichnung § 274 StGB;3;0;0;0;0;1;1;1;0;0;0;3;100;4;3;1;0;0
+540006;Verschaffen von falschen amtlichen Ausweisen;5;0;0;0;1;3;0;1;0;0;0;4;80;8;8;0;8;100
+540010;Missbrauch von Ausweispapieren § 281 StGB;5;0;0;0;0;1;0;4;0;0;0;2;40;2;0;2;0;0
+540011;Missbrauch von Impfausweisen gem. § 281 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+540012;Missbrauch von Testzertifikaten gem. § 281 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+540013;Missbrauch von Gesundheitszeugnissen gem. § 281 StGB;1;0;0;0;0;1;0;0;0;0;0;1;100;1;0;1;0;0
+540019;Missbrauch von sonstigen Ausweispapieren gem. § 281 StGB;4;0;0;0;0;0;0;4;0;0;0;1;25;1;0;1;0;0
+540020;Urkundenfälschung § 267 StGB;285;0.4;9;3.2;45;42;107;70;21;0;0;231;81.1;269;195;74;72;26.8
+540021;Fälschung von Impfausweisen und Gebrauch gefälschter Impfausweise gem. § 267 StGB;77;0.1;1;1.3;1;6;66;3;1;0;0;76;98.7;86;56;30;18;20.9
+540022;Fälschung von Testzertifikaten und Gebrauch gefälschter Testzertifikate gem. § 267 StGB;2;0;0;0;0;0;2;0;0;0;0;1;50;3;1;2;1;33.3
+540023;Fälschung von Genesenenbescheinigungen und Gebrauch gefälschter Genesenenbescheinigungen gem. § 267 StGB;1;0;0;0;0;0;1;0;0;0;0;1;100;1;0;1;0;0
+540029;sonstige Urkundenfälschung gem. § 267 StGB;205;0.3;8;3.9;44;36;38;67;20;0;0;153;74.6;180;138;42;53;29.4
+540030;Vorbereitung der Fälschung von amtlichen Ausweisen § 275 StGB;1;0;0;0;0;0;0;1;0;0;0;1;100;1;1;0;1;100
+540031;Vorbereitung der Herstellung von unrichtigen Impfausweisen gem. § 275 StGB;1;0;0;0;0;0;0;1;0;0;0;1;100;1;1;0;1;100
+540039;Vorbereitung der Fälschung von sonstigen amtlichen Ausweisen gem. § 275 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+540040;Unbefugtes Ausstellen von Gesundheitszeugnissen § 277 StGB;5;0;0;0;1;2;1;0;1;0;0;4;80;4;3;1;0;0
+540041;Unbefugtes Ausstellen von Impfausweisen gem. § 277 StGB;1;0;0;0;0;0;1;0;0;0;0;1;100;1;0;1;0;0
+540042;Unbefugtes Ausstellen von Testzertifikaten gem. § 277 StGB;2;0;0;0;0;2;0;0;0;0;0;2;100;2;2;0;0;0
+540043;Unbefugtes Ausstellen von Genesenenbescheinigungen gem. § 277 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+540049;Unbefugtes Ausstellen von sonstigen Gesundheitszeugnissen gem. § 277 StGB;2;0;0;0;1;0;0;0;1;0;0;1;50;1;1;0;0;0
+540050;Ausstellen unrichtiger Gesundheitszeugnisse § 278 StGB;71;0.1;0;0;2;48;4;17;0;0;0;71;100;24;15;9;0;0
+540051;Ausstellen unrichtiger Impfausweise gem. § 278 StGB;17;0;0;0;0;0;1;16;0;0;0;17;100;3;2;1;0;0
+540052;Ausstellen unrichtiger Testzertifikate gem. § 278 StGB;2;0;0;0;1;0;1;0;0;0;0;2;100;3;3;0;0;0
+540053;Ausstellen unrichtiger Genesenenbescheinigungen gem. § 278 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+540059;Ausstellen sonstiger unrichtiger Gesundheitszeugnisse gem. § 278 StGB;52;0.1;0;0;1;48;2;1;0;0;0;52;100;20;12;8;0;0
+540060;Gebrauch unrichtiger Gesundheitszeugnisse § 279 StGB;1,807;2.5;0;0;2;11;1,788;6;0;0;0;1,801;99.7;1,804;867;937;272;15.1
+540061;Gebrauch unrichtiger Impfausweise gem. § 279 StGB;1,693;2.3;0;0;1;2;1,685;5;0;0;0;1,689;99.8;1,690;810;880;258;15.3
+540062;Gebrauch unrichtiger Testzertifikate gem. § 279 StGB;4;0;0;0;0;0;4;0;0;0;0;4;100;4;1;3;0;0
+540063;Gebrauch unrichtiger Genesenenbescheinigungen gem. § 279 StGB;1;0;0;0;0;0;1;0;0;0;0;1;100;1;1;0;0;0
+540069;Gebrauch sonstiger unrichtiger Gesundheitszeugnisse gem. § 279 StGB;109;0.1;0;0;1;9;98;1;0;0;0;107;98.2;109;55;54;14;12.8
+541000;Fälschung technischer Aufzeichnungen § 268 StGB;6;0;0;0;3;2;1;0;0;0;0;6;100;15;9;6;4;26.7
+541001;Manipulation von Fahrtenschreibern und EG-Kontrollgeräten § 268 StGB;1;0;0;0;1;0;0;0;0;0;0;1;100;5;3;2;1;20
+541079;Sonstige Fälschung technischer Aufzeichnungen;5;0;0;0;2;2;1;0;0;0;0;5;100;10;6;4;3;30
+543000;Fälschung beweiserheblicher Daten, Täuschung im Rechtsverkehr bei Datenverarbeitung §§ 269, 270 StGB;152;0.2;6;3.9;30;30;10;11;71;0;0;53;34.9;54;41;13;19;35.2
+543010;Fälschung beweiserheblicher Daten § 269 StGB;149;0.2;6;4;29;30;10;10;70;0;0;53;35.6;54;41;13;19;35.2
+543020;Täuschung im Rechtsverkehr bei Datenverarbeitung § 270 StGB;3;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+550000;Geld- und Wertzeichenfälschung, Fälschung von Zahlungskarten mit oder ohne Garantiefunktion, Schecks, Wechseln und anderen körperlichen unbaren Zahlungsinstrumenten sowie die Vorbereitung des Diebstahls und der Unterschlagung §§ 146-149, 151, 152, 152a, 152b, 152c StGB;9;0;3;33.3;1;3;1;4;0;0;0;1;11.1;2;2;0;2;100
+551000;Geld- und Wertzeichenfälschung einschl. Vorbereitungshandlungen §§ 146 außer Abs. 1 Nr. 3, 148, 149, 151, 152 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+552000;Inverkehrbringen von Falschgeld §§ 146 Abs. 1 Nr. 3, 147, 151, 152 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+553000;Fälschung von Zahlungskarten mit oder ohne Garantiefunktion, Schecks, Wechseln und anderen körperlichen unbaren Zahlungsinstrumenten §§ 152a, 152b StGB;9;0;3;33.3;1;3;1;4;0;0;0;1;11.1;2;2;0;2;100
+553100;Gebrauch falscher Zahlungskarten mit oder ohne Garantiefunktion, Schecks, Wechsel und anderer körperlicher unbarer Zahlungsinstrumente §§ 152a, 152b StGB;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+553110;Gebrauch falscher Zahlungskarten ohne Garantiefunktion, Schecks, Wechsel und anderer körperlicher unbarer Zahlungsinstrumente;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+553120;Gebrauch falscher Zahlungskarten mit Garantiefunktion;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+553200;Nachmachen, Verfälschen, Verschaffen, Feilhalten oder Überlassen falscher Zahlungskarten mit oder ohne Garantiefunktion, Schecks, Wechsel und anderer körperlicher unbarer Zahlungsinstrumente §§ 152a, 152b StGB;8;0;3;37.5;1;3;1;3;0;0;0;1;12.5;2;2;0;2;100
+553210;Nachmachen, Verfälschen, Verschaffen, Feilhalten oder Überlassen falscher Zahlungskarten ohne Garantiefunktion, Schecks, Wechsel und anderer körperlicher unbarer Zahlungsinstrumente;2;0;1;50;0;1;0;1;0;0;0;0;0;0;0;0;0;0
+553220;Nachmachen, Verfälschen, Verschaffen, Feilhalten oder Überlassen falscher Zahlungskarten mit Garantiefunktion;6;0;2;33.3;1;2;1;2;0;0;0;1;16.7;2;2;0;2;100
+560000;Insolvenzstraftaten §§ 283, 283a-d StGB;2,538;3.5;9;0.4;952;673;379;532;2;0;0;2,518;99.2;2,737;2,188;549;707;25.8
+561000;Bankrott § 283 StGB;1,861;2.5;8;0.4;662;472;283;442;2;0;0;1,845;99.1;2,306;1,847;459;616;26.7
+562000;Besonders schwerer Fall des Bankrotts § 283a StGB;3;0;0;0;1;2;0;0;0;0;0;3;100;11;9;2;1;9.1
+563000;Verletzung der Buchführungspflicht § 283b StGB;628;0.9;0;0;271;183;91;83;0;0;0;624;99.4;734;611;123;164;22.3
+564000;Gläubigerbegünstigung § 283c StGB;27;0;1;3.7;12;10;1;4;0;0;0;27;100;30;23;7;4;13.3
+565000;Schuldnerbegünstigung § 283d StGB;19;0;0;0;6;6;4;3;0;0;0;19;100;25;13;12;4;16
+600000;Sonstige Straftatbestände (StGB);3,227;4.4;90;2.8;1,096;910;446;586;189;0;0;2,973;92.1;3,307;2,200;1,107;1,032;31.2
+620017;Betreiben krimineller Handelsplattformen im Internet § 127 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+633000;Geldwäsche, Verschleierung unrechtmäßig erlangter Vermögenswerte § 261 StGB;2,597;3.6;87;3.4;931;755;365;423;123;0;0;2,502;96.3;2,679;1,680;999;926;34.6
+650000;Wettbewerbs-, Korruptions- und Amtsdelikte §§ 258a, 298-300, 331-353d, 355, 357 StGB;359;0.5;3;0.8;92;97;55;115;0;0;0;331;92.2;446;362;84;58;13
+651000;Vorteilsannahme, Bestechlichkeit §§ 331, 332, 335 StGB;42;0.1;0;0;6;5;4;27;0;0;0;27;64.3;43;34;9;1;2.3
+651200;Bestechlichkeit § 332 StGB;41;0.1;0;0;6;5;3;27;0;0;0;26;63.4;40;31;9;1;2.5
+651300;Bestechlichkeit - gewerbsmäßig oder als Mitglied einer Bande § 335 Abs. 2 Nr. 3 StGB;1;0;0;0;0;0;1;0;0;0;0;1;100;3;3;0;0;0
+651400;Alle sonstigen besonders schweren Fälle der Bestechlichkeit § 335 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+652000;Vorteilsgewährung, Bestechung §§ 333, 334, 335 StGB;120;0.2;3;2.5;32;37;19;32;0;0;0;115;95.8;144;120;24;29;20.1
+652100;Vorteilsgewährung § 333 StGB;14;0;0;0;6;1;1;6;0;0;0;13;92.9;15;13;2;0;0
+652200;Bestechung § 334 StGB;105;0.1;3;2.9;26;36;17;26;0;0;0;101;96.2;116;99;17;28;24.1
+652300;Bestechung - gewerbsmäßig oder als Mitglied einer Bande nach § 335 Abs. 2 Nr. 3 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0
+652400;Alle sonstigen besonders schweren Fälle der Bestechung nach § 335 StGB;1;0;0;0;0;0;1;0;0;0;0;1;100;12;8;4;1;8.3
+656000;Wettbewerbsbeschränkende Absprachen bei Ausschreibungen § 298 StGB;25;0;0;0;8;4;9;4;0;0;0;22;88;48;41;7;0;0
+657000;Bestechlichkeit und Bestechung im geschäftlichen Verkehr und im Gesundheitswesen §§ 299, 299a, 299b und 300 StGB;172;0.2;0;0;46;51;23;52;0;0;0;167;97.1;218;172;46;28;12.8
+657100;Bestechlichkeit und Bestechung § 299 StGB;61;0.1;0;0;18;10;7;26;0;0;0;58;95.1;103;90;13;14;13.6
+657200;Bestechlichkeit und Bestechung, gewerbsmäßig oder als Mitglied einer Bande § 300 Satz 2 Nr. 2 StGB;10;0;0;0;7;2;0;1;0;0;0;10;100;15;14;1;7;46.7
+657300;Bestechlichkeit und Bestechung, Vorteil großen Ausmaßes § 300 Satz 2 Nr. 1 StGB;41;0.1;0;0;4;29;1;7;0;0;0;40;97.6;29;25;4;7;24.1
+657400;Bestechlichkeit im Gesundheitswesen;54;0.1;0;0;14;9;13;18;0;0;0;53;98.1;62;37;25;0;0
+657500;Bestechung im Gesundheitswesen;6;0;0;0;3;1;2;0;0;0;0;6;100;11;8;3;0;0
+663000;Wucher § 291 StGB;51;0.1;0;0;16;17;9;6;3;0;0;36;70.6;54;52;2;21;38.9
+670000;Alle sonstigen Straftaten gemäß StGB - ohne Verkehrsdelikte -;220;0.3;0;0;57;41;17;42;63;0;0;104;47.3;131;108;23;30;22.9
+670079;Sonstige weitere Straftaten gemäß StGB;1;0;0;0;0;0;0;1;0;0;0;1;100;1;0;1;0;0
+674200;Datenveränderung, Computersabotage §§ 303a, 303b StGB;28;0;0;0;6;2;0;11;9;0;0;7;25;7;7;0;2;28.6
+674210;Datenveränderung;21;0;0;0;2;1;0;11;7;0;0;5;23.8;5;5;0;2;40
+674220;Computersabotage;7;0;0;0;4;1;0;0;2;0;0;2;28.6;2;2;0;0;0
+676000;Straftaten gegen die Umwelt §§ 324, 324a, 325-330a StGB;77;0.1;0;0;40;18;10;9;0;0;0;68;88.3;94;82;12;20;21.3
+676010;Bodenverunreinigung 324a StGB;11;0;0;0;4;3;1;3;0;0;0;9;81.8;13;13;0;3;23.1
+676011;Bodenverunreinigung;9;0;0;0;4;2;1;2;0;0;0;7;77.8;11;11;0;2;18.2
+676012;Bodenverunreinigung - besonders schwerer Fall;2;0;0;0;0;1;0;1;0;0;0;2;100;2;2;0;1;50
+676100;Gewässerverunreinigung § 324 StGB;3;0;0;0;1;0;0;2;0;0;0;1;33.3;1;1;0;0;0
+676101;Gewässerverunreinigung;3;0;0;0;1;0;0;2;0;0;0;1;33.3;1;1;0;0;0
+676102;Gewässerverunreinigung - besonders schwerer Fall;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+676200;Luftverunreinigung § 325 StGB;1;0;0;0;0;0;1;0;0;0;0;1;100;1;1;0;1;100
+676201;Luftverunreinigung;1;0;0;0;0;0;1;0;0;0;0;1;100;1;1;0;1;100
+676202;Luftverunreinigung - besonders schwerer Fall;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+676300;Verursachen von Lärm, Erschütterungen und nichtionisierenden Strahlen § 325a StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+676301;Verursachen von Lärm, Erschütterungen und nichtionisierenden Strahlen;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+676302;Verursachen von Lärm, Erschütterungen und nichtionisierenden Strahlen - besonders schwerer Fall;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+676400;Unerlaubter Umgang mit Abfällen § 326 außer Abs. 2 StGB;48;0.1;0;0;26;12;7;3;0;0;0;43;89.6;64;53;11;14;21.9
+676410;Unerlaubter Umgang mit Abfällen § 326 Abs. 1 StGB;48;0.1;0;0;26;12;7;3;0;0;0;43;89.6;64;53;11;14;21.9
+676411;Unerlaubter Umgang mit Abfällen § 326 Abs. 1 StGB;40;0.1;0;0;21;10;6;3;0;0;0;37;92.5;52;41;11;14;26.9
+676412;Unerlaubter Umgang mit Abfällen § 326 Abs. 1 StGB - besonders schwerer Fall;8;0;0;0;5;2;1;0;0;0;0;6;75;13;13;0;0;0
+676420;Unerlaubter Umgang mit Abfällen § 326 Abs. 3 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+676421;Unerlaubter Umgang mit Abfällen § 326 Abs. 3 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+676422;Unerlaubter Umgang mit Abfällen § 326 Abs. 3 StGB - besonders schwerer Fall;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+676500;Unerlaubtes Betreiben von Anlagen § 327 StGB;13;0;0;0;8;3;1;1;0;0;0;13;100;16;15;1;2;12.5
+676510;Unerlaubtes Betreiben von Anlagen § 327 StGB Abs. 1 (kerntechnische Anlage und Kernbrennstoffe);0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+676511;Unerlaubtes Betreiben von Anlagen § 327 Abs. 1 (kerntechnische Anlage und Kernbrennstoffe);0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+676512;Unerlaubtes Betreiben von Anlagen § 327 Abs. 1 (kerntechnische Anlage und Kernbrennstoffe) - besonders schwerer Fall;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+676520;Unerlaubtes Betreiben von Anlagen § 327 Abs. 2;13;0;0;0;8;3;1;1;0;0;0;13;100;16;15;1;2;12.5
+676521;Unerlaubtes Betreiben von Anlagen § 327 Abs. 2;11;0;0;0;7;3;1;0;0;0;0;11;100;13;12;1;2;15.4
+676522;Unerlaubtes Betreiben von Anlagen § 327 Abs. 2 - besonders schwerer Fall;2;0;0;0;1;0;0;1;0;0;0;2;100;3;3;0;0;0
+676600;Unerlaubter Umgang mit radioaktiven Stoffen und anderen gefährlichen Gütern § 328 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+676610;Unerlaubter Umgang mit radioaktiven Stoffen § 328 StGB Abs. 1 und 2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+676611;Unerlaubter Umgang mit radioaktiven Stoffen § 328 StGB Abs. 1 und 2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+676612;Unerlaubter Umgang mit radioaktiven Stoffen § 328 StGB Abs. 1 und 2 - besonders schwerer Fall;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+676620;Unerlaubter Umgang mit anderen gefährlichen Stoffen und Gütern § 328 Abs. 3 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+676621;Unerlaubter Umgang mit anderen gefährlichen Stoffen und Gütern § 328 Abs. 3 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+676622;Unerlaubter Umgang mit anderen gefährlichen Stoffen und Gütern § 328 Abs. 3 StGB - besonders schwerer Fall;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+676700;Gefährdung schutzbedürftiger Gebiete § 329 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+676701;Gefährdung schutzbedürftiger Gebiete;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+676702;Gefährdung schutzbedürftiger Gebiete - besonders schwerer Fall;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+676800;Abfallein- / -aus- und -durchfuhr § 326 Abs. 2 StGB;1;0;0;0;1;0;0;0;0;0;0;1;100;2;2;0;0;0
+676810;Ungenehmigte Einfuhr von Abfällen § 326 Abs. 2 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+676811;Ungenehmigte Einfuhr von Abfällen;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+676812;Ungenehmigte Einfuhr von Abfällen - besonders schwerer Fall;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+676820;Ungenehmigte Ausfuhr von Abfällen § 326 Abs. 2 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+676821;Ungenehmigte Ausfuhr von Abfällen;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+676822;Ungenehmigte Ausfuhr von Abfällen - besonders schwerer Fall;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+676830;Ungenehmigte Durchfuhr von Abfällen § 326 Abs. 2 StGB;1;0;0;0;1;0;0;0;0;0;0;1;100;2;2;0;0;0
+676831;Ungenehmigte Durchfuhr von Abfällen;1;0;0;0;1;0;0;0;0;0;0;1;100;2;2;0;0;0
+676832;Ungenehmigte Durchfuhr von Abfällen - besonders schwerer Fall;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+676900;Schwere Gefährdung durch Freisetzen von Giften § 330a StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+677000;Gemeingefährliche Vergiftung § 314 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+678000;Ausspähen, Abfangen von Daten einschl. Vorbereitungshandlungen und Datenhehlerei §§ 202a, 202b, 202c, 202d StGB;114;0.2;0;0;11;21;7;21;54;0;0;28;24.6;29;19;10;8;27.6
+678010;Ausspähen von Daten § 202a StGB;109;0.1;0;0;11;20;6;20;52;0;0;26;23.9;26;16;10;6;23.1
+678020;Abfangen von Daten § 202b StGB;2;0;0;0;0;1;1;0;0;0;0;2;100;3;3;0;2;66.7
+678030;Vorbereiten des Ausspähens und Abfangens von Daten § 202c StGB;3;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0
+678040;Datenhehlerei;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+679000;Weitere Straftaten mit Umweltrelevanz gemäß StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+679010;Herbeiführen einer Überschwemmung § 313 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+679020;Beschädigung wichtiger Anlagen § 318 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+700000;Strafrechtliche Nebengesetze;5,537;7.6;27;0.5;1,523;1,344;811;1,715;144;0;0;5,199;93.9;6,178;5,107;1,071;1,793;29
+710000;Straftaten gegen strafrechtliche Nebengesetze auf dem Wirtschaftssektor;5,400;7.4;26;0.5;1,488;1,313;783;1,673;143;0;0;5,083;94.1;6,042;5,006;1,036;1,749;28.9
+712000;Straftaten nach AktG, GenG, GmbHG, HGB, RechnungslegungsG, UmwandlungsG, InsO;3,986;5.5;0;0;1,132;1,077;620;1,151;6;0;0;3,930;98.6;4,811;4,002;809;1,375;28.6
+712010;Aktiengesetz;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+712020;Handelsgesetzbuch;23;0;0;0;8;4;2;9;0;0;0;23;100;54;46;8;7;13
+712030;GmbH-Gesetz;108;0.1;0;0;25;33;22;28;0;0;0;106;98.1;114;96;18;21;18.4
+712040;Genossenschaftsgesetz;1;0;0;0;1;0;0;0;0;0;0;1;100;1;1;0;0;0
+712050;Rechnungslegungsgesetz;3;0;0;0;1;1;0;0;1;0;0;2;66.7;2;2;0;1;50
+712060;Umwandlungsgesetz;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+712200;Insolvenzverschleppung § 15a InsO;3,850;5.3;0;0;1,097;1,039;596;1,113;5;0;0;3,798;98.6;4,693;3,900;793;1,355;28.9
+713000;Delikte im Zusammenhang mit Schwarzarbeitsbekämpfungsgesetz und Arbeitnehmerüberlassungsgesetz;31;0;0;0;9;13;6;3;0;0;0;30;96.8;37;32;5;22;59.5
+713010;Arbeitnehmerüberlassungsgesetz;1;0;0;0;0;0;1;0;0;0;0;1;100;2;2;0;0;0
+713030;Schwarzarbeitsbekämpfungsgesetz;30;0;0;0;9;13;5;3;0;0;0;29;96.7;35;30;5;22;62.9
+714000;Straftaten i.V.m. dem Bankgewerbe sowie Wertpapierhandelsgesetz (Güd-Kreditwesen, BörsenG, DepotG, PfandBG, § 35 BundesbankG, ZAG);111;0.2;0;0;27;29;15;33;7;0;0;101;91;169;142;27;47;27.8
+714010;Bundesbankgesetz;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+714020;Börsengesetz;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+714030;Pfandbriefgesetz;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+714040;Kreditwesengesetz;42;0.1;0;0;16;10;3;11;2;0;0;39;92.9;61;55;6;13;21.3
+714050;Depotgesetz;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+714060;Wertpapierhandelsgesetz;31;0;0;0;8;10;0;10;3;0;0;27;87.1;56;45;11;6;10.7
+714070;Zahlungsdiensteaufsichtsgesetz;38;0.1;0;0;3;9;12;12;2;0;0;35;92.1;53;43;10;28;52.8
+715000;Straftaten im Zusammenhang mit Urheberrechtsbestimmungen (UrheberrechtsG, MarkenG, § 23 Abs. 1, 2 und 4 GeschGehG, DesignG,GebrauchsmusterG, KunsturheberrechtsG, PatentG, HalbleiterschutzG);928;1.3;23;2.5;267;143;119;273;126;0;0;730;78.7;702;565;137;233;33.2
+715010;Markengesetz;464;0.6;20;4.3;155;58;58;185;8;0;0;416;89.7;313;250;63;170;54.3
+715020;Designgesetz;1;0;0;0;0;0;1;0;0;0;0;1;100;1;1;0;0;0
+715030;Gebrauchsmustergesetz;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+715040;Kunsturheberrechtsgesetz;19;0;0;0;1;3;5;9;1;0;0;9;47.4;9;6;3;2;22.2
+715050;Urheberrechtsgesetz -sonstige Verstöße- (ohne Schl. 715100 u. 715200);184;0.3;1;0.5;11;10;14;36;113;0;0;55;29.9;65;56;9;18;27.7
+715060;Patentgesetz;2;0;0;0;0;0;1;1;0;0;0;2;100;2;1;1;1;50
+715070;Halbleiterschutzgesetz;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+715100;Softwarepiraterie (private Anwendung z.B. Computerspiele);22;0;0;0;9;8;2;3;0;0;0;22;100;23;22;1;3;13
+715200;Softwarepiraterie in Form gewerbsmäßigen Handelns;64;0.1;0;0;22;18;11;13;0;0;0;62;96.9;46;39;7;17;37
+715300;Verletzung von Geschäftsgeheimnissen § 23 Abs. 1 Nr. 3 und Abs. 4 GeschGehG;73;0.1;1;1.4;32;18;13;9;1;0;0;71;97.3;94;79;15;7;7.4
+715400;Verletzung von Geschäftsgeheimnissen § 23 Abs. 1 Nr. 1, 2, Abs. 2 und 4 GeschGehG;99;0.1;1;1;37;28;14;17;3;0;0;92;92.9;149;111;38;15;10.1
+716000;Straftaten im Zusammenhang mit Lebens- und Arzneimitteln (z.B. Lebensmittel- und Futtermittelgesetzbuch, ArzneimittelG, WeinG);230;0.3;2;0.9;29;18;1;182;0;0;0;196;85.2;213;177;36;54;25.4
+716030;Straftaten nach dem Gentechnikgesetz;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+716079;Sonstige Straftaten im Zusammenhang mit Lebensmitteln - soweit nicht unter anderen Schlüsseln zu erfassen -;8;0;0;0;0;1;0;7;0;0;0;8;100;5;5;0;2;40
+716100;Straftaten nach dem Lebensmittel- und Futtermittelgesetzbuch;181;0.2;0;0;27;10;1;143;0;0;0;162;89.5;178;150;28;48;27
+716300;Straftaten nach dem Weingesetz;1;0;0;0;0;0;0;1;0;0;0;1;100;1;1;0;0;0
+716400;Straftaten nach dem Arzneimittelgesetz (AMG);33;0;2;6.1;1;6;0;26;0;0;0;19;57.6;24;17;7;4;16.7
+716420;illegale Arzneimittel in der legalen Verteilerkette (iAMidlegV);2;0;0;0;0;0;0;2;0;0;0;1;50;2;2;0;2;100
+716421;Inverkehrbringen von bedenklichen Arzneimitteln (iAMidlegV);2;0;0;0;0;0;0;2;0;0;0;1;50;2;2;0;2;100
+716422;Inverkehrbringen von oder Handel treiben mit gefälschten Arzneimitteln, Wirkstoffen (iAMidlegV);0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+716423;Inverkehrbringen nicht zugelassener Arzneimittel (iAMidlegV);0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+716430;Arzneimittel in der illegalen Verteilerkette (AMidillegV);7;0;2;28.6;1;4;0;2;0;0;0;6;85.7;7;5;2;0;0
+716431;Inverkehrbringen von bedenklichen Arzneimitteln (AMidillegV);1;0;0;0;0;1;0;0;0;0;0;1;100;1;1;0;0;0
+716432;Inverkehrbringen von oder Handel treiben mit gefälschten Arzneimitteln, Wirkstoffen (AMidillegV);0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+716433;Inverkehrbringen nicht zugelassener Arzneimittel, Illegaler Handel oder Abgabe von verschreibungspflichtigen Arzneimitteln §§ 96 Nr. 5, 95 (1) 4 AMG (AMidillegV);6;0;2;33.3;1;3;0;2;0;0;0;5;83.3;6;4;2;0;0
+716440;Herstellen gefälschter Arzneimittel oder Wirkstoffe;1;0;0;0;0;0;0;1;0;0;0;1;100;1;1;0;0;0
+716450;Illegaler Umgang mit Tierarzneimitteln;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+716460;Straftaten nach dem AMG § 95 Absatz 1 Nr. 2, 3, 5, 5a;16;0;0;0;0;0;0;16;0;0;0;4;25;4;3;1;0;0
+716470;Straftaten nach dem AMG § 96 ohne die Nummern 5, 15-18a und 20b;7;0;0;0;0;2;0;5;0;0;0;7;100;10;6;4;2;20
+716500;Straftaten nach dem Anti-Doping-Gesetz (AntiDopG);7;0;0;0;1;1;0;5;0;0;0;6;85.7;6;5;1;0;0
+716510;Herstellen, Inverkehrbringen, Verschreiben, Anwendung bei Dritten, Handel treiben, veräußern, abgeben von Dopingmitteln;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+716520;Erwerb, Besitz, Verbringung von Dopingmitteln;7;0;0;0;1;1;0;5;0;0;0;6;85.7;6;5;1;0;0
+716530;Selbstdoping (anwenden/ anwenden lassen), Erwerb und Besitz von Dopingmitteln, zur Verschaffung eines Vorteils im Wettbewerb;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+719000;sonstige Straftaten (Nebengesetze) auf dem Wirtschaftssektor (z.B. Rennwett- und LotterieG, § 23 Abs. 3 GeschGehG und UWG § 16, VersicherungsaufsichtsG, WirtschaftsstrafG, Gewerbeordnung);114;0.2;1;0.9;24;33;22;31;4;0;0;96;84.2;125;101;24;24;19.2
+719010;Rennwett- und Lotteriegesetz;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+719040;Gewerbeordnung;6;0;0;0;1;3;1;1;0;0;0;6;100;7;6;1;0;0
+719079;Sonstige Nebengesetze auf dem Wirtschaftssektor;42;0.1;1;2.4;10;11;7;13;1;0;0;40;95.2;59;47;12;16;27.1
+719200;Verletzung von Geschäftsgeheimnissen § 23 Abs. 3 GeschGehG, strafbare Werbung § 16 UWG;66;0.1;0;0;13;19;14;17;3;0;0;50;75.8;59;48;11;8;13.6
+720000;Straftaten gegen sonstige strafrechtliche Nebengesetze -ohne Verkehrsdelikte-;70;0.1;1;1.4;8;18;16;27;1;0;0;62;88.6;79;61;18;36;45.6
+720005;Missbräuchliches Herstellen, Vertreiben oder Ausgeben von amtlichen Kennzeichen § 22a StVG;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+720009;Telekommunikation-Telemedien-Datenschutz-Gesetz;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+720012;Straftaten § 1 EU-Bestechungsgesetz (EUBestG);0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+720013;Straftaten gemäß § 2 des Gesetzes zur Bekämpfung internationaler Bestechung (IntBestG);0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;1;100
+720079;Sonstige strafrechtliche Nebengesetze;60;0.1;1;1.7;4;15;16;25;0;0;0;55;91.7;72;54;18;34;47.2
+726000;Straftaten gegen das Sprengstoff-, das Waffen-, das Kriegswaffenkontrollgesetz und das Ausgangsstoffgesetz;4;0;0;0;3;1;0;0;0;0;0;4;100;4;4;0;1;25
+726100;Straftaten gegen das Sprengstoffgesetz;2;0;0;0;1;1;0;0;0;0;0;2;100;2;2;0;0;0
+726300;Straftaten gegen das Kriegswaffenkontrollgesetz;2;0;0;0;2;0;0;0;0;0;0;2;100;2;2;0;1;50
+726400;Straftaten gegen das Ausgangsstoffgesetz;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+727000;Straftaten nach dem Kulturgutschutzgesetz (KGSG);0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+727100;Illegale Ausfuhr von Kulturgut § 83 Abs. 1 Nr. 1, 2 und Abs. 2 KGSG;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+727200;Illegale Einfuhr von Kulturgut § 83 Abs. 1 Nr. 3 KGSG;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+727300;Illegaler Handel mit Kulturgut § 83 Abs. 1 Nr. 4, 5 und Abs. 5 KGSG;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+727400;Beschädigung, Zerstörung oder Veränderung von Kulturgut § 83 Abs. 3 KGSG;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+728000;Straftaten gegen das Bundes- (oder Landes-) Datenschutzgesetz;5;0;0;0;0;2;0;2;1;0;0;2;40;2;2;0;0;0
+728010;Straftaten gegen Landesdatenschutzgesetz;1;0;0;0;0;1;0;0;0;0;0;1;100;1;1;0;0;0
+728020;Straftaten gegen das Bundesdatenschutzgesetz;4;0;0;0;0;1;0;2;1;0;0;1;25;1;1;0;0;0
+740000;Straftaten gegen strafrechtliche Nebengesetze auf dem Umwelt- und Verbraucherschutzsektor (neben Schlüssel 716000);67;0.1;0;0;27;13;12;15;0;0;0;54;80.6;60;43;17;9;15
+740001;Transplantationsgesetz (unerlaubter Organhandel);0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+740002;Hundeverbringungs- und -einfuhrbeschränkungsgesetz;1;0;0;0;0;0;0;1;0;0;0;1;100;1;0;1;0;0
+740003;Verstoß gegen das Heilpraktikergesetz;11;0;0;0;0;0;0;11;0;0;0;7;63.6;9;2;7;3;33.3
+740079;Sonstiges strafrechtliches Nebengesetz auf dem Umwelt- und Verbraucherschutzsektor (ohne Lebensmittel);3;0;0;0;1;1;0;1;0;0;0;1;33.3;1;1;0;0;0
+741000;Straftaten nach dem ChemikalienG;17;0;0;0;11;5;1;0;0;0;0;17;100;19;17;2;3;15.8
+741001;Straftaten nach § 27 ChemikalienG i.V.m. der Gefahrstoffverordnung;14;0;0;0;10;4;0;0;0;0;0;14;100;11;10;1;2;18.2
+741079;Sonstige Straftaten nach dem ChemikalienG;3;0;0;0;1;1;1;0;0;0;0;3;100;8;7;1;1;12.5
+742000;Straftaten nach dem Infektionsschutz- und Tiergesundheitsgesetz;12;0;0;0;1;1;10;0;0;0;0;10;83.3;11;7;4;1;9.1
+742010;Infektionsschutzgesetz;12;0;0;0;1;1;10;0;0;0;0;10;83.3;11;7;4;1;9.1
+742020;Tiergesundheitsgesetz (TierGesG);0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+743000;Straftaten nach dem Bundesnaturschutz-, Tierschutz-, Bundesjagd- und PflanzenschutzG;20;0;0;0;13;6;0;1;0;0;0;15;75;15;12;3;1;6.7
+743010;Bundesnaturschutzgesetz;2;0;0;0;1;1;0;0;0;0;0;1;50;2;1;1;0;0
+743020;Tierschutzgesetz;17;0;0;0;11;5;0;1;0;0;0;13;76.5;12;10;2;1;8.3
+743030;Bundesjagdgesetz;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+743040;Pflanzenschutzgesetz;1;0;0;0;1;0;0;0;0;0;0;1;100;1;1;0;0;0
+744000;Straftaten nach dem Abfallverbringungsgesetz (AbfVerbrG);3;0;0;0;1;0;1;1;0;0;0;3;100;4;4;0;1;25
+744100;Illegale Verbringung gefährlicher Abfälle § 18a AbfVerbrG;2;0;0;0;0;0;1;1;0;0;0;2;100;3;3;0;1;33.3
+744200;Illegale Verbringung nichtgefährlicher Abfälle § 18b AbfVerbrG;1;0;0;0;1;0;0;0;0;0;0;1;100;1;1;0;0;0
+890000;Straftaten insgesamt, jedoch ohne Verstöße gegen das Aufenthalts-, das Asyl- und das Freizügigkeitsgesetz/EU (Schlüssel 725000);73,114;100;2,746;3.8;43,878;7,537;7,112;12,327;2,260;0;0;67,129;91.8;26,770;19,367;7,403;7,687;28.7
+893000;Wirtschaftskriminalität und zwar:;73,114;100;2,746;3.8;43,878;7,537;7,112;12,327;2,260;0;0;67,129;91.8;26,770;19,367;7,403;7,687;28.7
+893100;Wirtschaftskriminalität bei Betrug;53,874;73.7;2,601;4.8;38,380;3,141;2,560;7,982;1,811;0;0;48,826;90.6;11,797;8,484;3,313;3,753;31.8
+893200;Insolvenzstraftaten gemäß StGB und Nebenstrafrecht (Wikri);6,388;8.7;9;0.1;2,049;1,712;975;1,645;7;0;0;6,316;98.9;6,069;4,966;1,103;1,699;28
+893300;Wirtschaftskriminalität im Anlage- und Finanzierungsbereich pp.;3,412;4.7;124;3.6;983;623;386;989;431;0;0;1,633;47.9;1,166;958;208;370;31.7
+893400;Wettbewerbsdelikte (Wikri);1,019;1.4;23;2.3;288;166;142;294;129;0;0;802;78.7;809;654;155;241;29.8
+893500;Wirtschaftskriminalität im Zusammenhang mit Arbeitsverhältnissen;3,989;5.5;0;0;1,487;1,006;759;732;5;0;0;3,929;98.5;2,628;2,100;528;868;33
+893600;Betrug und Untreue im Zusammenhang mit Beteiligungen und Kapitalanlagen (Wikri);3,169;4.3;103;3.3;935;557;326;933;418;0;0;1,417;44.7;806;662;144;231;28.7
+895000;Menschenhandel insgesamt;2;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0
+897000;Cybercrime;1,412;1.9;266;18.8;142;173;113;681;303;0;0;384;27.2;408;277;131;141;34.6
+897100;Computerbetrug § 263a StGB;1,118;1.5;260;23.3;95;120;96;638;169;0;0;296;26.5;320;212;108;114;35.6
+898000;Straftaten insgesamt auf dem Umwelt- und Verbraucherschutzsektor;374;0.5;2;0.5;96;49;23;206;0;0;0;318;85;352;289;63;82;23.3
+898100;Umweltstraftaten gemäß 29. Abschnitt des StGB;77;0.1;0;0;40;18;10;9;0;0;0;68;88.3;94;82;12;20;21.3
+898200;Sonstige Straftaten nach dem StGB mit Umweltrelevanz;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+898300;Straftaten auf dem Umwelt- und Verbraucherschutzsektor gemäß strafrechtlicher Nebengesetze;297;0.4;2;0.7;56;31;13;197;0;0;0;250;84.2;273;220;53;63;23.1
