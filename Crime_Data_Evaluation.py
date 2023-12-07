@@ -8,8 +8,11 @@ os.chdir(wd + '/Datasets/PKS/2022/Zeitliche-Gliederung')
 
 # In the csv file commas are used to structure large numbers
 # dots are used as seperator for decimal numbers eg 3.5%
-data = pd.read_csv('T01-Faelle.csv', encoding='latin_1', skiprows=0, header=1,
-                   sep=';', decimal='.', thousands=',')
+# data = pd.read_csv('T01-Faelle.csv', encoding='latin_1', skiprows=0, header=1,
+#                    sep=';', decimal='.', thousands=',')
+
+data = pd.read_excel('T01-Faelle.xlsx', skiprows=14, header=0, decimal='.', thousands=',')
+
 
 # Get an overview how the crimes are distinguished
 # crimes = []
@@ -21,18 +24,35 @@ data = pd.read_csv('T01-Faelle.csv', encoding='latin_1', skiprows=0, header=1,
 # print('Number of different categories of crimes: %i' % len(crimes))
 
 # Get an overview of the crime keys
-keys = []
-for key in list(data['Schluessel']):
-    if key not in keys:
-        keys.append(key)
+# keys = []
+# for key in list(data[1]):
+#     if key not in keys:
+#         keys.append(key)
+#
+# print(keys)
+# print(len(keys))
 
-print(keys)
-print(len(keys))
 
-# Create new DataFrames with different crimes
-# TODO: CSV file Problem: bei den Schluesseln sind die leading 0 entfernt -> fixen
-Straf_geg_Leben = data[data['Schluessel'].str.startswith('0')]
-print(Straf_geg_Leben.head())
+# Rename data columns
+new_names = ['Schluessel', 'Straftat', 'Jahr', 'erfasste Faelle', 'HZ', 'Versuche - Anzahl',
+             'Versuche - Anteil in %', 'mit Schusswaffe gedroht', 'mit Schusswaffe geschossen',
+             'Aufklaerungsquote in %', 'Tatverdaechtige insgesamt', 'Nichtdeutsche Tatverdaechtige - Anzahl',
+             'Nichtdeutsche Tatverdaechtige - Anteil in %']
+
+for old_name, new_name in zip(data.columns, new_names):
+    data.rename(columns={old_name: new_name}, inplace=True)
+
+print(data.head())
+
+
+
+# Summarize/Categorize Crimes in new DataFrames
+
+straf_geg_leben = data[data['Schluessel'].str.startswith('0')]
+print(len(straf_geg_leben))
+
+print(straf_geg_leben.head())
+
 
 
 # Print some crimes
