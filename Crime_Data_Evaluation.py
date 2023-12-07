@@ -47,7 +47,6 @@ print(data.head())
 
 
 # Summarize/Categorize Crimes in new DataFrames
-
 straf_geg_leben = data[data['Schluessel'].str.startswith('0')]
 print(len(straf_geg_leben))
 
