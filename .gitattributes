@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# clean jupyter notebooks before comitting (does not affect local files):
+# add the filter to your git config by running the following command in your repository:
+# git config filter.strip-notebook-output.clean 'jupyter nbconvert --ClearOutputPreprocessor.enabled=True --to=notebook --stdin --stdout --log-level=ERROR'
+*.ipynb filter=strip-notebook-output
