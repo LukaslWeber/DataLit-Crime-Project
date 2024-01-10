@@ -1,0 +1,1141 @@
+1;2;3;4;5;6;7;8;9;10;11;12;13;14;15;16;17;18
+Schluessel;Straftat;Anzahl vollendete Faelle;%-Anteil an allen Faellen;Tatortverteilung bis unter 20000 Einwohner;Tatortverteilung 20000 bis unter 100000 Einwohner;Tatortverteilung 100000 bis unter 500000 Einwohner;Tatortverteilung 500000 und mehr Einwohner;Tatortverteilung unbekannt;mit Schusswaffe gedroht;mit Schusswaffe geschossen;Aufklaerung - Anzahl Faelle;Aufklaerung in % (Aufklaerungsquote) ;Tatverdaechtige insgesamt;Tatverdaechtige maennlich;Tatverdaechtige weiblich;Anzahl nichtdeutsche Tatverdaechtige;Anteil nichtdeutsche Tatverdaechtige an Gesamtzahl in %
+------;Straftaten insgesamt;5,214,387;100;1,213,314;1,405,119;1,023,898;1,460,870;111,186;3,649;4,061;3,071,519;58.9;2,023,426;1,510,733;512,693;749,181;37
+0;Straftaten gegen das Leben;1,307;0;391;420;238;250;8;0;53;1,082;82.8;1,371;1,013;358;324;23.6
+10000;Mord § 211 StGB;211;0;66;43;39;59;4;0;29;200;94.8;256;215;41;94;36.7
+10079;Sonstiger Mord;200;0;60;43;39;54;4;0;28;190;95;239;199;40;83;34.7
+11000;Mord im Zusammenhang mit Raubdelikten;6;0;4;0;0;2;0;0;1;5;83.3;13;12;1;10;76.9
+12000;Mord im Zusammenhang mit Sexualdelikten;5;0;2;0;0;3;0;0;0;5;100;5;5;0;1;20
+20000;Totschlag und Tötung auf Verlangen §§ 212, 213, 216 StGB;302;0;91;90;41;79;1;0;23;293;97;328;261;67;96;29.3
+20010;Totschlag § 212 StGB;282;0;85;83;39;75;0;0;19;273;96.8;312;248;64;95;30.4
+20020;Minder schwerer Totschlag § 213 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+20030;Tötung auf Verlangen § 216 StGB;20;0;6;7;2;4;1;0;4;20;100;17;14;3;1;5.9
+30000;Fahrlässige Tötung § 222 StGB - nicht i.V.m. Verkehrsunfall -;748;0;225;270;147;104;2;0;1;543;72.6;745;508;237;111;14.9
+40000;Abbruch der Schwangerschaft §§ 218, 218b, 218c, 219a, 219b StGB;46;0;9;17;11;8;1;0;0;46;100;46;33;13;25;54.3
+40010;Schwangerschaftsabbruch § 218 StGB;45;0;9;17;10;8;1;0;0;45;100;45;33;12;25;55.6
+40020;Schwangerschaftsabbruch ohne ärztliche Feststellung, unrichtige ärztliche Feststellung § 218b StGB;1;0;0;0;1;0;0;0;0;1;100;1;0;1;0;0
+40030;Ärztliche Pflichtverletzung § 218c StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+40040;Werbung für den Abbruch der Schwangerschaft § 219a StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+40050;Inverkehrbringen von Mitteln Schwangerschaftsabbruch § 219b StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+100000;Straftaten gegen die sexuelle Selbstbestimmung insgesamt;115,294;2.2;34,831;32,466;20,048;22,549;5,400;26;1;96,152;83.4;86,964;77,432;9,532;22,979;26.4
+110000;Straftaten gegen die sexuelle Selbstbestimmung §§ 174, 174a, 174b, 174c, 177, 178, 184i, 184j StGB;35,221;0.7;8,595;10,012;7,300;8,935;379;25;1;28,290;80.3;26,641;26,087;554;9,843;36.9
+111000;Vergewaltigung, sexuelle Nötigung und sexueller Übergriff im besonders schweren Fall einschl. mit Todesfolge §§ 177, 178 StGB;10,909;0.2;2,790;3,024;2,201;2,712;182;18;1;9,221;84.5;9,323;9,199;124;3,350;35.9
+111700;Vergewaltigung § 177 Abs. 6, 7, 8 StGB;10,296;0.2;2,645;2,845;2,049;2,588;169;18;1;8,715;84.6;8,780;8,671;109;3,176;36.2
+111710;Vergewaltigung § 177 Abs. 6 Nr. 1, 2 StGB (ohne Schlüssel 111730);8,504;0.2;2,239;2,315;1,680;2,137;133;8;1;7,276;85.6;7,306;7,218;88;2,661;36.4
+111720;Vergewaltigung im besonders schweren Fall § 177 Abs. 6 Nr. 1, 2 i. V. m. Abs. 7, 8 StGB;565;0;121;204;123;102;15;10;0;466;82.5;563;553;10;236;41.9
+111730;Vergewaltigung von widerstandsunfähigen Personen (§ 177 Abs. 2 Nr. 1, Abs. 4) gem. § 177 Abs. 6 Nr. 1, 2 StGB;1,227;0;285;326;246;349;21;0;0;973;79.3;974;962;12;299;30.7
+111800;Sexueller Übergriff und sexuelle Nötigung im besonders schweren Fall § 177 Abs. 1, 2, 4, 5 i. V. m. Abs. 6 Nr. 2, Abs. 7, 8 StGB;612;0;145;179;152;123;13;0;0;505;82.5;572;556;16;180;31.5
+111810;Sexueller Übergriff im besonders schweren Fall § 177 Abs. 1, 2 (ohne Nr. 1) i. V. m. Abs. 6 Nr. 2, Abs. 7, 8 StGB;148;0;42;39;28;36;3;0;0;120;81.1;139;135;4;41;29.5
+111820;Sexuelle Nötigung im besonders schweren Fall § 177 Abs. 5 i.V.m. Abs. 6 Nr. 2, Abs. 7, 8 StGB;342;0;82;99;94;58;9;0;0;291;85.1;323;317;6;109;33.7
+111830;Sexueller Übergriff an widerstandsunfähigen Personen im besonders schweren Fall § 177 Abs. 2 Nr. 1, Abs. 4 i. V. m. Abs. 6 Nr. 2, Abs. 7, 8 StGB;122;0;21;41;30;29;1;0;0;94;77;112;106;6;31;27.7
+111900;Sexueller Übergriff, sexuelle Nötigung und Vergewaltigung mit Todesfolge § 178 StGB;1;0;0;0;0;1;0;0;0;1;100;1;1;0;0;0
+112100;Sexueller Übergriff und sexuelle Nötigung § 177 Abs. 1, 2, 4, 5, 9 StGB;6,139;0.1;1,579;1,668;1,095;1,696;101;5;0;5,058;82.4;5,065;4,940;125;1,679;33.1
+112110;Sexueller Übergriff § 177 Abs. 1, 2 (ohne Nr. 1), 9 StGB;3,089;0.1;778;774;479;1,017;41;3;0;2,559;82.8;2,544;2,497;47;880;34.6
+112120;Sexuelle Nötigung § 177 Abs. 5, 9 StGB;2,382;0;606;682;468;573;53;2;0;1,946;81.7;1,991;1,921;70;695;34.9
+112130;Sexueller Übergriff an widerstandsunfähigen Personen § 177 Abs. 2 Nr. 1, Abs. 4, 9 StGB;668;0;195;212;148;106;7;0;0;553;82.8;567;556;11;121;21.3
+113000;Sexueller Missbrauch von Schutzbefohlenen pp., unter Ausnutzung einer Amtsstellung oder eines Vertrauensverhältnisses §§ 174, 174a-c StGB;696;0;209;235;112;125;15;0;0;658;94.5;531;491;40;88;16.6
+113010;Sexueller Missbrauch von Schutzbefohlenen ab 14 Jahren § 174 StGB;424;0;162;106;68;74;14;0;0;396;93.4;354;332;22;62;17.5
+113020;Sexueller Missbrauch von Gefangenen/Verwahrten usw. ab 14 Jahren § 174a StGB;34;0;12;14;5;3;0;0;0;31;91.2;32;27;5;2;6.3
+113030;Sexueller Missbrauch - Ausnutzung einer Amtsstellung zum Nachteil von Personen ab 14 Jahren § 174b StGB;5;0;2;0;0;2;1;0;0;3;60;3;3;0;0;0
+113040;Sexueller Missbrauch - Ausnutzung eines Beratungs-/Behandlungs-/Betreuungsverhältnisses zum Nachteil von Personen ab 14 Jahren § 174c StGB;233;0;33;115;39;46;0;0;0;228;97.9;143;130;13;24;16.8
+114000;Sexuelle Belästigung § 184i StGB;17,465;0.3;4,017;5,081;3,889;4,397;81;2;0;13,348;76.4;12,371;12,097;274;4,942;39.9
+115000;Straftaten aus Gruppen § 184j StGB;12;0;0;4;3;5;0;0;0;5;41.7;18;18;0;11;61.1
+130000;Sexueller Missbrauch §§ 176-176e, 182, 183, 183a StGB;24,198;0.5;7,023;6,671;4,432;5,266;806;1;0;18,467;76.3;15,844;15,053;791;3,636;22.9
+131000;Sexueller Missbrauch von Kindern §§ 176-176e StGB;14,774;0.3;5,028;4,092;2,444;2,463;747;1;0;12,554;85;11,130;10,490;640;1,995;17.9
+131010;Sexueller Missbrauch von Kindern - Anbieten von Kindern gemäß §§ 176 Abs. 1 Nr 3, 176a Abs.2, 176b Abs. 2 StGB;254;0;81;64;46;47;16;0;0;204;80.3;214;194;20;28;13.1
+131011;Sexueller Missbrauch von Kindern - Kinder für sex. Handlungen anbietet, Nachweis verspricht § 176 Abs. 1 Nr. 3 StGB;123;0;35;30;26;27;5;0;0;98;79.7;109;97;12;13;11.9
+131012;Sexueller Missbrauch von Kindern - Kinder für sex. Missbrauch ohne Körperkontakt anbietet, Nachweis verspricht, zur Tat verabredet § 176a Abs. 2 StGB;97;0;32;28;16;16;5;0;0;81;83.5;85;80;5;12;14.1
+131013;Sexueller Missbrauch von Kindern - Kind zum vorbereitenden Einwirken anbietet, Nachweis verspricht, zur Tat verabredet § 176b Abs. 2 StGB;34;0;14;6;4;4;6;0;0;25;73.5;21;18;3;3;14.3
+131100;Sexueller Missbrauch von Kindern - sexuelle Handlungen an Kind/durch Kind vornehmen lässt § 176 Abs 1 Nr. 1 und 2 StGB;5,892;0.1;2,121;1,696;944;990;141;1;0;5,305;90;4,986;4,765;221;981;19.7
+131200;Exhibitionistische/sexuelle Handlungen vor Kindern § 176a Abs. 1 Nr. 1 StGB;1,430;0;385;431;267;331;16;0;0;953;66.6;838;797;41;221;26.4
+131300;Sexueller Missbrauch von Kindern - Täter bestimmt Kind, sexuelle Handlungen an sich selbst vorzunehmen § 176a Abs 1 Nr. 2 StGB;720;0;311;199;106;66;38;0;0;601;83.5;493;461;32;54;11
+131400;"Sexueller Missbrauch von Kindern - Einwirken auf Kinder ohne Körperkontakt § 176a Abs. 1 Nr. 3; 176b Abs. 1 Nr. 1 und 2 StGB";3,789;0.1;1,303;933;643;506;404;0;0;3,088;81.5;2,522;2,366;156;281;11.1
+131410;Sexueller Missbrauch von Kindern - Einwirken auf Kinder ohne Körperkontakt mit dem Kind § 176a Abs. 1 Nr 3 i.V.m. Absatz 3 StGB;3,019;0.1;1,073;782;549;405;210;0;0;2,569;85.1;2,092;1,953;139;227;10.9
+131411;Sexueller Missbrauch von Kindern - Einwirken auf Kind durch pornographischen Inhalt oder entsprechende Reden § 176a Abs. 1 Nr. 3 StGB;2,901;0.1;1,031;744;531;393;202;0;0;2,475;85.3;2,010;1,873;137;222;11
+131412;Versuch des Sexuellen Missbrauchs von Kindern ohne Körperkontakt mit dem Kind (Scheinkindkonstellation) § 176a Abs. 1 nr. 3 i.V.m. Abs. 3 StGB;118;0;42;38;18;12;8;0;0;94;79.7;91;89;2;5;5.5
+131420;Vorbereitung des sexuellen Missbrauchs von Kindern gem § 176b Abs. 1, 3 StGB;770;0;230;151;94;101;194;0;0;519;67.4;469;451;18;56;11.9
+131421;Sexueller Missbrauch von Kindern - Einwirken auf Kind zur Vorbereitung sex. Missbrauchs § 176b Abs. 1 StGB;724;0;224;139;84;87;190;0;0;486;67.1;438;421;17;54;12.3
+131422;Versuch der Vorbereitung des sexuellen Missbrauchs von Kindern (Scheinkindkonstellation) § 176b Abs. 1 i.V.m. Abs. 3 StGB;46;0;6;12;10;14;4;0;0;33;71.7;31;30;1;2;6.5
+131500;Schwerer Sexueller Missbrauch von Kindern - Vollzug des Beischlafs mit einem Kind oder Vornahme einer ähnlichen sexuellen Handlung nach § 176c Abs. 1 Nr. 2 StGB;1,289;0;527;370;189;172;31;0;0;1,186;92;1,131;1,085;46;211;18.7
+131600;Schwerer sexueller Missbrauch von Kindern - Herstellung und Verbreitung pornographischer Inhalte § 176c Abs. 2 StGB;171;0;43;40;19;62;7;0;0;146;85.4;170;151;19;34;20
+131700;Schwerer sexueller Missbrauch von Kindern - sonstige Begehungsweisen gem. § 176c StGB;1,217;0;250;357;228;288;94;0;0;1,062;87.3;1,227;1,118;109;240;19.6
+131710;Schwerer sexueller Missbrauch von Kindern - sonstige Begehungsweisen § 176c Abs. 1 Nr. 1, 3, 4 StGB;1,209;0;246;355;228;286;94;0;0;1,055;87.3;1,220;1,111;109;238;19.5
+131720;Schwerer sexueller Missbrauch von Kindern - mit schwerer körperlicher Misshandlung oder Gefahr des Todes § 176c Abs. 3 StGB;8;0;4;2;0;2;0;0;0;7;87.5;7;7;0;2;28.6
+131800;Sexueller Missbrauch von Kindern mit Todesfolge § 176d StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+131900;Verbreitung und Besitz von Anleitungen zu sexuellem Missbrauch von Kindern § 176e StGB;12;0;7;2;2;1;0;0;0;9;75;9;7;2;0;0
+132000;Exhibitionistische Handlungen und Erregung öffentlichen Ärgernisses §§ 183, 183a StGB;8,469;0.2;1,691;2,307;1,808;2,646;17;0;0;5,109;60.3;4,194;4,061;133;1,539;36.7
+132010;Exhibitionistische Handlungen § 183 StGB;7,092;0.1;1,447;1,990;1,509;2,136;10;0;0;4,100;57.8;3,312;3,312;0;1,225;37
+132020;Erregung öffentlichen Ärgernisses § 183a StGB;1,377;0;244;317;299;510;7;0;0;1,009;73.3;1,012;879;133;360;35.6
+133000;Sexueller Missbrauch von Jugendlichen § 182 StGB;955;0;304;272;180;157;42;0;0;804;84.2;792;771;21;178;22.5
+133100;Sexueller Missbrauch von Jugendlichen gegen Entgelt § 182 Abs. 2 StGB;221;0;70;36;41;63;11;0;0;184;83.3;183;180;3;43;23.5
+133700;Sonstiger Sexueller Missbrauch von Jugendlichen § 182 StGB;734;0;234;236;139;94;31;0;0;620;84.5;616;598;18;136;22.1
+140000;Ausnutzen sexueller Neigung §§ 180, 180a, 181a, 184, 184a, 184b, 184c, 184e, 184f, 184g, 184k, 184l StGB;55,875;1.1;19,213;15,783;8,316;8,348;4,215;0;0;49,395;88.4;46,811;38,576;8,235;10,006;21.4
+140010;Ausübung der verbotenen Prostitution § 184f StGB;607;0;154;144;71;233;5;0;0;579;95.4;399;35;364;322;80.7
+140020;Jugendgefährdende Prostitution § 184g StGB;9;0;3;3;1;1;1;0;0;7;77.8;10;3;7;7;70
+141000;Förderung sexueller Handlungen Minderjähriger oder Ausbeuten von Prostituierten §§ 180, 180a StGB;112;0;27;21;24;35;5;0;0;89;79.5;101;78;23;38;37.6
+141100;Förderung sexueller Handlungen Minderjähriger § 180 StGB;91;0;24;16;20;26;5;0;0;69;75.8;81;66;15;28;34.6
+141110;Förderung sexueller Handlungen Minderjähriger durch Vermittlung oder gegen Entgelt § 180 Abs. 1, Nr. 1, Abs. 2 StGB;55;0;10;9;13;19;4;0;0;40;72.7;51;42;9;20;39.2
+141179;Sonstige Förderung sexueller Handlungen Minderjähriger § 180 StGB;36;0;14;7;7;7;1;0;0;29;80.6;30;24;6;8;26.7
+141200;Ausbeuten von Prostituierten § 180a StGB;21;0;3;5;4;9;0;0;0;20;95.2;20;12;8;10;50
+142000;Zuhälterei § 181a StGB;143;0;19;31;36;53;4;0;0;128;89.5;139;118;21;76;54.7
+143000;Verbreitung pornografischer Inhalte (Erzeugnisse) §§ 184, 184a, 184b, 184c, 184e StGB;54,095;1;18,816;15,291;8,018;7,832;4,138;0;0;47,903;88.6;45,563;37,825;7,738;9,418;20.7
+143010;Sonstige Verbreitung pornografischer Inhalte (Erzeugnisse) § 184 StGB;2,737;0.1;687;692;411;643;304;0;0;2,012;73.5;1,872;1,677;195;348;18.6
+143020;Verbreitung gewalt- oder tierpornografischer Inhalte § 184a StGB;408;0;174;109;47;44;34;0;0;374;91.7;373;325;48;56;15
+143040;Veranstaltung und Besuch kinder- und jugendpornografischer Darbietungen § 184e StGB;2;0;1;0;0;0;1;0;0;2;100;2;1;1;0;0
+143100;Verbreitung pornografischer Inhalte (Erzeugnisse) an Personen unter 18 Jahren § 184 Abs. 1 Nr. 1, 2, 5 StGB;2,220;0;880;621;236;237;246;0;0;1,919;86.4;1,935;1,669;266;192;9.9
+143200;Verbreitung, Erwerb, Besitz und Herstellung kinderpornografischer Inhalte § 184b StGB;42,022;0.8;14,545;12,085;6,445;6,050;2,897;0;0;37,465;89.2;36,362;30,157;6,205;8,027;22.1
+143210;Verbreitung, Erwerb, Besitz und Herstellung von Kinderpornografie § 184b Abs. 1 StGB;23,282;0.4;7,912;6,385;3,721;3,827;1,437;0;0;20,269;87.1;20,101;16,920;3,181;5,568;27.7
+143211;Verbreitung von Kinderpornografie § 184b Abs. 1 Nr. 1 StGB;19,692;0.4;6,601;5,582;3,194;2,940;1,375;0;0;17,105;86.9;17,099;14,512;2,587;4,822;28.2
+143212;Besitzverschaffung für andere von Kinderpornografie § 184b Abs. 1 Nr. 2 StGB;2,824;0.1;1,031;601;397;749;46;0;0;2,467;87.4;2,428;2,043;385;644;26.5
+143213;Herstellung auch ohne Verbreitungsabsicht von Kinderpornografie mit tatsächlichem Geschehen § 184b Abs. 1 Nr. 3 StGB;331;0;118;87;50;70;6;0;0;302;91.2;293;227;66;48;16.4
+143214;Herstellung mit Verbreitungsabsicht von Kinderpornografie § 184b Abs. 1 Nr. 4 StGB;435;0;162;115;80;68;10;0;0;395;90.8;437;275;162;83;19
+143220;Verbreitung und Herstellung von Kinderpornografie gewerbs-/bandenmäßig § 184b Abs. 2 StGB;62;0;10;29;11;7;5;0;0;50;80.6;57;50;7;15;26.3
+143230;Besitz oder sich Verschaffen von Kinderpornografie § 184b Abs. 3 StGB;18,678;0.4;6,623;5,671;2,713;2,216;1,455;0;0;17,146;91.8;17,117;14,027;3,090;2,586;15.1
+143500;Verbreitung, Erwerb, Besitz und Herstellung jugendpornografischer Inhalte § 184c StGB;6,706;0.1;2,529;1,784;879;858;656;0;0;6,131;91.4;6,085;4,994;1,091;932;15.3
+143510;Verbreitung, Erwerb, Besitz und Herstellung von Jugendpornografie § 184c Abs. 1 StGB;3,472;0.1;1,325;976;482;490;199;0;0;3,185;91.7;3,253;2,682;571;599;18.4
+143511;Verbreitung von Jugendpornografie § 184c Abs. 1 Nr. 1 StGB;2,701;0.1;1,020;771;374;358;178;0;0;2,457;91;2,556;2,113;443;479;18.7
+143512;Besitzverschaffung für andere von Jugendpornografie § 184c Abs. 1 Nr. 2 StGB;411;0;164;89;59;88;11;0;0;385;93.7;382;317;65;67;17.5
+143513;Herstellung auch ohne Verbreitungsabsicht mit tatsächlichem Geschehen von Jugendpornografie § 184c Abs. 1 Nr. 3 StGB;168;0;73;58;17;18;2;0;0;163;97;149;133;16;25;16.8
+143514;Herstellung mit Verbreitungsabsicht von Jugendpornografie § 184c Abs. 1 Nr. 4 StGB;192;0;68;58;32;26;8;0;0;180;93.8;195;145;50;35;17.9
+143520;Verbreitung und Herstellung von Jugendpornografie gewerbs-/bandenmäßig § 184c Abs. 2 StGB;24;0;6;7;6;2;3;0;0;21;87.5;26;21;5;5;19.2
+143530;Besitz oder sich Verschaffen von Jugendpornografie § 184c Abs. 3 StGB;3,210;0.1;1,198;801;391;366;454;0;0;2,925;91.1;2,915;2,389;526;342;11.7
+145000;Verletzung des Intimbereichs durch Bildaufnahmen § 184k StGB;877;0;183;285;158;190;61;0;0;659;75.1;636;552;84;156;24.5
+146000;Inverkehrbringen, Erwerb und Besitz von Sexpuppen mit kindlichem Erscheinungsbild § 184l StGB;32;0;11;8;8;4;1;0;0;30;93.8;29;26;3;2;6.9
+200000;Rohheitsdelikte und Straftaten gegen die persönliche Freiheit;805,980;15.5;204,961;233,841;161,509;201,384;4,285;3,458;870;698,141;86.6;600,957;480,651;120,306;193,084;32.1
+210000;Raub, räuberische Erpressung und räuberischer Angriff auf Kraftfahrer §§ 249-252, 255, 316a StGB;30,403;0.6;3,417;7,346;7,510;12,091;39;1,073;74;18,055;59.4;22,758;20,511;2,247;10,101;44.4
+210010;Sonstiger Raub § 249 StGB;2,909;0.1;380;787;806;929;7;4;0;1,632;56.1;2,405;2,181;224;1,027;42.7
+210020;Sonstiger schwerer Raub § 250 StGB;836;0;111;229;209;284;3;69;10;502;60;954;894;60;463;48.5
+210030;Sonstiger Raub mit Todesfolge § 251 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+210040;Räuberischer Diebstahl § 252 StGB;8,049;0.2;970;2,284;2,123;2,671;1;15;2;6,219;77.3;6,980;5,974;1,006;3,531;50.6
+210050;Sonstige räuberische Erpressung § 255 StGB;1,596;0;279;446;382;484;5;73;3;1,226;76.8;1,728;1,619;109;705;40.8
+211000;Raub, räuberische Erpressung auf/gegen Geldinstitute, Postfilialen und -agenturen;54;0;17;20;13;4;0;28;3;28;51.9;30;29;1;10;33.3
+211100;Raub, räuberische Erpressung auf/gegen Geldinstitute (Banken/Sparkassen);26;0;9;6;8;3;0;16;1;19;73.1;21;21;0;9;42.9
+211110;Raub auf Geldinstitute (Banken/Sparkassen) § 249 StGB;2;0;1;0;1;0;0;1;0;1;50;3;3;0;0;0
+211120;Schwerer Raub auf Geldinstitute (Banken/Sparkassen) § 250 StGB;7;0;1;1;4;1;0;5;1;6;85.7;5;5;0;2;40
+211130;Raub mit Todesfolge auf Geldinstitute (Banken/Sparkassen) § 251 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+211150;Räuberische Erpressung gegen Geldinstitute (Banken/Sparkassen) § 255 StGB;17;0;7;5;3;2;0;10;0;12;70.6;13;13;0;7;53.8
+211200;Raub, räuberische Erpressung auf/gegen Postfilialen und -agenturen;28;0;8;14;5;1;0;12;2;9;32.1;9;8;1;1;11.1
+211210;Raub auf Postfilialen und -agenturen § 249 StGB;3;0;1;1;1;0;0;0;0;2;66.7;2;2;0;0;0
+211220;Schwerer Raub auf Postfilialen und -agenturen § 250 StGB;15;0;3;8;3;1;0;6;2;5;33.3;6;5;1;1;16.7
+211230;Raub mit Todesfolge auf Postfilialen und -agenturen § 251 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+211250;Räuberische Erpressung gegen Postfilialen und -agenturen § 255 StGB;10;0;4;5;1;0;0;6;0;2;20;2;2;0;0;0
+212000;Raub, räuberische Erpressung auf/gegen sonstige Kassenräume und Geschäfte;1,445;0;243;422;327;453;0;498;25;803;55.6;950;918;32;334;35.2
+212010;Raub auf sonstige Kassenräume oder Geschäfte § 249 StGB;93;0;15;21;14;43;0;4;0;42;45.2;65;61;4;29;44.6
+212020;Schwerer Raub auf sonstige Kassenräume oder Geschäfte § 250 StGB;457;0;47;123;108;179;0;184;10;240;52.5;358;342;16;138;38.5
+212030;Raub mit Todesfolge auf sonstige Kassenräume oder Geschäfte § 251 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+212050;Räuberische Erpressung gegen sonstige Kassenräume oder Geschäfte § 255 StGB;223;0;42;62;49;70;0;68;1;123;55.2;151;147;4;38;25.2
+212100;Raub, räuberische Erpressung auf/gegen Spielhallen;163;0;26;59;50;28;0;64;7;99;60.7;121;118;3;52;43
+212110;Raub auf Spielhallen § 249 StGB;9;0;1;5;3;0;0;2;0;4;44.4;5;5;0;3;60
+212120;Schwerer Raub auf Spielhallen § 250 StGB;95;0;18;26;28;23;0;38;3;56;58.9;69;68;1;31;44.9
+212130;Raub mit Todesfolge auf Spielhallen § 251 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+212150;Räuberische Erpressung gegen Spielhallen § 255 StGB;59;0;7;28;19;5;0;24;4;39;66.1;53;51;2;23;43.4
+212200;Raub, räuberische Erpressung auf/gegen Tankstellen;509;0;113;157;106;133;0;178;7;299;58.7;363;358;5;109;30
+212210;Raub auf Tankstellen § 249 StGB;31;0;10;11;3;7;0;0;0;19;61.3;22;22;0;11;50
+212220;Schwerer Raub auf Tankstellen § 250 StGB;327;0;64;97;66;100;0;126;3;184;56.3;242;238;4;75;31
+212230;Raub mit Todesfolge auf Tankstellen § 251 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+212250;Räuberische Erpressung gegen Tankstellen § 255 StGB;151;0;39;49;37;26;0;52;4;96;63.6;114;113;1;30;26.3
+213000;Raub, räuberische Erpressung auf/gegen Geld- und Werttransporte;21;0;4;7;3;7;0;3;0;8;38.1;19;15;4;7;36.8
+213100;Raub, räuberische Erpressung auf/gegen Geld- und Kassenboten;21;0;4;7;3;7;0;3;0;8;38.1;19;15;4;7;36.8
+213110;Raub auf Geld- und Kassenboten § 249 StGB;5;0;0;3;1;1;0;0;0;2;40;4;4;0;0;0
+213120;Schwerer Raub auf Geld- und Kassenboten § 250 StGB;14;0;3;4;2;5;0;3;0;4;28.6;13;9;4;5;38.5
+213130;Raub mit Todesfolge auf Geld- und Kassenboten § 251 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+213150;Räuberische Erpressung gegen Geld- und Kassenboten § 255 StGB;2;0;1;0;0;1;0;0;0;2;100;2;2;0;2;100
+213200;Raub, räuberische Erpressung auf/gegen Spezialgeldtransportfahrzeuge;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+213210;Raub auf Spezialgeldtransportfahrzeuge § 249 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+213220;Schwerer Raub auf Spezialgeldtransportfahrzeuge § 250 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+213230;Raub mit Todesfolge auf Spezialgeldtransportfahrzeuge § 251 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+213250;Räuberische Erpressung gegen Spezialgeldtransportfahrzeuge § 255 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+214000;Räuberischer Angriff auf Kraftfahrer § 316a StGB;92;0;15;22;14;41;0;17;0;53;57.6;130;118;12;35;26.9
+214079;Räuberischer Angriff auf sonstige Kraftfahrer;57;0;13;14;11;19;0;10;0;31;54.4;96;86;10;16;16.7
+214100;Beraubung von Taxifahrern;35;0;2;8;3;22;0;7;0;22;62.9;34;32;2;19;55.9
+216000;Handtaschenraub;783;0;72;184;158;368;1;3;0;271;34.6;333;300;33;179;53.8
+216010;Handtaschenraub § 249 StGB;689;0;67;162;138;321;1;0;0;223;32.4;265;235;30;140;52.8
+216020;Handtaschenraub § 250 StGB;76;0;4;20;18;34;0;3;0;38;50;59;56;3;40;67.8
+216030;Handtaschenraub mit Todesfolge § 251 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+216050;Räuberische Erpressung bei Handtaschenraub § 255 StGB;18;0;1;2;2;13;0;0;0;10;55.6;14;13;1;4;28.6
+217000;Sonstige Raubüberfälle auf Straßen, Wegen oder Plätzen;12,676;0.2;958;2,379;3,031;6,288;20;242;24;5,797;45.7;8,598;8,063;535;3,835;44.6
+217010;Sonstiger Raub auf Straßen, Wegen oder Plätzen § 249 StGB;7,684;0.1;553;1,436;1,885;3,794;16;5;0;3,124;40.7;4,751;4,417;334;2,239;47.1
+217020;Sonstiger schwerer Raub auf Straßen, Wegen oder Plätzen § 250 StGB;2,622;0.1;158;493;588;1,381;2;150;18;1,305;49.8;2,387;2,277;110;1,172;49.1
+217030;Sonstiger Raub mit Todesfolge auf Straßen, Wegen oder Plätzen § 251 StGB;2;0;1;0;0;1;0;0;1;2;100;2;2;0;1;50
+217050;Sonstige räuberische Erpressung auf Straßen, Wegen oder Plätzen § 255 StGB;2,368;0;246;450;558;1,112;2;87;5;1,366;57.7;2,140;2,032;108;798;37.3
+218000;Raub zur Erlangung von Betäubungsmitteln;85;0;24;25;17;19;0;11;0;63;74.1;105;97;8;33;31.4
+218010;Raub zur Erlangung von Betäubungsmitteln § 249 StGB;31;0;6;11;6;8;0;0;0;21;67.7;30;27;3;13;43.3
+218020;Schwerer Raub zur Erlangung von Betäubungsmitteln § 250 StGB;35;0;8;10;9;8;0;9;0;25;71.4;50;46;4;13;26
+218030;Raub mit Todesfolge zur Erlangung von Betäubungsmitteln § 251 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+218050;Räuberische Erpressung zur Erlangung von Betäubungsmitteln § 255 StGB;19;0;10;4;2;3;0;2;0;17;89.5;25;24;1;7;28
+219000;Raubüberfälle in Wohnungen;1,857;0;344;541;427;543;2;110;7;1,453;78.2;2,260;1,966;294;829;36.7
+219010;Raub in Wohnungen § 249 StGB;970;0;168;266;247;288;1;1;0;738;76.1;1,036;871;165;358;34.6
+219020;Schwerer Raub in Wohnungen § 250 StGB;556;0;108;169;122;156;1;85;6;419;75.4;822;733;89;331;40.3
+219030;Raub mit Todesfolge in Wohnungen § 251 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+219050;Räuberische Erpressung in Wohnungen § 255 StGB;331;0;68;106;58;99;0;24;1;296;89.4;436;395;41;158;36.2
+220000;Körperverletzung §§ 223-227, 229, 231 StGB;523,648;10;130,252;151,205;106,795;134,799;597;327;582;458,422;87.5;429,070;337,946;91,124;143,682;33.5
+221000;Körperverletzung mit Todesfolge §§ 227, 231 StGB;101;0;22;36;26;17;0;0;0;83;82.2;101;75;26;19;18.8
+221010;Körperverletzung mit Todesfolge § 227 StGB;99;0;22;34;26;17;0;0;0;81;81.8;96;70;26;15;15.6
+221020;Beteiligung an einer Schlägerei mit Todesfolge § 231 StGB;2;0;0;2;0;0;0;0;0;2;100;5;5;0;4;80
+222000;Gefährliche und schwere Körperverletzung, Verstümmelung weiblicher Genitalien §§ 224, 226, 226a, 231 StGB;122,112;2.3;25,809;34,164;26,657;35,343;139;180;542;97,676;80;127,108;105,105;22,003;49,233;38.7
+222010;Sonstige Tatörtlichkeit bei gefährlicher Körperverletzung § 224 StGB;69,392;1.3;16,924;19,921;14,037;18,417;93;105;272;59,629;85.9;74,435;59,550;14,885;29,631;39.8
+222020;Sonstige Tatörtlichkeit bei schwerer Körperverletzung § 226 StGB;271;0;76;92;36;64;3;0;4;212;78.2;265;224;41;74;27.9
+222030;Sonstige Tatörtlichkeit bei Beteiligung an einer Schlägerei ohne Todesfolge § 231 StGB;20;0;1;5;9;5;0;0;0;19;95;76;66;10;43;56.6
+222040;Verstümmelung weiblicher Genitalien § 226a StGB;2;0;0;1;0;0;1;0;0;2;100;3;2;1;3;100
+222100;Gefährliche und schwere Körperverletzung auf Straßen, Wegen oder Plätzen;52,427;1;8,808;14,145;12,575;16,857;42;75;266;37,814;72.1;56,510;48,989;7,521;21,296;37.7
+222110;Gefährliche Körperverletzung § 224 StGB auf Straßen, Wegen oder Plätzen;52,258;1;8,765;14,098;12,546;16,807;42;75;266;37,684;72.1;56,288;48,777;7,511;21,230;37.7
+222120;Schwere Körperverletzung auf Straßen, Wegen oder Plätzen § 226 StGB;144;0;38;33;26;47;0;0;0;108;75;174;165;9;44;25.3
+222130;Beteiligung an einer Schlägerei ohne Todesfolge auf Straßen, Wegen oder Plätzen § 231 StGB;25;0;5;14;3;3;0;0;0;22;88;82;80;2;31;37.8
+223000;Misshandlung von Schutzbefohlenen § 225 StGB;4,687;0.1;1,569;1,317;720;1,049;32;0;0;4,456;95.1;4,728;2,575;2,153;1,427;30.2
+223001;Misshandlung Schutzbefohlener ab 14 Jahren;1,257;0;443;344;170;292;8;0;0;1,123;89.3;1,186;668;518;385;32.5
+223100;Misshandlung von Kindern;3,430;0.1;1,126;973;550;757;24;0;0;3,333;97.2;3,602;1,954;1,648;1,072;29.8
+224000;Vorsätzliche einfache Körperverletzung § 223 StGB;373,805;7.2;94,222;109,355;75,894;93,926;408;147;0;336,801;90.1;301,582;238,471;63,111;99,097;32.9
+225000;Fahrlässige Körperverletzung § 229 StGB;22,943;0.4;8,630;6,333;3,498;4,464;18;0;40;19,406;84.6;20,327;12,804;7,523;3,229;15.9
+230000;Straftaten gegen die persönliche Freiheit §§ 232-233a, 234, 235, 236, 237, 238-239b, 240, 241, 316c StGB;251,929;4.8;71,292;75,290;47,204;54,494;3,649;2,058;214;221,664;88;199,138;166,638;32,500;57,305;28.8
+231000;Menschenraub, Entziehung Minderjähriger, Kinderhandel §§ 234, 235, 236 StGB;1,574;0;411;427;327;389;20;1;0;1,502;95.4;1,623;673;950;839;51.7
+231100;Menschenraub § 234 StGB;3;0;0;2;1;0;0;1;0;2;66.7;3;3;0;2;66.7
+231200;Entziehung Minderjähriger § 235 StGB;1,566;0;411;423;324;388;20;0;0;1,495;95.5;1,611;664;947;830;51.5
+231210;Entziehung Minderjähriger gegen Entgelt oder in Bereicherungsabsicht § 235 Abs. 4 Nr. 2 StGB;12;0;1;2;5;3;1;0;0;12;100;16;7;9;10;62.5
+231279;Sonstige Entziehung Minderjähriger § 235 StGB;1,554;0;410;421;319;385;19;0;0;1,483;95.4;1,595;657;938;820;51.4
+231300;Kinderhandel § 236 StGB;5;0;0;2;2;1;0;0;0;5;100;9;6;3;7;77.8
+232000;Zwangsheirat, Nachstellung (Stalking), Freiheitsberaubung, Nötigung, Bedrohung §§ 237, 238, 239, 240, 241 StGB;249,786;4.8;70,815;74,754;46,734;53,880;3,603;2,045;214;219,727;88;197,013;165,551;31,462;56,148;28.5
+232100;Freiheitsberaubung § 239 StGB;4,546;0.1;1,069;1,429;962;1,075;11;22;2;4,046;89;4,716;3,689;1,027;1,602;34
+232200;Nötigung § 240 StGB;57,709;1.1;19,856;16,365;9,529;11,548;411;92;11;46,654;80.8;47,632;39,793;7,839;10,399;21.8
+232201;Nötigung im Straßenverkehr § 240 Abs. 1 StGB;31,800;0.6;12,046;9,179;5,112;5,409;54;22;0;24,411;76.8;24,384;21,143;3,241;4,921;20.2
+232279;Sonstige Nötigung § 240 Abs. 1 und 4 StGB;25,909;0.5;7,810;7,186;4,417;6,139;357;70;11;22,243;85.9;23,566;18,900;4,666;5,526;23.4
+232300;Bedrohung § 241 StGB;166,065;3.2;44,281;50,509;32,134;36,466;2,675;1,921;200;149,443;90;134,938;114,767;20,171;42,385;31.4
+232400;Nachstellung (Stalking) § 238 StGB;21,436;0.4;5,604;6,446;4,100;4,780;506;9;1;19,560;91.2;17,557;14,367;3,190;3,961;22.6
+232410;Nachstellung (Stalking) § 238, Abs. 1 StGB;21,106;0.4;5,505;6,355;4,019;4,726;501;9;1;19,246;91.2;17,330;14,182;3,148;3,907;22.5
+232420;Nachstellung (Stalking) § 238, Abs. 2 StGB;328;0;99;91;81;52;5;0;0;312;95.1;289;243;46;68;23.5
+232430;Nachstellung (Stalking) § 238, Abs. 3 StGB;2;0;0;0;0;2;0;0;0;2;100;2;0;2;1;50
+232500;Zwangsheirat § 237 StGB;30;0;5;5;9;11;0;1;0;24;80;43;30;13;34;79.1
+233000;Erpresserischer Menschenraub § 239a StGB;62;0;9;15;15;23;0;9;0;55;88.7;177;167;10;79;44.6
+233079;Sonstiger erpresserischer Menschenraub;61;0;9;15;14;23;0;8;0;54;88.5;175;165;10;79;45.1
+233100;Erpresserischer Menschenraub i.V.m. Raubüberfall auf Geldinstitute, Postfilialen und -agenturen;1;0;0;0;1;0;0;1;0;1;100;1;1;0;0;0
+233200;Erpresserischer Menschenraub i.V.m. Raubüberfall auf sonstige Kassenräume und Geschäfte;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0
+233300;Erpresserischer Menschenraub i.V.m. Raubüberfall auf Geld- und Werttransporte;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+234000;Geiselnahme § 239b StGB;26;0;5;11;5;5;0;3;0;25;96.2;50;45;5;21;42
+234079;Sonstige Geiselnahme;26;0;5;11;5;5;0;3;0;25;96.2;50;45;5;21;42
+234100;Geiselnahme i.V.m. Raubüberfall auf Geldinstitute, Postfilialen und -agenturen;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+234200;Geiselnahme i.V.m. Raubüberfall auf sonstige Kassenräume und Geschäfte;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+234300;Geiselnahme i.V.m. Raubüberfall auf Geld- und Werttransporte;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+235000;Angriff auf den Luft- und Seeverkehr § 316c StGB;2;0;1;0;0;0;1;0;0;1;50;1;1;0;1;100
+239000;Menschenhandel, Zwangsprostitution, Zwangsarbeit, Ausbeutung der Arbeitskraft und Ausbeutung unter Ausnutzung einer Freiheitsberaubung §§ 232, 232a, 232b, 233, 233a StGB;479;0;51;83;123;197;25;0;0;354;73.9;461;347;114;306;66.4
+239100;Menschenhandel § 232 StGB;188;0;26;24;44;77;17;0;0;133;70.7;204;147;57;151;74
+239110;Handel zum Zweck der Ausbeutung bei Ausübung der Prostitution, der Vornahme sexueller Handlungen § 232 Abs. 1 Nr. 1a. Abs. 2 in Bezug auf Abs. 1 Nr. 1a, Abs. 3 Nr. 1 bis 3 in Bezug auf Abs. 1 Nr. 1a, Abs. 4 in Bezug auf Abs. 1 Nr. 1a StGB;123;0;17;15;29;46;16;0;0;82;66.7;141;100;41;103;73
+239120;"Handel zum Zweck der Ausbeutung durch eine Beschäftigung § 232 StGB Abs. 1, Nr. 1 b); Abs. 2 in Bezug auf Abs. 1 Nr. 1b); Abs. 3 Nr. 1 bis 3 in Bezug auf Abs. 1, Nr. 1b); Abs. 4 in Bezug auf Abs. 1 Nr. 1b) StGB";39;0;5;8;12;14;0;0;0;25;64.1;42;33;9;30;71.4
+239130;Handel zum Zweck der Ausbeutung bei der Ausübung der Bettelei § 232 Abs. 1 Nr. 1 c), Abs. 2 in Bezug auf Abs. 1 Nr. 1 c), Abs. 3 Nr. 1 bis 3 in Bezug auf Abs. 1 Nr. 1c), Abs. 4 in Bezug auf Abs. 1 Nr. 1c) StGB;3;0;0;0;2;1;0;0;0;4;133.3;5;2;3;5;100
+239140;Handel zum Zweck der Ausbeutung bei der Begehung von mit Strafe bedrohten Handlungen § 232 StGB Abs. 1 Nr. 1d), Abs. 2 in Bezug auf Abs. 1 Nr. 1d), Abs. 3 Nr. 1 bis 3 in Bezug auf Abs. 1, Nr. 1d), Abs. 4 in Bezug auf Abs. 1 Nr. 1d) StGB;20;0;4;0;0;15;1;0;0;19;95;12;8;4;10;83.3
+239150;Handel zum Zweck des Haltens einer Person in Sklaverei, Leibeigenschaft, Schuldknechtschaft o.ä. § 232 Abs. 1 Nr. 2, Abs. 2 in Bezug auf Abs. 1 Nr. 2, Abs. 3 Nr. 1 bis 3 in Bezug auf Abs. 1 Nr. 2, Abs. 4 in Bezug auf Abs. 1 Nr. 2 StGB;3;0;0;1;1;1;0;0;0;3;100;6;5;1;4;66.7
+239160;Handel zum Zweck der rechtswidrigen Organentnahme § 232 Abs. 1 Nr. 3, Abs. 2 in Bezug auf Abs. 1 Nr. 3, Abs. 3 Nr. 1 bis 3 in Bezug auf Abs. 1 Nr. 3, Abs. 4 in Bezug auf Abs. 1 Nr. 3 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+239200;Zwangsprostitution § 232a StGB;229;0;18;40;62;104;5;0;0;180;78.6;208;170;38;117;56.3
+239210;Veranlassen zur Aufnahme oder Fortsetzung der Prostitution oder zu sexuellen Handlungen, durch die eine Person ausgebeutet wird § 232a Abs. 1 bis 5 StGB;221;0;18;40;58;101;4;0;0;174;78.7;199;163;36;113;56.8
+239220;Entgeltliche Inanspruchnahme sexueller Handlungen eines Menschenhandelsopfers unter Ausnutzung der Zwangslage oder Hilflosigkeit § 232a Abs. 6 StGB;8;0;0;0;4;3;1;0;0;6;75;9;7;2;4;44.4
+239300;Zwangsarbeit § 232b StGB;4;0;1;0;1;1;1;0;0;2;50;2;2;0;1;50
+239310;Veranlassen zur Aufnahme einer ausbeuterischen Beschäftigung § 232b Abs. 1 Nr. 1, Abs. 2 in Bezug auf Abs. 1 Nr. 1, Abs. 3 Nr. 1, Abs. 4 Nr. 1 StGB;3;0;1;0;0;1;1;0;0;1;33.3;1;1;0;1;100
+239320;Veranlassen sich in Sklaverei, Leibeigenschaft, Schuldknechtschaft o.ä. zu begeben § 232b Abs. 1 Nr. 2, Abs. 2 in Bezug auf Abs. 1 Nr. 2, Abs. 3 Nr. 2, Abs. 4 Nr. 2 StGB;1;0;0;0;1;0;0;0;0;1;100;1;1;0;0;0
+239330;Veranlassen zur Aufnahme oder Fortsetzung der Bettelei, durch die die Person ausgebeutet wird § 232b Abs. 1 Nr. 3, Abs. 2 in Bezug auf Abs. 1 Nr. 3, Abs. 3 Nr. 3, Abs. 4 Nr. 3 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+239400;Ausbeutung der Arbeitskraft § 233 StGB;27;0;5;4;8;10;0;0;0;20;74.1;25;16;9;18;72
+239410;Ausbeutung durch eine Beschäftigung § 233 Abs. 1 Nr. 1, Abs. 2 in Fällen von Abs. 1 Nr. 1, Abs. 3 in Fällen von Abs. 1 Nr. 1, Abs. 4 in Bezug auf Abs. 1 Nr. 1, Abs. 5 in Bezug auf Abs. 1 Nr. 1 StGB;20;0;5;2;7;6;0;0;0;15;75;17;12;5;11;64.7
+239420;Ausbeutung bei der Ausübung der Bettelei § 233 Abs. 1 Nr. 2, Abs. 2 in Fällen von Abs. 1 Nr. 2, Abs. 3 in Fällen von Abs. 1 Nr. 2, Abs. 4 in Bezug auf Abs. 1 Nr. 2 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+239430;Ausbeutung bei der Begehung von mit Strafe bedrohten Handlungen § 233 Abs. 1 Nr. 3, Abs. 2 in Fällen von Abs. 1 Nr. 3, Abs. 3 in Fällen von Abs. 1 Nr. 3, Abs. 4 in Bezug auf Abs. 1 Nr. 3 StGB;7;0;0;2;1;4;0;0;0;5;71.4;8;4;4;7;87.5
+239500;Ausbeutung unter Ausnutzung einer Freiheitsberaubung § 233a StGB;31;0;1;15;8;5;2;0;0;19;61.3;33;20;13;26;78.8
+239510;Ausbeutung bei Ausübung der Prostitution § 233a Abs. 1 Nr. 1, Abs. 2 in Bezug auf Abs. 1 Nr. 1, Abs. 3 in Bezug auf Abs. 1 Nr. 1, Abs. 4 in Bezug auf Abs. 1 Nr. 1 StGB;24;0;1;9;8;4;2;0;0;16;66.7;28;16;12;22;78.6
+239520;Ausbeutung durch eine Beschäftigung nach § 232 Abs. 1 Satz 2 StGB (gem. § 233a Abs. 1 Nr. 2, Abs. 2 in Bezug auf Abs. 1 Nr. 2, Abs. 3 in Bezug auf Abs. 1 Nr. 2, Abs. 4 in Bezug auf Abs. 1 Nr. 2 StGB);6;0;0;6;0;0;0;0;0;2;33.3;3;2;1;2;66.7
+239530;Ausbeutung bei der Ausübung der Bettelei § 233a Abs. 1 Nr. 3, Abs. 2 in Bezug auf Abs. 1 Nr. 3, Abs. 3 in Bezug auf Abs. 1 Nr. 3, Abs. 4 in Bezug auf Abs. 1 Nr. 3 StGB;1;0;0;0;0;1;0;0;0;1;100;2;2;0;2;100
+239540;Ausbeutung bei der Begehung von mit Strafe bedrohten Handlungen § 233a Abs. 1 Nr. 4, Abs. 2 in Bezug auf Abs. 1 Nr. 4, Abs. 3 in Bezug auf Abs. 1 Nr. 4, Abs. 4 in Bezug auf Abs. 1 Nr. 4 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+3***00;Diebstahl ohne erschwerende Umstände §§ 242, 247, 248a-c StGB und zwar:;1,014,966;19.5;182,947;266,588;222,519;335,423;7,489;0;0;409,045;40.3;317,423;207,683;109,740;126,825;40
+3.00E+100;Einfacher Diebstahl von Kraftwagen einschl. unbefugte Ingebrauchnahme;7,047;0.1;2,415;2,056;1,247;1,308;21;0;0;4,632;65.7;4,858;4,349;509;1,707;35.1
+3.00E+200;Einfacher Diebstahl von Mopeds und Krafträdern einschl. unbefugte Ingebrauchnahme;5,837;0.1;1,520;1,820;1,389;1,091;17;0;0;1,456;24.9;1,701;1,611;90;391;23
+3.00E+300;Einfacher Diebstahl von Fahrrädern einschl. unbefugte Ingebrauchnahme;41,412;0.8;11,253;14,726;7,716;7,422;295;0;0;8,938;21.6;8,810;7,974;836;3,030;34.4
+3**400;Einfacher Diebstahl von Schusswaffen;162;0;67;54;20;19;2;0;0;89;54.9;109;83;26;17;15.6
+3**500;Einfacher Diebstahl von unbaren Zahlungsmitteln;89,588;1.7;10,394;19,177;21,467;37,566;984;0;0;6,135;6.8;5,788;4,329;1,459;2,501;43.2
+3**700;Einfacher Diebstahl von/aus Automaten;1,389;0;232;255;174;726;2;0;0;429;30.9;380;310;70;136;35.8
+3**800;Einfacher Diebstahl von Antiquitäten, Kunst- und sakralen Gegenständen;742;0;214;253;123;146;6;0;0;163;22;161;110;51;39;24.2
+300000;Sonstiger einfacher Diebstahl §§ 242, 247, 248a-c StGB;273,662;5.2;62,171;68,719;50,849;87,660;4,263;0;0;55,641;20.3;56,305;43,367;12,938;18,531;32.9
+300010;Sonstiger einfacher Diebstahl §§ 242, 247, 248a StGB;269,216;5.2;60,945;67,377;49,924;86,712;4,258;0;0;51,947;19.3;52,495;40,322;12,173;17,512;33.4
+300040;Unbefugter Gebrauch eines sonstigen Fahrzeuges § 248b StGB;1,443;0;384;353;174;528;4;0;0;1,084;75.1;1,214;1,076;138;375;30.9
+300050;Entziehung elektrischer Energie § 248c StGB;3,003;0.1;842;989;751;420;1;0;0;2,610;86.9;2,813;2,161;652;695;24.7
+300100;Einfacher Diebstahl von Kraftwagen einschl. unbefugter Ingebrauchnahme;6,923;0.1;2,378;2,024;1,225;1,275;21;0;0;4,597;66.4;4,816;4,313;503;1,695;35.2
+300110;Einfacher Diebstahl von Kraftwagen;3,602;0.1;1,028;1,013;731;817;13;0;0;1,736;48.2;1,958;1,774;184;725;37
+300140;Unbefugter Gebrauch von Kraftwagen;3,321;0.1;1,350;1,011;494;458;8;0;0;2,861;86.1;2,933;2,613;320;989;33.7
+300200;Einfacher Diebstahl von Mopeds und Krafträdern einschl. unbefugter Ingebrauchnahme;5,767;0.1;1,483;1,802;1,379;1,086;17;0;0;1,432;24.8;1,672;1,587;85;386;23.1
+300210;Einfacher Diebstahl von Mopeds und Krafträdern;5,244;0.1;1,280;1,689;1,271;987;17;0;0;1,100;21;1,355;1,289;66;302;22.3
+300240;Unbefugter Gebrauch von Mopeds und Krafträdern;523;0;203;113;108;99;0;0;0;332;63.5;348;329;19;95;27.3
+300300;Einfacher Diebstahl von Fahrrädern einschl. unbefugter Ingebrauchnahme;37,240;0.7;10,352;13,288;6,700;6,605;295;0;0;8,217;22.1;8,106;7,404;702;2,798;34.5
+300310;Einfacher Diebstahl von Fahrrädern;36,129;0.7;9,821;12,911;6,605;6,500;292;0;0;7,777;21.5;7,633;6,992;641;2,691;35.3
+300340;Unbefugter Gebrauch von Fahrrädern;1,111;0;531;377;95;105;3;0;0;440;39.6;514;450;64;113;22
+300400;Einfacher Diebstahl von Schusswaffen;74;0;32;24;8;8;2;0;0;29;39.2;34;31;3;4;11.8
+300500;Einfacher Diebstahl von unbaren Zahlungsmitteln;30,332;0.6;3,263;6,982;7,433;11,990;664;0;0;2,508;8.3;2,555;1,972;583;1,036;40.5
+300700;Einfacher Diebstahl von/aus Automaten;1,209;0;190;194;145;678;2;0;0;381;31.5;319;260;59;111;34.8
+300800;Einfacher Diebstahl von Antiquitäten, Kunst- und sakralen Gegenständen;613;0;177;215;102;113;6;0;0;102;16.6;93;70;23;20;21.5
+305*00;Einfacher Diebstahl in/aus Banken, Sparkassen, Postfilialen und -agenturen und dergleichen;3,109;0.1;682;818;549;963;97;0;0;846;27.2;664;458;206;211;31.8
+305000;Einfacher Diebstahl in/aus Banken, Sparkassen, Postfilialen und -agenturen und dergleichen von sonstigem Gut;2,742;0.1;612;713;477;845;95;0;0;777;28.3;608;419;189;191;31.4
+305500;Einfacher Diebstahl in/aus Banken, Sparkassen, Postfilialen und -agenturen und dergleichen von unbaren Zahlungsmitteln;367;0;70;105;72;118;2;0;0;69;18.8;59;42;17;23;39
+310*00;Einfacher Diebstahl in/aus Dienst-, Büro-, Fabrikations-, Werkstatt- und Lagerräumen;22,780;0.4;6,355;6,625;4,672;5,053;75;0;0;6,164;27.1;6,240;4,975;1,265;1,987;31.8
+310000;Einfacher Diebstahl in/aus Dienst-, Büro-, Fabrikations-, Werkstatt- und Lagerräumen von sonstigem Gut;19,951;0.4;5,736;5,837;3,992;4,316;70;0;0;5,742;28.8;5,869;4,674;1,195;1,877;32
+310100;Einfacher Diebstahl in/aus Dienst-, Büro-, Fabrikations-, Werkstatt- und Lagerräumen von Kraftwagen;92;0;29;22;16;25;0;0;0;30;32.6;36;31;5;10;27.8
+310200;Einfacher Diebstahl in/aus Dienst-, Büro-, Fabrikations-, Werkstatt- und Lagerräumen von Mopeds und Krafträdern;70;0;37;18;10;5;0;0;0;24;34.3;29;24;5;5;17.2
+310300;Einfacher Diebstahl in/aus Dienst-, Büro-, Fabrikations-, Werkstatt- und Lagerräumen von Fahrrädern;514;0;226;164;63;61;0;0;0;97;18.9;98;89;9;33;33.7
+310400;Einfacher Diebstahl in/aus Dienst-, Büro-, Fabrikations-, Werkstatt- und Lagerräumen von Schusswaffen;7;0;4;1;0;2;0;0;0;5;71.4;6;6;0;1;16.7
+310500;Einfacher Diebstahl in/aus Dienst-, Büro-, Fabrikations-, Werkstatt- und Lagerräumen von unbaren Zahlungsmitteln;2,011;0;280;534;571;621;5;0;0;225;11.2;216;170;46;60;27.8
+310700;Einfacher Diebstahl in/aus Dienst-, Büro-, Fabrikations-, Werkstatt- und Lagerräumen von/aus Automaten;89;0;28;33;15;13;0;0;0;30;33.7;40;30;10;16;40
+310800;Einfacher Diebstahl in/aus Dienst-, Büro-, Fabrikations-, Werkstatt- und Lagerräumen von Antiquitäten, Kunst- und sakralen Gegenständen;46;0;15;16;5;10;0;0;0;11;23.9;12;10;2;3;25
+315*00;Einfacher Diebstahl in/aus Gaststätten, Kantinen, Hotels und Pensionen;13,445;0.3;1,748;2,362;2,756;6,568;11;0;0;2,481;18.5;2,628;2,147;481;1,121;42.7
+315000;Einfacher Diebstahl in/aus Gaststätten, Kantinen, Hotels und Pensionen von sonstigem Gut;10,653;0.2;1,551;2,030;2,181;4,883;8;0;0;2,259;21.2;2,412;1,962;450;1,014;42
+315500;Einfacher Diebstahl in/aus Gaststätten, Kantinen, Hotels und Pensionen von unbaren Zahlungsmitteln;2,701;0.1;183;304;561;1,650;3;0;0;204;7.6;224;192;32;113;50.4
+315700;Einfacher Diebstahl in/aus Gaststätten, Kantinen, Hotels und Pensionen von/aus Automaten;91;0;14;28;14;35;0;0;0;18;19.8;22;21;1;10;45.5
+325*00;Einfacher Diebstahl in/aus Kiosken, Warenhäusern, Verkaufsräumen, Selbstbedienungsläden, Schaufenstern und Schaukästen darunter:;341,440;6.5;44,432;97,804;88,763;109,726;715;0;0;290,518;85.1;225,230;137,316;87,914;97,559;43.3
+325000;Einfacher Diebstahl in/aus Kiosken, Warenh., Verkaufsräumen pp. von sonstigem Gut;19,176;0.4;4,132;5,964;3,912;5,142;26;0;0;6,818;35.6;6,988;4,938;2,050;2,960;42.4
+325300;Einfacher Diebstahl in/aus Kiosken, Warenh., Verkaufsräumen pp. von Fahrrädern;147;0;34;47;35;31;0;0;0;62;42.2;74;52;22;29;39.2
+325500;Einfacher Diebstahl in/aus Kiosken, Warenh., Verkaufsräumen pp. von unbaren Zahlungsmitteln;8,126;0.2;1,863;2,141;1,708;2,413;1;0;0;347;4.3;369;228;141;214;58
+326*00;Einfacher Ladendiebstahl;313,991;6;38,403;89,652;83,108;102,140;688;0;0;283,291;90.2;220,200;133,967;86,233;95,569;43.4
+326000;Einfacher Ladendiebstahl von sonstigem Gut;313,701;6;38,360;89,554;83,041;102,058;688;0;0;283,092;90.2;220,061;133,867;86,194;95,502;43.4
+326300;Einfacher Ladendiebstahl von Fahrrädern;290;0;43;98;67;82;0;0;0;199;68.6;225;168;57;107;47.6
+335*00;Einfacher Diebstahl in/aus Wohnungen;37,814;0.7;10,135;11,510;8,082;8,063;24;0;0;18,490;48.9;18,933;12,227;6,706;5,382;28.4
+335000;Einfacher Diebstahl in/aus Wohnungen von sonstigem Gut;35,152;0.7;9,476;10,727;7,489;7,440;20;0;0;17,256;49.1;17,781;11,455;6,326;5,095;28.7
+335400;Einfacher Diebstahl in/aus Wohnungen von Schusswaffen;81;0;31;29;12;9;0;0;0;55;67.9;69;46;23;12;17.4
+335500;Einfacher Diebstahl in/aus Wohnungen von unbaren Zahlungsmitteln;2,498;0;606;732;565;591;4;0;0;1,129;45.2;1,208;824;384;316;26.2
+335800;Einfacher Diebstahl in/aus Wohnungen von Antiquitäten, Kunst- und sakralen Gegenständen;83;0;22;22;16;23;0;0;0;50;60.2;56;30;26;16;28.6
+340*00;Einfacher Diebstahl in/aus Boden-, Kellerräumen und Waschküchen;9,858;0.2;1,813;3,314;2,580;2,147;4;0;0;1,714;17.4;1,798;1,428;370;402;22.4
+340000;Einfacher Diebstahl in/aus Boden-, Kellerräumen und Waschküchen von sonstigem Gut;6,637;0.1;1,215;2,185;1,729;1,504;4;0;0;1,351;20.4;1,413;1,091;322;316;22.4
+340300;Einfacher Diebstahl in/aus Boden-, Kellerräumen und Waschküchen von Fahrrädern;3,221;0.1;598;1,129;851;643;0;0;0;363;11.3;404;354;50;89;22
+345*00;Einfacher Diebstahl in/aus überwiegend unbezogenen Neu- und Rohbauten und Baustellen;10,697;0.2;3,293;2,971;1,896;2,484;53;0;0;1,297;12.1;1,640;1,508;132;543;33.1
+345000;Einfacher Diebstahl in/aus überwiegend unbezogenen Neu- und Rohbauten und Baustellen von sonstigem Gut;10,507;0.2;3,267;2,936;1,869;2,382;53;0;0;1,283;12.2;1,628;1,497;131;539;33.1
+345100;Einfacher Diebstahl in/aus überwiegend unbezogenen Neu- und Rohbauten und Baustellen von Kraftwagen;32;0;8;10;6;8;0;0;0;5;15.6;6;5;1;2;33.3
+345500;Einfacher Diebstahl in/aus überwiegend unbezogenen Neu- und Rohbauten und Baustellen von unbaren Zahlungsmitteln;158;0;18;25;21;94;0;0;0;9;5.7;9;9;0;2;22.2
+350*00;Einfacher Diebstahl an/aus Kraftfahrzeugen;124,760;2.4;26,493;31,719;24,991;40,960;597;0;0;10,525;8.4;8,408;7,610;798;3,089;36.7
+350000;Einfacher Diebstahl an/aus Kraftfahrzeugen von sonstigem Gut;118,508;2.3;25,418;30,170;23,392;38,965;563;0;0;9,925;8.4;8,043;7,293;750;2,921;36.3
+350500;Einfacher Diebstahl aus Kraftfahrzeugen von unbaren Zahlungsmitteln;6,252;0.1;1,075;1,549;1,599;1,995;34;0;0;600;9.6;553;494;59;245;44.3
+371000;Einfacher Diebstahl von Betäubungsmitteln aus Apotheken;30;0;8;3;5;11;3;0;0;15;50;15;11;4;2;13.3
+372000;Einfacher Diebstahl von Betäubungsmitteln aus Arztpraxen;25;0;6;7;9;2;1;0;0;13;52;14;6;8;1;7.1
+373000;Einfacher Diebstahl von Betäubungsmitteln aus Krankenhäusern;351;0;81;122;73;75;0;0;0;150;42.7;146;77;69;13;8.9
+374000;Einfacher Diebstahl von Betäubungsmitteln bei Herstellern und Großhändlern;48;0;6;13;5;10;14;0;0;8;16.7;10;9;1;3;30
+375000;Einfacher Diebstahl von Rezeptformularen zur Erlangung von Betäubungsmitteln;75;0;26;18;9;17;5;0;0;36;48;37;30;7;3;8.1
+390000;Einfacher Taschendiebstahl von sonstigem Gut;57,571;1.1;4,787;9,249;11,351;31,835;349;0;0;2,837;4.9;2,899;2,318;581;2,122;73.2
+390500;Einfacher Taschendiebstahl von unbaren Zahlungsmitteln;37,143;0.7;3,036;6,805;8,937;18,094;271;0;0;1,044;2.8;1,016;722;294;757;74.5
+4***00;Diebstahl unter erschwerenden Umständen §§ 243-244a StGB und zwar:;579,525;11.1;98,561;149,348;121,473;209,386;757;0;0;86,465;14.9;63,185;54,529;8,656;30,330;48
+4.00E+100;Schwerer Diebstahl von Kraftwagen;15,105;0.3;2,860;3,292;1,980;6,962;11;0;0;2,656;17.6;2,626;2,472;154;1,376;52.4
+4.00E+200;Schwerer Diebstahl von Mopeds und Krafträdern;15,441;0.3;2,283;4,264;3,862;5,002;30;0;0;2,501;16.2;2,578;2,479;99;680;26.4
+4.00E+300;Schwerer Diebstahl von Fahrrädern;216,262;4.1;27,649;59,679;49,024;79,732;178;0;0;13,437;6.2;10,155;9,463;692;3,935;38.7
+4**400;Schwerer Diebstahl von Schusswaffen;262;0;133;71;38;20;0;0;0;94;35.9;144;127;17;50;34.7
+4**500;Schwerer Diebstahl von unbaren Zahlungsmitteln;7,640;0.1;1,321;2,036;1,798;2,477;8;0;0;1,417;18.5;1,407;1,166;241;773;54.9
+4**700;Schwerer Diebstahl von/aus Automaten;15,305;0.3;2,379;1,954;1,049;9,910;13;0;0;1,584;10.3;1,297;1,237;60;555;42.8
+4**800;Schwerer Diebstahl von Antiquitäten, Kunst- und sakralen Gegenständen;457;0;167;113;102;75;0;0;0;92;20.1;116;99;17;31;26.7
+400000;Sonstiger schwerer Diebstahl insgesamt §§ 243 - 244a StGB;82,958;1.6;18,852;21,124;15,238;27,510;234;0;0;15,139;18.2;14,285;12,372;1,913;6,009;42.1
+400010;Besonders schwerer Fall des Diebstahls;79,714;1.5;18,061;20,077;14,632;26,729;215;0;0;13,054;16.4;11,612;10,030;1,582;4,332;37.3
+400020;Sonstiger schwerer Diebstahl (ohne WED) §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;3,244;0.1;791;1,047;606;781;19;0;0;2,085;64.3;2,982;2,620;362;1,845;61.9
+400100;Schwerer Diebstahl insgesamt von Kraftwagen;14,591;0.3;2,648;3,126;1,920;6,886;11;0;0;2,466;16.9;2,388;2,242;146;1,299;54.4
+400110;Besonders schwerer Fall des Diebstahls von Kraftwagen;13,417;0.3;2,257;2,726;1,768;6,656;10;0;0;1,865;13.9;1,998;1,877;121;987;49.4
+400120;Schwerer Diebstahl von Kraftwagen §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;1,174;0;391;400;152;230;1;0;0;601;51.2;533;505;28;442;82.9
+400200;Schwerer Diebstahl insgesamt von Mopeds und Krafträdern;15,223;0.3;2,166;4,205;3,839;4,983;30;0;0;2,444;16.1;2,503;2,406;97;664;26.5
+400210;Besonders schwerer Fall des Diebstahls von Mopeds und Krafträdern;14,950;0.3;2,138;4,114;3,761;4,908;29;0;0;2,357;15.8;2,389;2,300;89;597;25
+400220;Schwerer Diebstahl von Mopeds und Krafträdern §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;273;0;28;91;78;75;1;0;0;87;31.9;136;128;8;77;56.6
+400300;Schwerer Diebstahl insgesamt von Fahrrädern;193,766;3.7;25,540;54,073;42,706;71,271;176;0;0;11,508;5.9;8,908;8,332;576;3,622;40.7
+400310;Besonders schwerer Fall des Diebstahls von Fahrrädern;192,799;3.7;25,433;53,734;42,478;70,981;173;0;0;11,046;5.7;8,536;7,983;553;3,410;39.9
+400320;Schwerer Diebstahl von Fahrrädern §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;967;0;107;339;228;290;3;0;0;462;47.8;523;494;29;300;57.4
+400400;Schwerer Diebstahl insgesamt von Schusswaffen;90;0;41;29;12;8;0;0;0;43;47.8;69;56;13;13;18.8
+400410;Besonders schwerer Fall des Diebstahls von Schusswaffen;79;0;35;26;10;8;0;0;0;35;44.3;50;42;8;11;22
+400420;Schwerer Diebstahl von Schusswaffen §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;11;0;6;3;2;0;0;0;0;8;72.7;19;14;5;2;10.5
+400500;Schwerer Diebstahl insgesamt von unbaren Zahlungsmitteln;1,016;0;162;212;271;368;3;0;0;306;30.1;333;247;86;214;64.3
+400510;Besonders schwerer Fall des Diebstahls von unbaren Zahlungsmitteln;889;0;129;171;240;346;3;0;0;244;27.4;228;168;60;129;56.6
+400520;Schwerer Diebstahl von unbaren Zahlungsmitteln §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;127;0;33;41;31;22;0;0;0;62;48.8;113;84;29;92;81.4
+400700;Schwerer Diebstahl insgesamt von/aus Automaten;14,227;0.3;2,078;1,646;856;9,634;13;0;0;1,381;9.7;1,082;1,031;51;462;42.7
+400710;Besonders schwerer Fall des Diebstahls von/aus Automaten;13,925;0.3;1,919;1,571;819;9,605;11;0;0;1,229;8.8;947;901;46;382;40.3
+400720;Schwerer Diebstahl von/aus Automaten §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;302;0;159;75;37;29;2;0;0;152;50.3;182;176;6;114;62.6
+400800;Schwerer Diebstahl insgesamt von Antiquitäten, Kunst- und sakralen Gegenständen;361;0;138;87;78;58;0;0;0;66;18.3;73;64;9;20;27.4
+400810;Besonders schwerer Fall des Diebstahls von Antiquitäten, Kunst- und sakralen Gegenständen;309;0;105;78;73;53;0;0;0;55;17.8;57;52;5;13;22.8
+400820;Schwerer Diebstahl von Antiquitäten, Kunst- und sakralen Gegenständen §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;52;0;33;9;5;5;0;0;0;11;21.2;18;14;4;8;44.4
+405*00;Schwerer Diebstahl in/aus Banken, Sparkassen, Postfilialen und -agenturen und dergleichen;688;0;233;213;89;121;32;0;0;280;40.7;192;173;19;109;56.8
+405000;Schwerer Diebstahl insgesamt in/aus Banken, Sparkassen, Postfilialen und -agenturen und dergleichen;688;0;233;213;89;121;32;0;0;280;40.7;192;173;19;109;56.8
+405010;Besonders schwerer Fall des Diebstahls in/aus Banken, Sparkassen, Postfilialen und -agenturen und dergleichen;604;0;200;184;77;111;32;0;0;242;40.1;137;122;15;68;49.6
+405020;Schwerer Diebstahl in/aus Banken, Sparkassen, Postfilialen und -agenturen und dergleichen §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;84;0;33;29;12;10;0;0;0;38;45.2;61;57;4;45;73.8
+410*00;Schwerer Diebstahl in/aus Dienst-, Büro-, Fabrikations-, Werkstatt- und Lagerräumen;30,811;0.6;10,265;9,183;5,293;6,057;13;0;0;6,935;22.5;6,835;6,261;574;2,176;31.8
+410000;Schwerer Diebstahl insgesamt in/aus Dienst-, Büro-, Fabrikations-, Werkstatt- und Lagerräumen von sonstigem Gut;28,340;0.5;9,450;8,380;4,862;5,635;13;0;0;6,378;22.5;6,307;5,768;539;2,026;32.1
+410010;Besonders schwerer Fall des Diebstahls in/aus Dienst-, Büro-, Fabrikations-, Werkstatt- und Lagerräumen von sonstigem Gut;27,197;0.5;9,015;8,004;4,641;5,525;12;0;0;5,758;21.2;5,632;5,138;494;1,635;29
+410020;Schwerer Diebstahl in/aus Dienst-, Büro-, Fabrikations-, Werkstatt- und Lagerräumen von sonstigem Gut §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;1,143;0;435;376;221;110;1;0;0;620;54.2;835;783;52;461;55.2
+410100;Schwerer Diebstahl insgesamt in/aus Dienst-, Büro-, Fabrikations-, Werkstatt- und Lagerräumen von Kraftwagen;381;0;160;125;46;50;0;0;0;170;44.6;267;257;10;85;31.8
+410110;Besonders schwerer Fall des Diebstahls in/aus Dienst-, Büro-, Fabrikations-, Werkstatt- und Lagerräumen von Kraftwagen;344;0;143;108;44;49;0;0;0;144;41.9;208;199;9;47;22.6
+410120;Schwerer Diebstahl in/aus Dienst-, Büro-, Fabrikations-, Werkstatt- und Lagerräumen von Kraftwagen §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;37;0;17;17;2;1;0;0;0;26;70.3;62;61;1;41;66.1
+410200;Schwerer Diebstahl insgesamt in/aus Dienst-, Büro-, Fabrikations-, Werkstatt- und Lagerräumen von Mopeds und Krafträdern;218;0;117;59;23;19;0;0;0;57;26.1;86;84;2;19;22.1
+410210;Besonders schwerer Fall des Diebstahls in/aus Dienst-, Büro-, Fabrikations-, Werkstatt- und Lagerräumen von Mopeds und Krafträdern;213;0;115;57;22;19;0;0;0;53;24.9;79;77;2;13;16.5
+410220;Schwerer Diebstahl in/aus Dienst-, Büro-, Fabrikations-, Werkstatt- und Lagerräumen von Mopeds und Krafträdern, §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;5;0;2;2;1;0;0;0;0;4;80;7;7;0;6;85.7
+410300;Schwerer Diebstahl insgesamt in/aus Dienst-, Büro-, Fabrikations-, Werkstatt- und Lagerräumen von Fahrrädern;1,129;0;327;384;201;217;0;0;0;136;12;160;152;8;46;28.8
+410310;Besonders schwerer Fall des Diebstahls in/aus Dienst-, Büro-, Fabrikations-, Werkstatt- und Lagerräumen von Fahrrädern;1,106;0;318;376;199;213;0;0;0;130;11.8;154;146;8;43;27.9
+410320;Schwerer Diebstahl in/aus Dienst-, Büro-, Fabrikations-, Werkstatt- und Lagerräumen von Fahrrädern §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;23;0;9;8;2;4;0;0;0;6;26.1;7;7;0;4;57.1
+410400;Schwerer Diebstahl insgesamt in/aus Dienst-, Büro-, Fabrikations-, Werkstatt- und Lagerräumen von Schusswaffen;30;0;18;3;8;1;0;0;0;8;26.7;8;8;0;1;12.5
+410410;Besonders schwerer Fall des Diebstahls in/aus Dienst-, Büro-, Fabrikations-, Werkstatt- und Lagerräumen von Schusswaffen;28;0;17;2;8;1;0;0;0;7;25;7;7;0;1;14.3
+410420;Schwerer Diebstahl in/aus Dienst-, Büro-, Fabrikations-, Werkstatt- und Lagerräumen von Schusswaffen §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;2;0;1;1;0;0;0;0;0;1;50;1;1;0;0;0
+410500;Schwerer Diebstahl insgesamt in/aus Dienst-, Büro-, Fabrikations-, Werkstatt- und Lagerräumen von unbaren Zahlungsmitteln;361;0;84;115;78;84;0;0;0;99;27.4;120;107;13;29;24.2
+410510;Besonders schwerer Fall des Diebstahls in/aus Dienst-, Büro-, Fabrikations-, Werkstatt- und Lagerräumen von unbaren Zahlungsmitteln;334;0;81;106;71;76;0;0;0;89;26.6;106;94;12;23;21.7
+410520;Schwerer Diebstahl in/aus Dienst-, Büro-, Fabrikations-, Werkstatt- und Lagerräumen von unbaren Zahlungsmitteln §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;27;0;3;9;7;8;0;0;0;10;37;16;15;1;6;37.5
+410700;Schwerer Diebstahl insgesamt in/aus Dienst-, Büro-, Fabrikations-, Werkstatt- und Lagerräumen von/aus Automaten;277;0;91;97;54;35;0;0;0;67;24.2;90;86;4;34;37.8
+410710;Besonders schwerer Fall des Diebstahls in/aus Dienst-, Büro-, Fabrikations-, Werkstatt- und Lagerräumen von/aus Automaten;259;0;84;89;53;33;0;0;0;60;23.2;68;66;2;20;29.4
+410720;Schwerer Diebstahl in/aus Dienst-, Büro-, Fabrikations-, Werkstatt- und Lagerräumen von/aus Automaten §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;18;0;7;8;1;2;0;0;0;7;38.9;22;20;2;14;63.6
+410800;Schwerer Diebstahl insgesamt in/aus Dienst-, Büro-, Fabrikations-, Werkstatt- und Lagerräumen von Antiquitäten, Kunst- und sakralen Gegenständen;75;0;18;20;21;16;0;0;0;20;26.7;35;29;6;11;31.4
+410810;Besonders schwerer Fall des Diebstahls in/aus Dienst-, Büro-, Fabrikations-, Werkstatt- und Lagerräumen von Antiquitäten, Kunst- und sakralen Gegenständen;68;0;17;17;19;15;0;0;0;16;23.5;24;20;4;9;37.5
+410820;Schwerer Diebstahl in/aus Dienst-, Büro-, Fabrikations-, Werkstatt- und Lagerräumen von Antiquitäten, Kunst- und sakralen Gegenständen §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;7;0;1;3;2;1;0;0;0;4;57.1;11;9;2;2;18.2
+415*00;Schwerer Diebstahl in/aus Gaststätten, Kantinen, Hotels und Pensionen;7,530;0.1;1,791;1,780;1,339;2,618;2;0;0;1,838;24.4;1,841;1,708;133;736;40
+415000;Schwerer Diebstahl insgesamt in/aus Gaststätten, Kantinen, Hotels und Pensionen von sonstigem Gut;6,577;0.1;1,552;1,548;1,180;2,295;2;0;0;1,671;25.4;1,692;1,566;126;653;38.6
+415010;Besonders schwerer Fall des Diebstahls in/aus Gaststätten, Kantinen, Hotels und Pensionen von sonstigem Gut;6,397;0.1;1,500;1,491;1,136;2,268;2;0;0;1,574;24.6;1,575;1,455;120;601;38.2
+415020;Schwerer Diebstahl in/aus Gaststätten, Kantinen, Hotels und Pensionen von sonstigem Gut §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;180;0;52;57;44;27;0;0;0;97;53.9;152;145;7;60;39.5
+415500;Schwerer Diebstahl insgesamt in/aus Gaststätten, Kantinen, Hotels und Pensionen von unbaren Zahlungsmitteln;152;0;29;21;20;82;0;0;0;31;20.4;35;33;2;20;57.1
+415510;Besonders schwerer Fall des Diebstahls in/aus Gaststätten, Kantinen, Hotels und Pensionen von unbaren Zahlungsmitteln;121;0;23;14;19;65;0;0;0;30;24.8;34;32;2;20;58.8
+415520;Schwerer Diebstahl in/aus Gaststätten, Kantinen, Hotels und Pensionen von unbaren Zahlungsmitteln §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;31;0;6;7;1;17;0;0;0;1;3.2;1;1;0;0;0
+415700;Schwerer Diebstahl insgesamt in/aus Gaststätten, Kantinen, Hotels und Pensionen von/aus Automaten;801;0;210;211;139;241;0;0;0;136;17;154;146;8;76;49.4
+415710;besonders schwerer Fall des Diebstahls in/aus Gaststätten, Kantinen, Hotels und Pensionen von/aus Automaten;777;0;202;201;137;237;0;0;0;130;16.7;150;142;8;74;49.3
+415720;Schwerer Diebstahl in/aus Gaststätten, Kantinen, Hotels und Pensionen von/aus Automaten §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;24;0;8;10;2;4;0;0;0;6;25;10;8;2;7;70
+425*00;Schwerer Diebstahl in/aus Kiosken, Warenhäusern, Verkaufsräumen, Selbstbedienungsläden, Schaufenstern und Schaukästen darunter:;31,091;0.6;4,549;8,670;7,648;10,088;136;0;0;22,008;70.8;19,869;16,145;3,724;12,668;63.8
+425000;Schwerer Diebstahl insgesamt in/aus Kiosken, Warenhäusern, Verkaufsräumen pp. von sonstigem Gut;10,414;0.2;2,451;3,094;2,121;2,739;9;0;0;3,775;36.2;4,213;3,767;446;2,097;49.8
+425010;Besonders schwerer Fall des Diebstahls in/aus Kiosken, Warenhäusern, Verkaufsräumen pp. von sonstigem Gut;9,206;0.2;2,170;2,642;1,844;2,543;7;0;0;2,898;31.5;3,042;2,777;265;1,351;44.4
+425020;Schwerer Diebstahl in/aus Kiosken, Warenhäusern, Verkaufsräumen pp. von sonstigem Gut, §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;1,208;0;281;452;277;196;2;0;0;877;72.6;1,319;1,129;190;842;63.8
+425300;Schwerer Diebstahl insgesamt in/aus Kiosken, Warenhäusern, Verkaufsräumen pp. von Fahrrädern;172;0;28;66;39;39;0;0;0;63;36.6;106;101;5;48;45.3
+425310;Besonders schwerer Fall des Diebstahls in/aus Kiosken, Warenhäusern, Verkaufsräumen pp. von Fahrrädern;146;0;23;53;35;35;0;0;0;46;31.5;66;64;2;27;40.9
+425320;Schwerer Diebstahl in/aus Kiosken, Warenhäusern, Verkaufsräumen pp.von Fahrrädern §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;26;0;5;13;4;4;0;0;0;17;65.4;40;37;3;21;52.5
+425400;Schwerer Diebstahl insgesamt in/aus Kiosken, Warenhäusern, Verkaufsräumen pp. von Schusswaffen;21;0;10;5;4;2;0;0;0;12;57.1;19;19;0;8;42.1
+425410;Besonders schwerer Fall des Diebstahls in/aus Kiosken, Warenhäusern, Verkaufsräumen pp. von Schusswaffen;15;0;9;3;2;1;0;0;0;7;46.7;12;12;0;5;41.7
+425420;Schwerer Diebstahl in/aus Kiosken, Warenhäusern, Verkaufsräumen pp. von Schusswaffen §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;6;0;1;2;2;1;0;0;0;5;83.3;7;7;0;3;42.9
+425500;Schwerer Diebstahl insgesamt in/aus Kiosken, Warenhäusern, Verkaufsräumen pp. von unbaren Zahlungsmitteln;187;0;63;67;29;27;1;0;0;82;43.9;106;93;13;67;63.2
+425510;Besonders schwerer Fall des Diebstahls in/aus Kiosken, Warenhäusern, Verkaufsräumen pp. von unbaren Zahlungsmitteln;123;0;39;43;21;19;1;0;0;47;38.2;52;47;5;30;57.7
+425520;Schwerer Diebstahl in/aus Kiosken, Warenhäusern, Verkaufsräumen pp. von unbaren Zahlungsmitteln §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;64;0;24;24;8;8;0;0;0;35;54.7;62;52;10;45;72.6
+426*00;Schwerer Ladendiebstahl;20,297;0.4;1,997;5,438;5,455;7,281;126;0;0;18,076;89.1;16,169;12,836;3,333;10,990;68
+426000;Schwerer Ladendiebstahl insgesamt;20,297;0.4;1,997;5,438;5,455;7,281;126;0;0;18,076;89.1;16,169;12,836;3,333;10,990;68
+426010;Besonders schwerer Fall des Ladendiebstahls;12,567;0.2;1,069;3,119;3,457;4,836;86;0;0;10,767;85.7;8,254;6,497;1,757;6,055;73.4
+426020;Schwerer Ladendiebstahl §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;7,730;0.1;928;2,319;1,998;2,445;40;0;0;7,309;94.6;8,993;7,287;1,706;5,826;64.8
+435*00;Wohnungseinbruchdiebstahl §§ 244 Abs. 1 Nr. 3 und Abs. 4, 244a StGB;35,045;0.7;8,149;9,759;7,332;9,798;7;0;0;7,406;21.1;6,946;5,879;1,067;2,695;38.8
+435000;Wohnungseinbruchdiebstahl (ohne TWE) § 244 Abs. 1 Nr. 3 und Abs. 4 StGB von sonstigem Gut;20,121;0.4;4,919;5,718;4,056;5,424;4;0;0;4,146;20.6;4,301;3,676;625;1,578;36.7
+435020;Wohnungseinbruchdiebstahl (ohne TWE) bandenmäßig §§ 244 Abs. 4, 244a StGB;293;0;92;98;45;57;1;0;0;195;66.6;229;208;21;151;65.9
+435400;Wohnungseinbruchdiebstahl (ohne TWE) § 244 Abs. 1 Nr. 3 und Abs. 4 StGB von Schusswaffen;83;0;44;28;6;5;0;0;0;22;26.5;28;25;3;14;50
+435500;Wohnungseinbruchdiebstahl (ohne TWE) § 244 Abs. 1 Nr. 3 und Abs. 4 StGB von unbaren Zahlungsmitteln;326;0;79;105;69;73;0;0;0;95;29.1;112;102;10;38;33.9
+435800;Wohnungseinbruchdiebstahl (ohne TWE) § 244 Abs. 1 Nr. 3 und Abs. 4 StGB von Antiquitäten, Kunst- und sakralen Gegenständen;16;0;9;4;2;1;0;0;0;5;31.3;7;5;2;0;0
+436*00;Tageswohnungseinbruchdiebstahl §§ 244 Abs. 1 Nr. 3 und Abs. 4, 244a StGB;14,206;0.3;3,006;3,806;3,154;4,238;2;0;0;2,943;20.7;2,852;2,396;456;1,284;45
+436000;Tageswohnungseinbruch § 244 Abs. 1 Nr. 3 und Abs. 4 StGB von sonstigem Gut;13,713;0.3;2,842;3,648;3,086;4,135;2;0;0;2,679;19.5;2,650;2,227;423;1,160;43.8
+436020;Tageswohnungseinbruchdiebstahl bandenmäßig §§ 244 Abs. 4, 244a StGB;291;0;98;100;33;60;0;0;0;206;70.8;216;177;39;167;77.3
+436400;Tageswohnungseinbruch § 244 Abs. 1 Nr. 3 und Abs. 4 StGB von Schusswaffen;38;0;20;6;8;4;0;0;0;9;23.7;20;19;1;14;70
+436500;Tageswohnungseinbruch § 244 Abs. 1 Nr. 3 und Abs. 4 StGB von unbaren Zahlungsmitteln;159;0;44;50;26;39;0;0;0;48;30.2;66;57;9;28;42.4
+436800;Tageswohnungseinbruch § 244 Abs. 1 Nr. 3 und Abs. 4 StGB von Antiquitäten, Kunst- und sakralen Gegenständen;5;0;2;2;1;0;0;0;0;1;20;1;1;0;0;0
+440*00;Schwerer Diebstahl in/aus Boden-, Kellerräumen und Waschküchen;54,532;1;4,286;12,289;14,619;23,335;3;0;0;5,023;9.2;3,247;2,902;345;831;25.6
+440000;Schwerer Diebstahl insgesamt in/aus Boden-, Kellerräumen, Waschküchen von sonstigem Gut;33,337;0.6;2,532;7,133;8,541;15,130;1;0;0;3,293;9.9;2,087;1,852;235;559;26.8
+440010;Besonders schwerer Fall des Diebstahls in/aus Boden-, Kellerräumen, Waschküchen von sonstigem Gut;32,959;0.6;2,504;7,037;8,403;15,014;1;0;0;3,201;9.7;2,001;1,778;223;517;25.8
+440020;Schwerer Diebstahl in/aus Boden-, Kellerräumen, Waschküchen §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;378;0;28;96;138;116;0;0;0;92;24.3;109;97;12;49;45
+440300;Schwerer Diebstahl insgesamt in/aus Boden-, Kellerräumen, Waschküchen von Fahrrädern;21,195;0.4;1,754;5,156;6,078;8,205;2;0;0;1,730;8.2;1,463;1,334;129;348;23.8
+440310;Besonders schwerer Fall des Diebstahls in/aus Boden-, Kellerräumen, Waschküchen von Fahrrädern;21,001;0.4;1,739;5,112;6,009;8,139;2;0;0;1,693;8.1;1,427;1,301;126;328;23
+440320;Schwerer Diebstahl in/aus Boden-, Kellerräumen, Waschküchen von Fahrrädern §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;194;0;15;44;69;66;0;0;0;37;19.1;44;41;3;25;56.8
+445*00;Schwerer Diebstahl in/aus überwiegend unbezogenen Neu- und Rohbauten und Baustellen;12,474;0.2;3,286;3,594;2,205;3,381;8;0;0;1,181;9.5;1,427;1,351;76;565;39.6
+445000;Schwerer Diebstahl insgesamt in/aus überwiegend unbezogenen Neu- und Rohbauten und Baustellen von sonstigem Gut;12,279;0.2;3,221;3,539;2,179;3,332;8;0;0;1,159;9.4;1,396;1,321;75;557;39.9
+445010;Besonders schwerer Fall des Diebstahls in/aus überwiegend unbezogenen Neu- und Rohbauten und Baustellen von sonstigem Gut;11,934;0.2;3,144;3,410;2,087;3,285;8;0;0;1,045;8.8;1,215;1,147;68;456;37.5
+445020;Schwerer Diebstahl in/aus überwiegend unbezogenen Neu- und Rohbauten und Baustellen von sonstigem Gut §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;345;0;77;129;92;47;0;0;0;114;33;211;200;11;111;52.6
+445100;Schwerer Diebstahl insgesamt in/aus überwiegend unbezogenen Neu- und Rohbauten und Baustellen von Kraftwagen;133;0;52;41;14;26;0;0;0;20;15;33;32;1;9;27.3
+445110;Besonders schwerer Fall des Diebstahls in/aus überwiegend unbezogenen Neu- und Rohbauten und Baustellen von Kraftwagen;124;0;50;34;14;26;0;0;0;19;15.3;30;29;1;9;30
+445120;Schwerer Diebstahl in/aus überwiegend unbezogenen Neu- und Rohbauten und Baustellen von Kraftwagen §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;9;0;2;7;0;0;0;0;0;1;11.1;3;3;0;0;0
+445500;Schwerer Diebstahl insgesamt in/aus überwiegend unbezogenen Neu- und Rohbauten und Baustellen von unbaren Zahlungsmitteln;62;0;13;14;12;23;0;0;0;2;3.2;2;2;0;0;0
+445510;Besonders schwerer Fall des Diebstahls in/aus überwiegend unbezogenen Neu- und Rohbauten und Baustellen von unbaren Zahlungsmitteln;59;0;12;13;11;23;0;0;0;2;3.4;2;2;0;0;0
+445520;Schwerer Diebstahl in/aus überwiegend unbezogenen Neu- und Rohbauten und Baustellen von unbaren Zahlungsmitteln §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;3;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0
+450*00;Schwerer Diebstahl an/aus Kraftfahrzeugen;82,908;1.6;14,107;19,001;17,678;32,041;81;0;0;7,324;8.8;4,654;4,399;255;2,479;53.3
+450000;Schwerer Diebstahl insgesamt an/aus Kraftfahrzeugen von sonstigem Gut;78,111;1.5;13,337;17,646;16,486;30,565;77;0;0;6,820;8.7;4,418;4,185;233;2,387;54
+450010;Besonders schwerer Fall des Diebstahls an/aus Kraftfahrzeugen von sonstigem Gut;75,410;1.4;12,599;16,870;15,871;29,999;71;0;0;5,914;7.8;3,903;3,699;204;2,028;52
+450020;Schwerer Diebstahl an/aus Kraftfahrzeugen von sonstigem Gut §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;2,701;0.1;738;776;615;566;6;0;0;906;33.5;683;647;36;487;71.3
+450500;Schwerer Diebstahl aus Kraftfahrzeugen von unbaren Zahlungsmitteln;4,797;0.1;770;1,355;1,192;1,476;4;0;0;504;10.5;451;421;30;190;42.1
+450510;Besonders schwerer Fall des Diebstahls aus Kraftfahrzeugen von unbaren Zahlungsmitteln;4,672;0.1;750;1,319;1,160;1,439;4;0;0;467;10;397;370;27;156;39.3
+450520;Schwerer Diebstahl aus Kraftfahrzeugen von unbaren Zahlungsmitteln §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;125;0;20;36;32;37;0;0;0;37;29.6;62;57;5;39;62.9
+471000;Schwerer Diebstahl von Betäubungsmitteln aus Apotheken;43;0;20;13;4;6;0;0;0;18;41.9;21;20;1;6;28.6
+471010;Besonders schwerer Fall des Diebstahls von Betäubungsmitteln aus Apotheken;39;0;17;12;4;6;0;0;0;15;38.5;18;17;1;6;33.3
+471020;Schwerer Diebstahl von Betäubungsmitteln aus Apotheken §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;4;0;3;1;0;0;0;0;0;3;75;3;3;0;0;0
+472000;Schwerer Diebstahl von Betäubungsmitteln aus Arztpraxen;37;0;15;9;7;6;0;0;0;9;24.3;7;6;1;0;0
+472010;Besonders schwerer Fall des Diebstahls von Betäubungsmitteln aus Arztpraxen;37;0;15;9;7;6;0;0;0;9;24.3;7;6;1;0;0
+472020;Schwerer Diebstahl von Betäubungsmitteln aus Arztpraxen §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+473000;Schwerer Diebstahl von Betäubungsmitteln aus Krankenhäusern;72;0;27;20;12;13;0;0;0;20;27.8;25;15;10;1;4
+473010;Besonders schwerer Fall des Diebstahls von Betäubungsmitteln aus Krankenhäusern;70;0;27;20;12;11;0;0;0;19;27.1;24;14;10;0;0
+473020;Schwerer Diebstahl von Betäubungsmitteln aus Krankenhäusern §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;2;0;0;0;0;2;0;0;0;1;50;1;1;0;1;100
+474000;Schwerer Diebstahl von Betäubungsmitteln bei Herstellern und Großhändlern;3;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0
+474010;Besonders schwerer Fall des Diebstahls von Betäubungsmitteln bei Herstellern und Großhändlern;3;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0
+474020;Schwerer Diebstahl von Betäubungsmitteln bei Herstellern und Großhändlern §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+475000;Schwerer Diebstahl von Rezeptformularen zur Erlangung von Betäubungsmitteln;15;0;6;6;2;1;0;0;0;7;46.7;8;5;3;1;12.5
+475010;Besonders schwerer Fall des Diebstahls von Rezeptformularen zur Erlangung von Betäubungsmitteln;15;0;6;6;2;1;0;0;0;7;46.7;8;5;3;1;12.5
+475020;Schwerer Diebstahl von Rezeptformularen zur Erlangung von Betäubungsmitteln §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+490000;Schwerer Taschendiebstahl insgesamt von sonstigem Gut;1,464;0;124;212;224;898;6;0;0;813;55.5;807;626;181;751;93.1
+490010;Besonders schwerer Fall des Taschendiebstahl von sonstigem Gut;1,186;0;85;177;159;760;5;0;0;636;53.6;566;450;116;523;92.4
+490020;Schwerer Taschendiebstahl von sonstigem Gut §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;278;0;39;35;65;138;1;0;0;177;63.7;278;202;76;265;95.3
+490500;Schwerer Taschendiebstahl von unbaren Zahlungsmitteln;580;0;77;97;101;305;0;0;0;250;43.1;283;173;110;271;95.8
+490510;Besonders schwerer Fall des Taschendiebstahl von unbaren Zahlungsmitteln;445;0;55;65;61;264;0;0;0;177;39.8;194;124;70;185;95.4
+490520;Schwerer Taschendiebstahl von unbaren Zahlungsmitteln §§ 244 Abs. 1 Nr. 1 und 2, 244a StGB;135;0;22;32;40;41;0;0;0;73;54.1;108;56;52;105;97.2
+****00;Diebstahl insgesamt und zwar:;1,594,491;30.6;281,508;415,936;343,992;544,809;8,246;0;0;495,510;31.1;356,996;241,582;115,414;145,127;40.7
+***100;Diebstahl insgesamt von Kraftwagen einschl. unbefugte Ingebrauchnahme;22,152;0.4;5,275;5,348;3,227;8,270;32;0;0;7,288;32.9;7,305;6,646;659;3,032;41.5
+***200;Diebstahl insgesamt von Mopeds und Krafträdern einschl. unbefugte Ingebrauchnahme;21,278;0.4;3,803;6,084;5,251;6,093;47;0;0;3,957;18.6;4,055;3,870;185;1,020;25.2
+***300;Diebstahl insgesamt von Fahrrädern einschl. unbefugte Ingebrauchnahme;257,674;4.9;38,902;74,405;56,740;87,154;473;0;0;22,375;8.7;17,598;16,140;1,458;6,522;37.1
+***400;Diebstahl insgesamt von Schusswaffen;424;0;200;125;58;39;2;0;0;183;43.2;253;210;43;67;26.5
+***500;Diebstahl insgesamt von unbaren Zahlungsmitteln;97,228;1.9;11,715;21,213;23,265;40,043;992;0;0;7,552;7.8;6,870;5,266;1,604;3,052;44.4
+***700;Diebstahl insgesamt von/aus Automaten;16,694;0.3;2,611;2,209;1,223;10,636;15;0;0;2,013;12.1;1,641;1,514;127;674;41.1
+***800;Diebstahl insgesamt von Antiquitäten, Kunst- und sakralen Gegenständen;1,199;0;381;366;225;221;6;0;0;255;21.3;274;206;68;70;25.5
+*05*00;Diebstahl insgesamt in/aus Banken, Sparkassen, Postfilialen und -agenturen und dergleichen;3,797;0.1;915;1,031;638;1,084;129;0;0;1,126;29.7;849;625;224;316;37.2
+*10*00;Diebstahl insgesamt in/aus Dienst-, Büro-, Fabrikations-, Werkstatt- und Lagerräumen;53,591;1;16,620;15,808;9,965;11,110;88;0;0;13,099;24.4;12,710;10,904;1,806;4,065;32
+*15*00;Diebstahl insgesamt in/aus Gaststätten, Kantinen, Hotels und Pensionen;20,975;0.4;3,539;4,142;4,095;9,186;13;0;0;4,319;20.6;4,363;3,759;604;1,814;41.6
+*25*00;Diebstahl insgesamt in/aus Kiosken, Warenhäusern, Verkaufsräumen, Selbstbedienungsläden, Schaufenstern und Schaukästen darunter:;372,531;7.1;48,981;106,474;96,411;119,814;851;0;0;312,526;83.9;235,820;145,782;90,038;103,837;44
+*26*00;Ladendiebstahl insgesamt;334,288;6.4;40,400;95,090;88,563;109,421;814;0;0;301,367;90.2;228,221;140,118;88,103;100,741;44.1
+*35*00;Diebstahl insgesamt in/aus Wohnungen;72,859;1.4;18,284;21,269;15,414;17,861;31;0;0;25,896;35.5;25,397;17,699;7,698;7,935;31.2
+*40*00;Diebstahl insgesamt in/aus Boden-, Kellerräumen und Waschküchen;64,390;1.2;6,099;15,603;17,199;25,482;7;0;0;6,737;10.5;4,887;4,185;702;1,197;24.5
+*45*00;Diebstahl insgesamt in/aus überwiegend unbezogenen Neu- und Rohbauten und Baustellen;23,171;0.4;6,579;6,565;4,101;5,865;61;0;0;2,478;10.7;2,975;2,775;200;1,086;36.5
+*50*00;Diebstahl insgesamt an/aus Kraftfahrzeugen;207,668;4;40,600;50,720;42,669;73,001;678;0;0;17,849;8.6;12,199;11,188;1,011;5,159;42.3
+*71000;Diebstahl insgesamt von Betäubungsmitteln aus Apotheken;73;0;28;16;9;17;3;0;0;33;45.2;35;30;5;8;22.9
+*72000;Diebstahl insgesamt von Betäubungsmitteln aus Arztpraxen;62;0;21;16;16;8;1;0;0;22;35.5;21;12;9;1;4.8
+*73000;Diebstahl insgesamt von Betäubungsmitteln aus Krankenhäusern;423;0;108;142;85;88;0;0;0;170;40.2;170;91;79;14;8.2
+*74000;Diebstahl insgesamt von Betäubungsmitteln bei Herstellern und Großhändlern;51;0;7;13;5;10;16;0;0;8;15.7;10;9;1;3;30
+*75000;Diebstahl insgesamt von Rezeptformularen zur Erlangung von Betäubungsmitteln;90;0;32;24;11;18;5;0;0;43;47.8;45;35;10;4;8.9
+*90*00;Taschendiebstahl insgesamt;96,758;1.9;8,024;16,363;20,613;51,132;626;0;0;4,944;5.1;4,263;3,364;899;3,183;74.7
+500000;Vermögens- und Fälschungsdelikte;934,402;17.9;227,618;214,760;171,779;253,315;66,930;0;0;591,030;63.3;411,408;290,557;120,851;153,101;37.2
+510000;Betrug §§ 263, 263a, 264, 264a, 265, 265a-e StGB;692,106;13.3;167,515;147,246;120,590;199,590;57,165;0;0;437,802;63.3;281,295;197,655;83,640;103,496;36.8
+511000;Waren- und Warenkreditbetrug;267,533;5.1;68,287;63,392;38,324;65,301;32,229;0;0;138,469;51.8;93,968;63,149;30,819;24,092;25.6
+511100;Betrügerisches Erlangen von Kfz §§ 263, 263a StGB;1,202;0;327;333;173;353;16;0;0;1,035;86.1;1,033;878;155;528;51.1
+511110;Betrügerisches Erlangen von Kfz § 263 StGB;1,143;0;318;325;168;321;11;0;0;992;86.8;992;841;151;513;51.7
+511120;Betrügerisches Erlangen von Kfz § 263a StGB;59;0;9;8;5;32;5;0;0;43;72.9;45;41;4;17;37.8
+511200;Sonstiger Warenkreditbetrug;153,772;2.9;42,824;37,371;20,497;41,941;11,139;0;0;61,700;40.1;49,589;33,926;15,663;14,426;29.1
+511201;Tankbetrug;84,713;1.6;30,821;23,958;11,180;18,745;9;0;0;29,219;34.5;24,556;19,490;5,066;9,007;36.7
+511210;Weitere Arten des Warenkreditbetruges §§ 263, 263a StGB;69,059;1.3;12,003;13,413;9,317;23,196;11,130;0;0;32,481;47;25,316;14,662;10,654;5,491;21.7
+511211;Weitere Arten des Warenkreditbetruges § 263 StGB;37,693;0.7;7,719;8,845;6,578;10,150;4,401;0;0;21,339;56.6;18,446;10,678;7,768;4,026;21.8
+511212;Weitere Arten des Warenkreditbetruges § 263a StGB;31,366;0.6;4,284;4,568;2,739;13,046;6,729;0;0;11,142;35.5;7,749;4,538;3,211;1,684;21.7
+511300;Warenbetrug;112,559;2.2;25,136;25,688;17,654;23,007;21,074;0;0;75,734;67.3;45,998;30,180;15,818;9,536;20.7
+513000;Kapitalanlage- und Anlagebetrug;2,965;0.1;878;517;296;879;395;0;0;1,295;43.7;744;615;129;224;30.1
+513100;Prospektbetrug (Kapitalanlagebetrug) § 264a StGB;85;0;24;16;9;22;14;0;0;14;16.5;23;18;5;4;17.4
+513200;Anlagebetrug § 263 StGB;2,880;0.1;854;501;287;857;381;0;0;1,281;44.5;725;600;125;220;30.3
+514000;Geldkreditbetrug;6,356;0.1;1,342;1,323;973;2,621;97;0;0;6,055;95.3;5,866;4,235;1,631;2,160;36.8
+514100;Kreditbetrug § 265b StGB (im geschäftlichen Verkehr);96;0;27;22;31;13;3;0;0;86;89.6;100;77;23;43;43
+514200;Subventionsbetrug § 264 StGB;4,732;0.1;1,003;903;670;2,116;40;0;0;4,648;98.2;4,399;3,182;1,217;1,593;36.2
+514300;Krediterlangungsbetrug § 263 StGB;1,528;0;312;398;272;492;54;0;0;1,321;86.5;1,385;993;392;527;38.1
+515000;Erschleichen von Leistungen § 265a StGB;133,654;2.6;14,686;25,638;37,910;55,353;67;0;0;131,799;98.6;89,110;67,059;22,051;46,190;51.8
+515001;Beförderungserschleichung;131,529;2.5;14,389;25,196;37,259;54,624;61;0;0;129,874;98.7;87,472;65,863;21,609;45,437;51.9
+515079;Sonstiges Erschleichen von Leistungen;2,125;0;297;442;651;729;6;0;0;1,925;90.6;2,035;1,512;523;910;44.7
+516000;Betrug bzw. Computerbetrug mittels rechtswidrig erlangter unbarer Zahlungsmittel;73,354;1.4;9,341;14,128;12,256;30,960;6,669;0;0;15,824;21.6;9,566;6,831;2,735;3,407;35.6
+516200;Betrug mittels rechtswidrig erlangter Zahlungskarten ohne PIN (Lastschriftverfahren);16,715;0.3;1,407;2,826;2,877;8,804;801;0;0;2,786;16.7;1,595;1,258;337;640;40.1
+516300;Computerbetrug mittels rechtswidrig erlangter Zahlungskarten mit PIN § 263a StGB;23,359;0.4;3,872;4,596;3,011;11,520;360;0;0;5,756;24.6;3,282;2,189;1,093;1,178;35.9
+516500;Betrug bzw. Computerbetrug mittels rechtswidrig erlangter Daten von Zahlungskarten §§ 263, 263a StGB;20,131;0.4;2,186;3,727;2,980;7,391;3,847;0;0;3,558;17.7;3,028;2,199;829;1,128;37.3
+516510;Betrug mittels rechtswidrig erlangter Daten von Zahlungskarten § 263 StGB;7,603;0.1;912;1,654;1,577;2,055;1,405;0;0;1,373;18.1;1,280;893;387;480;37.5
+516520;Computerbetrug mittels rechtswidrig erlangter Daten von Zahlungskarten § 263a StGB;12,528;0.2;1,274;2,073;1,403;5,336;2,442;0;0;2,185;17.4;1,823;1,365;458;689;37.8
+516900;Betrug bzw. Computerbetrug mittels rechtswidrig erlangter sonstiger unbarer Zahlungsmittel §§ 263, 263a StGB;13,149;0.3;1,876;2,979;3,388;3,245;1,661;0;0;3,724;28.3;2,376;1,720;656;813;34.2
+516910;Betrug mittels rechtswidrig erlangter sonstiger unbarer Zahlungsmittel § 263 StGB;6,171;0.1;787;1,317;1,897;1,595;575;0;0;1,849;30;1,095;777;318;368;33.6
+516920;Computerbetrug mittels rechtswidrig erlangter sonstiger unbarer Zahlungsmittel § 263a StGB;6,978;0.1;1,089;1,662;1,491;1,650;1,086;0;0;1,875;26.9;1,326;980;346;461;34.8
+517000;Sonstiger Betrug;208,244;4;72,981;42,248;30,831;44,476;17,708;0;0;144,360;69.3;98,574;68,131;30,443;32,441;32.9
+517100;Leistungsbetrug;48,674;0.9;37,100;3,456;2,058;5,321;739;0;0;43,918;90.2;8,279;6,349;1,930;2,471;29.8
+517200;Leistungskreditbetrug §§ 263, 263a StGB;17,786;0.3;4,105;4,220;2,635;4,966;1,860;0;0;12,299;69.1;11,875;8,018;3,857;2,958;24.9
+517210;Leistungskreditbetrug § 263 StGB;13,265;0.3;3,576;3,685;2,238;3,154;612;0;0;10,368;78.2;10,245;6,849;3,396;2,472;24.1
+517220;Leistungskreditbetrug § 263a StGB;4,521;0.1;529;535;397;1,812;1,248;0;0;1,931;42.7;1,704;1,227;477;500;29.3
+517400;Betrug z.N.v. Versicherungen und Versicherungsmissbrauch §§ 263, 265 StGB;1,240;0;359;303;270;289;19;0;0;1,210;97.6;1,439;1,071;368;495;34.4
+517410;Betrug zum Nachteil von Versicherungen;1,201;0;348;290;265;281;17;0;0;1,171;97.5;1,373;1,015;358;472;34.4
+517420;Versicherungsmissbrauch;39;0;11;13;5;8;2;0;0;39;100;66;56;10;23;34.8
+517500;Computerbetrug (sonstiger) § 263a StGB (soweit nicht unter den Schlüsseln 511120, 511212, 516300, 516520, 516920, 517220, 517900, 518112 bzw. 518302 zu erfassen);13,488;0.3;3,145;2,792;2,140;2,256;3,155;0;0;5,428;40.2;4,851;3,399;1,452;1,267;26.1
+517510;Computerbetrug (sonstiger) § 263a Abs. 1 und 2 StGB;13,418;0.3;3,135;2,779;2,134;2,245;3,125;0;0;5,417;40.4;4,846;3,395;1,451;1,264;26.1
+517520;Vorbereitung des Computerbetruges § 263a Abs. 3 StGB;70;0;10;13;6;11;30;0;0;11;15.7;6;5;1;3;50
+517600;Provisionsbetrug;521;0;77;131;156;136;21;0;0;451;86.6;290;256;34;49;16.9
+517800;Sozialleistungsbetrug;9,449;0.2;2,395;3,212;1,888;1,912;42;0;0;9,333;98.8;10,207;5,685;4,522;3,409;33.4
+517900;Missbräuchliche Nutzung von Telekommunikationsdiensten § 263a StGB;233;0;76;66;46;25;20;0;0;114;48.9;125;98;27;21;16.8
+518100;Abrechnungsbetrug;3,247;0.1;1,430;534;472;791;20;0;0;2,997;92.3;2,134;1,296;838;309;14.5
+518110;Abrechnungsbetrug im Gesundheitswesen §§ 263, 263a StGB;2,649;0.1;1,250;379;353;663;4;0;0;2,567;96.9;1,637;937;700;220;13.4
+518111;Abrechnungsbetrug im Gesundheitswesen § 263 StGB;2,617;0.1;1,242;368;346;657;4;0;0;2,539;97;1,597;917;680;216;13.5
+518112;Abrechnungsbetrug im Gesundheitswesen § 263a StGB;32;0;8;11;7;6;0;0;0;28;87.5;40;20;20;4;10
+518179;Sonstiger Abrechnungsbetrug;598;0;180;155;119;128;16;0;0;430;71.9;507;365;142;90;17.8
+518200;Einmietbetrug;3,881;0.1;1,557;1,166;545;602;11;0;0;3,562;91.8;3,585;2,393;1,192;1,069;29.8
+518300;Überweisungsbetrug §§ 263, 263a StGB;5,642;0.1;889;1,147;778;1,690;1,138;0;0;2,670;47.3;2,260;1,588;672;837;37
+518301;Überweisungsbetrug § 263 StGB;4,254;0.1;689;936;650;1,198;781;0;0;2,117;49.8;1,712;1,189;523;610;35.6
+518302;Überweisungsbetrug § 263a StGB;1,388;0;200;211;128;492;357;0;0;553;39.8;586;421;165;237;40.4
+518500;Sportwettbetrug und Manipulation von berufssportlichen Wettbewerben §§ 265c-e StGB;2;0;0;0;1;0;1;0;0;2;100;17;17;0;9;52.9
+518510;Sportwettbetrug §§ 265c, 265e StGB;2;0;0;0;1;0;1;0;0;2;100;17;17;0;9;52.9
+518520;Manipulation von berufssportlichen Wettbewerben §§ 265d, 265e StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+518800;Kreditvermittlungsbetrug § 263 StGB;228;0;63;65;25;33;42;0;0;152;66.7;171;103;68;58;33.9
+518900;Sonstige weitere Betrugsarten;103,853;2;21,785;25,156;19,817;26,455;10,640;0;0;62,224;59.9;57,533;41,100;16,433;20,579;35.8
+520000;Veruntreuungen §§ 266, 266a, 266b StGB;11,313;0.2;3,810;3,184;1,941;2,257;121;0;0;10,674;94.4;9,267;6,562;2,705;1,929;20.8
+521000;Untreue § 266 StGB;4,850;0.1;1,461;1,289;779;1,271;50;0;0;4,631;95.5;4,869;3,132;1,737;398;8.2
+521079;Sonstige Untreue;4,749;0.1;1,423;1,264;757;1,255;50;0;0;4,536;95.5;4,820;3,096;1,724;395;8.2
+521100;Untreue bei Kapitalanlagegeschäften;101;0;38;25;22;16;0;0;0;95;94.1;52;38;14;3;5.8
+522000;Vorenthalten und Veruntreuen von Arbeitsentgelt § 266a StGB;5,982;0.1;2,250;1,737;1,049;922;24;0;0;5,806;97.1;4,237;3,357;880;1,479;34.9
+523000;Missbrauch von Scheck- und Kreditkarten § 266b StGB;481;0;99;158;113;64;47;0;0;237;49.3;235;134;101;67;28.5
+530000;Unterschlagung §§ 246, 247, 248a StGB;115,043;2.2;26,989;32,885;25,861;26,903;2,405;0;0;48,765;42.4;47,131;33,657;13,474;13,552;28.8
+530079;Unterschlagung sonstiger Güter/Sachen §§ 246, 247, 248a StGB - ohne von Kfz;106,790;2;24,678;30,583;24,352;24,853;2,324;0;0;41,216;38.6;39,990;27,869;12,121;10,402;26
+531000;Unterschlagung von Kfz §§ 246, 247 StGB;8,253;0.2;2,311;2,302;1,509;2,050;81;0;0;7,549;91.5;7,522;6,103;1,419;3,257;43.3
+540000;Urkundenfälschung §§ 267-271, 273-279, 281 StGB;106,842;2;27,351;28,836;21,541;21,980;7,134;0;0;88,360;82.7;85,568;62,248;23,320;37,981;44.4
+540002;Mittelbare Falschbeurkundung;1,540;0;240;530;361;386;23;0;0;1,411;91.6;1,467;1,156;311;941;64.1
+540003;Verändern von amtlichen Ausweisen;603;0;142;194;74;182;11;0;0;566;93.9;577;478;99;436;75.6
+540004;Urkundenunterdrückung, Veränderung einer Grenzbezeichnung § 274 StGB;919;0;310;240;243;107;19;0;0;528;57.5;553;396;157;146;26.4
+540006;Verschaffen von falschen amtlichen Ausweisen;3,731;0.1;1,444;810;472;960;45;0;0;3,183;85.3;3,222;2,800;422;2,707;84
+540010;Missbrauch von Ausweispapieren § 281 StGB;2,986;0.1;646;776;512;952;100;0;0;2,649;88.7;2,770;2,120;650;1,934;69.8
+540011;Missbrauch von Impfausweisen gem. § 281 StGB;113;0;38;34;16;23;2;0;0;108;95.6;109;72;37;49;45
+540012;Missbrauch von Testzertifikaten gem. § 281 StGB;18;0;6;8;2;2;0;0;0;17;94.4;20;15;5;16;80
+540013;Missbrauch von Gesundheitszeugnissen gem. § 281 StGB;34;0;12;11;3;7;1;0;0;33;97.1;35;25;10;8;22.9
+540019;Missbrauch von sonstigen Ausweispapieren gem. § 281 StGB;2,821;0.1;590;723;491;920;97;0;0;2,491;88.3;2,606;2,008;598;1,861;71.4
+540020;Urkundenfälschung § 267 StGB;63,537;1.2;18,197;18,399;11,358;14,450;1,133;0;0;55,913;88;54,512;42,185;12,327;26,439;48.5
+540021;Fälschung von Impfausweisen und Gebrauch gefälschter Impfausweise gem. § 267 StGB;9,197;0.2;2,771;2,231;1,974;2,079;142;0;0;8,836;96.1;9,328;5,682;3,646;2,975;31.9
+540022;Fälschung von Testzertifikaten und Gebrauch gefälschter Testzertifikate gem. § 267 StGB;1,021;0;366;260;175;194;26;0;0;992;97.2;1,076;654;422;284;26.4
+540023;Fälschung von Genesenenbescheinigungen und Gebrauch gefälschter Genesenenbescheinigungen gem. § 267 StGB;224;0;82;76;41;20;5;0;0;215;96;232;157;75;46;19.8
+540029;sonstige Urkundenfälschung gem. § 267 StGB;53,095;1;14,978;15,832;9,168;12,157;960;0;0;45,870;86.4;44,086;35,847;8,239;23,212;52.7
+540030;Vorbereitung der Fälschung von amtlichen Ausweisen § 275 StGB;1,446;0;342;357;292;401;54;0;0;1,284;88.8;1,431;1,001;430;469;32.8
+540031;Vorbereitung der Herstellung von unrichtigen Impfausweisen gem. § 275 StGB;855;0;226;220;119;256;34;0;0;750;87.7;835;593;242;240;28.7
+540039;Vorbereitung der Fälschung von sonstigen amtlichen Ausweisen gem. § 275 StGB;591;0;116;137;173;145;20;0;0;534;90.4;597;408;189;229;38.4
+540040;Unbefugtes Ausstellen von Gesundheitszeugnissen § 277 StGB;1,089;0;224;331;184;292;58;0;0;937;86;1,028;639;389;253;24.6
+540041;Unbefugtes Ausstellen von Impfausweisen gem. § 277 StGB;375;0;81;108;47;123;16;0;0;321;85.6;316;194;122;81;25.6
+540042;Unbefugtes Ausstellen von Testzertifikaten gem. § 277 StGB;105;0;22;29;35;16;3;0;0;94;89.5;100;62;38;17;17
+540043;Unbefugtes Ausstellen von Genesenenbescheinigungen gem. § 277 StGB;19;0;6;4;5;4;0;0;0;17;89.5;19;10;9;3;15.8
+540049;Unbefugtes Ausstellen von sonstigen Gesundheitszeugnissen gem. § 277 StGB;590;0;115;190;97;149;39;0;0;505;85.6;596;374;222;153;25.7
+540050;Ausstellen unrichtiger Gesundheitszeugnisse § 278 StGB;4,361;0.1;443;559;2,792;508;59;0;0;4,204;96.4;3,537;1,714;1,823;455;12.9
+540051;Ausstellen unrichtiger Impfausweise gem. § 278 StGB;302;0;38;68;28;152;16;0;0;246;81.5;167;99;68;24;14.4
+540052;Ausstellen unrichtiger Testzertifikate gem. § 278 StGB;174;0;36;41;46;47;4;0;0;150;86.2;161;101;60;29;18
+540053;Ausstellen unrichtiger Genesenenbescheinigungen gem. § 278 StGB;36;0;5;10;6;12;3;0;0;32;88.9;26;15;11;1;3.8
+540059;Ausstellen sonstiger unrichtiger Gesundheitszeugnisse gem. § 278 StGB;3,849;0.1;364;440;2,712;297;36;0;0;3,776;98.1;3,209;1,518;1,691;401;12.5
+540060;Gebrauch unrichtiger Gesundheitszeugnisse § 279 StGB;12,402;0.2;2,569;3,236;3,488;2,424;685;0;0;12,194;98.3;12,651;7,027;5,624;3,305;26.1
+540061;Gebrauch unrichtiger Impfausweise gem. § 279 StGB;6,772;0.1;1,145;1,735;2,533;1,326;33;0;0;6,679;98.6;6,904;3,886;3,018;2,106;30.5
+540062;Gebrauch unrichtiger Testzertifikate gem. § 279 StGB;524;0;115;173;131;95;10;0;0;512;97.7;535;328;207;198;37
+540063;Gebrauch unrichtiger Genesenenbescheinigungen gem. § 279 StGB;161;0;78;42;14;24;3;0;0;158;98.1;160;92;68;25;15.6
+540069;Gebrauch sonstiger unrichtiger Gesundheitszeugnisse gem. § 279 StGB;4,945;0.1;1,231;1,286;810;979;639;0;0;4,845;98;5,100;2,751;2,349;992;19.5
+541000;Fälschung technischer Aufzeichnungen § 268 StGB;298;0;144;74;49;23;8;0;0;270;90.6;316;279;37;174;55.1
+541001;Manipulation von Fahrtenschreibern und EG-Kontrollgeräten § 268 StGB;71;0;51;12;6;2;0;0;0;68;95.8;73;71;2;53;72.6
+541079;Sonstige Fälschung technischer Aufzeichnungen;227;0;93;62;43;21;8;0;0;202;89;243;208;35;121;49.8
+542000;Fälschung zur Erlangung von Betäubungsmitteln;1,306;0;302;420;328;243;13;0;0;860;65.8;683;547;136;71;10.4
+543000;Fälschung beweiserheblicher Daten, Täuschung im Rechtsverkehr bei Datenverarbeitung §§ 269, 270 StGB;12,624;0.2;2,348;2,910;1,388;1,052;4,926;0;0;4,361;34.5;4,222;3,022;1,200;1,313;31.1
+543010;Fälschung beweiserheblicher Daten § 269 StGB;12,146;0.2;2,258;2,713;1,350;1,001;4,824;0;0;4,209;34.7;4,068;2,921;1,147;1,279;31.4
+543020;Täuschung im Rechtsverkehr bei Datenverarbeitung § 270 StGB;478;0;90;197;38;51;102;0;0;152;31.8;164;107;57;34;20.7
+550000;Geld- und Wertzeichenfälschung, Fälschung von Zahlungskarten mit oder ohne Garantiefunktion, Schecks, Wechseln und anderen körperlichen unbaren Zahlungsinstrumenten sowie die Vorbereitung des Diebstahls und der Unterschlagung §§ 146-149, 151, 152, 152a, 152b, 152c StGB;6,569;0.1;1,003;1,938;1,467;2,058;103;0;0;2,920;44.5;2,784;2,300;484;1,043;37.5
+550010;Gewerbs- oder bandenmäßige Geldfälschung §§ 146 Abs. 2, 151, 152 StGB;31;0;6;8;4;13;0;0;0;29;93.5;33;30;3;15;45.5
+551000;Geld- und Wertzeichenfälschung einschl. Vorbereitungshandlungen §§ 146 außer Abs. 1 Nr. 3, 148, 149, 151, 152 StGB;991;0;228;269;196;287;11;0;0;699;70.5;725;655;70;290;40
+551010;Geldfälschung (einschl. Vorbereitungshandlung) §§ 146 außer Abs. 1 Nr. 3, 151, 152 StGB;837;0;225;229;177;195;11;0;0;662;79.1;692;624;68;260;37.6
+551020;Wertzeichenfälschung §§ 148, 152 StGB;9;0;1;1;2;5;0;0;0;9;100;9;7;2;7;77.8
+551030;Vorbereitung der Fälschung von Geld und Wertzeichen §§ 149, 151, 152 StGB;145;0;2;39;17;87;0;0;0;28;19.3;24;24;0;23;95.8
+552000;Inverkehrbringen von Falschgeld §§ 146 Abs. 1 Nr. 3, 147, 151, 152 StGB;3,993;0.1;688;1,360;1,058;864;23;0;0;2,131;53.4;2,011;1,603;408;717;35.7
+552010;Inverkehrbringen von Falschgeld § 146 Abs. 1 Nr. 3, 151, 152 StGB;3,224;0.1;520;1,118;812;751;23;0;0;1,362;42.2;1,250;1,051;199;455;36.4
+552020;Inverkehrbringen von Falschgeld (nach gutgläubigem Erwerb) § 147, 151, 152 StGB;769;0;168;242;246;113;0;0;0;769;100;788;577;211;273;34.6
+553000;Fälschung von Zahlungskarten mit oder ohne Garantiefunktion, Schecks, Wechseln und anderen körperlichen unbaren Zahlungsinstrumenten §§ 152a, 152b StGB;1,540;0;77;298;204;892;69;0;0;57;3.7;58;54;4;40;69
+553100;Gebrauch falscher Zahlungskarten mit oder ohne Garantiefunktion, Schecks, Wechsel und anderer körperlicher unbarer Zahlungsinstrumente §§ 152a, 152b StGB;1,006;0;55;139;104;657;51;0;0;24;2.4;34;32;2;22;64.7
+553110;Gebrauch falscher Zahlungskarten ohne Garantiefunktion, Schecks, Wechsel und anderer körperlicher unbarer Zahlungsinstrumente;119;0;14;30;13;56;6;0;0;11;9.2;13;11;2;5;38.5
+553120;Gebrauch falscher Zahlungskarten mit Garantiefunktion;887;0;41;109;91;601;45;0;0;13;1.5;21;21;0;17;81
+553200;Nachmachen, Verfälschen, Verschaffen, Feilhalten oder Überlassen falscher Zahlungskarten mit oder ohne Garantiefunktion, Schecks, Wechsel und anderer körperlicher unbarer Zahlungsinstrumente §§ 152a, 152b StGB;534;0;22;159;100;235;18;0;0;33;6.2;29;27;2;22;75.9
+553210;Nachmachen, Verfälschen, Verschaffen, Feilhalten oder Überlassen falscher Zahlungskarten ohne Garantiefunktion, Schecks, Wechsel und anderer körperlicher unbarer Zahlungsinstrumente;115;0;7;54;15;27;12;0;0;12;10.4;13;11;2;8;61.5
+553220;Nachmachen, Verfälschen, Verschaffen, Feilhalten oder Überlassen falscher Zahlungskarten mit Garantiefunktion;419;0;15;105;85;208;6;0;0;21;5;17;17;0;15;88.2
+554000;Vorbereitung des Diebstahls (nach § 242 StGB) und der Unterschlagung (nach § 246 StGB) von Zahlungskarten, Schecks, Wechseln und anderen körperlichen unbaren Zahlungsinstrumenten § 152c StGB;14;0;4;3;5;2;0;0;0;4;28.6;5;4;1;3;60
+560000;Insolvenzstraftaten §§ 283, 283a-d StGB;2,529;0;950;671;379;527;2;0;0;2,509;99.2;2,723;2,178;545;704;25.9
+561000;Bankrott § 283 StGB;1,853;0;660;470;283;438;2;0;0;1,837;99.1;2,293;1,838;455;613;26.7
+562000;Besonders schwerer Fall des Bankrotts § 283a StGB;3;0;1;2;0;0;0;0;0;3;100;11;9;2;1;9.1
+563000;Verletzung der Buchführungspflicht § 283b StGB;628;0;271;183;91;83;0;0;0;624;99.4;734;611;123;164;22.3
+564000;Gläubigerbegünstigung § 283c StGB;26;0;12;10;1;3;0;0;0;26;100;29;22;7;4;13.8
+565000;Schuldnerbegünstigung § 283d StGB;19;0;6;6;4;3;0;0;0;19;100;25;13;12;4;16
+600000;Sonstige Straftatbestände (StGB);1,119,815;21.5;298,628;327,157;220,520;256,639;16,871;165;1,311;597,401;53;490,743;365,533;125,210;118,971;24.2
+610000;Erpressung § 253 StGB;4,705;0.1;990;1,275;835;1,134;471;16;0;2,715;57.7;3,185;2,643;542;1,156;36.3
+610001;Schutzgelderpressung;36;0;7;16;5;8;0;0;0;29;80.6;40;39;1;21;52.5
+610079;Sonstige Erpressung;3,428;0.1;746;977;639;854;212;14;0;2,349;68.5;2,796;2,317;479;995;35.6
+611000;Erpressung auf sexueller Grundlage;1,241;0;237;282;191;272;259;2;0;337;27.2;357;292;65;141;39.5
+620000;Widerstand gegen und tätlicher Angriff auf die Staatsgewalt und Straftaten gegen die öffentliche Ordnung §§ 111, 113-115, 120, 121, 123-129, 130a-134, 136, 138, 140, 145, 145a, 145c, 145d StGB;162,541;3.1;38,518;46,650;33,765;42,834;774;135;28;140,592;86.5;119,353;94,991;24,362;32,796;27.5
+620001;Störung des öffentlichen Friedens durch Androhung von Straftaten;3,676;0.1;948;1,122;635;874;97;64;3;2,848;77.5;2,686;2,365;321;565;21
+620002;Bildung bewaffneter Gruppen § 128 StGB;6;0;1;3;2;0;0;0;0;6;100;35;35;0;19;54.3
+620003;Bildung krimineller Vereinigungen;27;0;9;7;3;7;1;0;0;25;92.6;88;81;7;19;21.6
+620004;Anleitung zu Straftaten;31;0;6;7;3;14;1;1;0;19;61.3;21;19;2;2;9.5
+620005;Amtsanmaßung;1,512;0;479;372;249;243;169;3;0;658;43.5;701;626;75;94;13.4
+620006;Missbrauch von Titeln, Berufsbezeichnungen, Abzeichen;764;0;197;185;115;227;40;0;0;550;72;515;425;90;65;12.6
+620007;Verwahrungsbruch;136;0;32;50;10;43;1;0;0;106;77.9;117;94;23;28;23.9
+620008;Verletzung amtlicher Bekanntmachungen;2;0;0;1;0;1;0;0;0;1;50;1;0;1;0;0
+620009;Verstrickungsbruch, Siegelbruch;978;0;228;252;186;309;3;0;0;542;55.4;575;468;107;222;38.6
+620010;Nichtanzeige geplanter Straftaten;26;0;5;7;10;3;1;0;0;18;69.2;30;21;9;7;23.3
+620011;Belohnung und Billigung von Straftaten;2,041;0;619;616;322;421;63;0;0;889;43.6;853;706;147;76;8.9
+620013;Missbrauch von Notrufen und Beeinträchtigung von Unfallverhütungs- und Nothilfemitteln;13,361;0.3;2,825;3,657;2,557;4,200;122;1;2;8,131;60.9;7,501;5,787;1,714;1,742;23.2
+620014;Verstoß gegen Weisung während Führungsaufsicht;3,609;0.1;918;1,312;793;542;44;2;2;3,601;99.8;2,261;2,199;62;451;19.9
+620015;Verstoß gegen das Berufsverbot;5;0;3;0;1;1;0;0;0;5;100;5;5;0;0;0
+620016;Strafbarkeit sogenannter Feindeslisten § 126a StGB;144;0;48;13;9;54;20;0;0;75;52.1;34;21;13;2;5.9
+620017;Betreiben krimineller Handelsplattformen im Internet § 127 StGB;13;0;5;5;3;0;0;0;0;10;76.9;10;8;2;0;0
+621000;Widerstand gegen und tätlicher Angriff auf die Staatsgewalt §§ 111, 113-115, 120, 121 StGB;41,775;0.8;7,766;12,034;8,848;13,050;77;55;14;40,867;97.8;36,154;30,174;5,980;11,170;30.9
+621010;Öffentliche Aufforderung zu Straftaten;989;0;281;212;141;282;73;2;0;674;68.1;644;551;93;46;7.1
+621040;Gefangenenbefreiung;83;0;17;24;10;32;0;0;0;73;88;100;67;33;31;31
+621050;Gefangenenmeuterei;3;0;1;2;0;0;0;0;0;3;100;16;16;0;10;62.5
+621100;Widerstand gegen und tätlicher Angriff auf Vollstreckungsbeamte und gleichstehende Personen §§ 113-115 StGB;40,700;0.8;7,467;11,796;8,697;12,736;4;53;14;40,117;98.6;35,429;29,569;5,860;11,092;31.3
+621110;Widerstand gegen Vollstreckungsbeamte und gleichstehende Personen §§ 113, 115 StGB;22,193;0.4;4,079;6,495;4,688;6,928;3;38;4;21,997;99.1;20,652;17,821;2,831;6,531;31.6
+621120;Tätlicher Angriff auf Vollstreckungsbeamte und gleichstehende Personen §§ 114, 115 StGB;18,507;0.4;3,388;5,301;4,009;5,808;1;15;10;18,120;97.9;16,860;13,477;3,383;5,241;31.1
+622000;Hausfriedensbruch §§ 123, 124 StGB;85,756;1.6;22,111;24,246;18,435;20,950;14;6;4;74,353;86.7;65,004;51,013;13,991;18,356;28.2
+622100;Hausfriedensbruch § 123 StGB;85,720;1.6;22,104;24,233;18,428;20,941;14;6;4;74,326;86.7;64,863;50,926;13,937;18,282;28.2
+622200;Schwerer Hausfriedensbruch § 124 StGB;36;0;7;13;7;9;0;0;0;27;75;144;90;54;75;52.1
+623000;Landfriedensbruch §§ 125, 125a StGB;1,013;0;49;81;204;677;2;3;3;527;52;2,302;2,006;296;387;16.8
+623010;Landfriedensbruch § 125 StGB;667;0;32;47;169;418;1;0;0;338;50.7;1,476;1,259;217;176;11.9
+623020;Besonders schwerer Landfriedensbruch § 125a StGB;346;0;17;34;35;259;1;3;3;189;54.6;839;758;81;212;25.3
+624000;Vortäuschen einer Straftat § 145d StGB;7,023;0.1;2,036;2,501;1,299;1,119;68;0;0;6,789;96.7;6,963;4,410;2,553;1,531;22
+624010;Vortäuschen einer Straftat gegen die sexuelle Selbstbestimmung;352;0;76;139;80;56;1;0;0;345;98;358;56;302;50;14
+624079;Vortäuschen einer sonstigen Straftat;5,419;0.1;1,636;1,947;979;795;62;0;0;5,209;96.1;5,317;3,327;1,990;1,189;22.4
+624100;Vortäuschen eines Raubes;444;0;84;144;110;105;1;0;0;439;98.9;477;384;93;108;22.6
+624200;Vortäuschen eines Diebstahls;808;0;240;271;130;163;4;0;0;796;98.5;845;666;179;188;22.2
+624201;Vortäuschen eines Kfz-Diebstahls;309;0;107;106;36;58;2;0;0;306;99;336;273;63;73;21.7
+624279;Vortäuschen eines sonstigen Diebstahls;499;0;133;165;94;105;2;0;0;490;98.2;510;394;116;116;22.7
+626000;Gewaltdarstellung § 131 StGB;643;0;233;179;81;99;51;0;0;572;89;591;506;85;101;17.1
+626079;Sonstige Gewaltdarstellung § 131 Abs. 1 Nr. 1a, Nr. 2 StGB;458;0;171;123;54;69;41;0;0;401;87.6;413;358;55;67;16.2
+626100;Gewaltdarstellung, Inhalte an Personen unter 18 Jahren § 131 Abs. 1 Nr. 1b StGB;185;0;62;56;27;30;10;0;0;171;92.4;184;152;32;34;18.5
+630000;Begünstigung, Strafvereitelung (ohne Strafvereitelung im Amt), Hehlerei und Geldwäsche §§ 257, 258, 259-261 StGB;33,764;0.6;7,575;9,152;6,243;8,412;2,382;0;0;30,600;90.6;31,213;22,118;9,095;11,969;38.3
+630010;Begünstigung;68;0;22;28;12;6;0;0;0;66;97.1;76;53;23;26;34.2
+630020;Strafvereitelung;1,455;0;473;501;239;235;7;0;0;1,404;96.5;1,538;951;587;347;22.6
+631000;Hehlerei von Kfz §§ 259-260a StGB;1,301;0;370;421;226;275;9;0;0;1,133;87.1;1,254;1,174;80;633;50.5
+631079;Hehlerei von Kfz § 259 StGB;1,022;0;315;318;178;203;8;0;0;900;88.1;1,031;964;67;464;45
+631100;Gewerbsmäßige Hehlerei von Kfz § 260 Abs. 1 Nr. 1 StGB;174;0;24;82;32;36;0;0;0;147;84.5;134;124;10;91;67.9
+631200;Bandenhehlerei von Kfz § 260 Abs. 1 Nr. 2 StGB;23;0;14;6;1;2;0;0;0;22;95.7;30;30;0;28;93.3
+631300;Gewerbsmäßige Bandenhehlerei von Kfz § 260a StGB;82;0;17;15;15;34;1;0;0;64;78;79;75;4;64;81
+632000;Sonstige Hehlerei §§ 259-260a StGB;8,943;0.2;1,710;2,733;1,842;2,483;175;0;0;8,438;94.4;8,943;7,794;1,149;3,885;43.4
+632079;Sonstige Hehlerei § 259 StGB;7,956;0.2;1,524;2,263;1,696;2,308;165;0;0;7,496;94.2;8,104;7,055;1,049;3,391;41.8
+632100;Sonstige gewerbsmäßige Hehlerei § 260 Abs. 1 Nr. 1 StGB;626;0;159;166;137;157;7;0;0;589;94.1;667;586;81;355;53.2
+632200;Sonstige Bandenhehlerei § 260 Abs. 1 Nr. 2 StGB;20;0;8;9;1;1;1;0;0;18;90;52;45;7;34;65.4
+632300;Sonstige Gewerbsmäßige Bandenhehlerei § 260a StGB;341;0;19;295;8;17;2;0;0;335;98.2;189;170;19;135;71.4
+633000;Geldwäsche, Verschleierung unrechtmäßig erlangter Vermögenswerte § 261 StGB;21,997;0.4;5,000;5,469;3,924;5,413;2,191;0;0;19,559;88.9;19,516;12,245;7,271;7,120;36.5
+640000;Brandstiftung und Herbeiführen einer Brandgefahr §§ 306-306d, 306f StGB;18,543;0.4;7,904;5,382;2,643;2,609;5;0;5;8,527;46;9,134;7,158;1,976;1,609;17.6
+640010;Fahrlässige Brandstiftung;7,402;0.1;3,409;2,037;999;955;2;0;2;4,896;66.1;5,434;3,981;1,453;994;18.3
+640020;Fahrlässiges Herbeiführen einer Brandgefahr;690;0;402;203;56;29;0;0;0;286;41.4;412;351;61;80;19.4
+641000;(Vorsätzliche) Brandstiftung und Herbeiführen einer Brandgefahr §§ 306-306c, 306f Abs. 1 und 2 StGB;10,451;0.2;4,093;3,142;1,588;1,625;3;0;3;3,345;32;3,313;2,851;462;536;16.2
+641010;Vorsätzliche Brandstiftung;7,993;0.2;3,182;2,355;1,194;1,261;1;0;1;2,139;26.8;2,015;1,818;197;253;12.6
+641020;Schwere Brandstiftung;1,559;0;432;507;307;313;0;0;1;849;54.5;925;714;211;206;22.3
+641030;Besonders schwere Brandstiftung;98;0;32;35;18;12;1;0;1;55;56.1;64;58;6;19;29.7
+641040;Brandstiftung mit Todesfolge;15;0;7;5;1;2;0;0;0;7;46.7;8;6;2;2;25
+641050;Vorsätzliches Herbeiführen einer Brandgefahr;786;0;440;240;68;37;1;0;0;295;37.5;423;368;55;63;14.9
+650000;Wettbewerbs-, Korruptions- und Amtsdelikte §§ 258a, 298-300, 331-353d, 355, 357 StGB;4,766;0.1;751;1,274;884;1,786;71;2;7;3,478;73;4,903;3,970;933;286;5.8
+651000;Vorteilsannahme, Bestechlichkeit §§ 331, 332, 335 StGB;218;0;40;53;40;81;4;0;0;172;78.9;294;224;70;23;7.8
+651100;Vorteilsannahme § 331 StGB;86;0;20;19;13;33;1;0;0;75;87.2;127;91;36;8;6.3
+651200;Bestechlichkeit § 332 StGB;128;0;19;33;25;48;3;0;0;94;73.4;160;126;34;15;9.4
+651300;Bestechlichkeit - gewerbsmäßig oder als Mitglied einer Bande § 335 Abs. 2 Nr. 3 StGB;4;0;1;1;2;0;0;0;0;3;75;8;8;0;0;0
+651400;Alle sonstigen besonders schweren Fälle der Bestechlichkeit § 335 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+652000;Vorteilsgewährung, Bestechung §§ 333, 334, 335 StGB;535;0;110;82;95;241;7;0;0;504;94.2;616;492;124;121;19.6
+652100;Vorteilsgewährung § 333 StGB;63;0;15;10;12;26;0;0;0;54;85.7;62;52;10;5;8.1
+652200;Bestechung § 334 StGB;467;0;95;70;81;214;7;0;0;445;95.3;526;419;107;107;20.3
+652300;Bestechung - gewerbsmäßig oder als Mitglied einer Bande nach § 335 Abs. 2 Nr. 3 StGB;4;0;0;2;1;1;0;0;0;4;100;18;15;3;10;55.6
+652400;Alle sonstigen besonders schweren Fälle der Bestechung nach § 335 StGB;1;0;0;0;1;0;0;0;0;1;100;12;8;4;1;8.3
+655000;Sonstige Straftaten im Amt §§ 258a, 339-353d, 355, 357 StGB;3,685;0.1;522;1,045;707;1,352;59;2;7;2,487;67.5;3,551;2,899;652;51;1.4
+655001;Strafvereitelung im Amt;584;0;80;194;126;176;8;0;0;358;61.3;469;335;134;6;1.3
+655002;Rechtsbeugung;152;0;21;52;38;36;5;0;0;45;29.6;58;42;16;3;5.2
+655003;Aussageerpressung;2;0;0;1;1;0;0;0;0;2;100;2;1;1;0;0
+655004;Verfolgung Unschuldiger;122;0;20;26;19;56;1;0;0;90;73.8;130;93;37;2;1.5
+655005;Vollstreckung gegen Unschuldige;7;0;1;5;1;0;0;0;0;3;42.9;4;3;1;0;0
+655006;Falschbeurkundung im Amt;225;0;49;94;30;50;2;0;0;204;90.7;194;178;16;15;7.7
+655007;Gebührenüberhebung;39;0;5;10;9;15;0;0;0;37;94.9;36;27;9;1;2.8
+655008;Abgabenüberhebung, Leistungskürzung;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+655009;Vertrauensbruch im auswärtigen Dienst;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+655010;Verbotene Mitteilungen über Gerichtsverhandlungen;121;0;38;27;20;32;4;0;0;115;95;104;80;24;3;2.9
+655011;Verletzung des Steuergeheimnisses;6;0;3;1;1;1;0;0;0;2;33.3;2;0;2;0;0
+655012;Verleitung eines Untergebenen zu Straftaten;4;0;1;3;0;0;0;0;0;3;75;5;3;2;0;0
+655100;Körperverletzung im Amt § 340 StGB;2,075;0;244;531;395;902;3;2;7;1,407;67.8;2,353;2,005;348;13;0.6
+655200;Verletzung des Dienstgeheimnisses § 353b StGB;348;0;60;101;67;84;36;0;0;221;63.5;231;162;69;8;3.5
+656000;Wettbewerbsbeschränkende Absprachen bei Ausschreibungen § 298 StGB;25;0;8;4;9;4;0;0;0;22;88;48;41;7;0;0
+657000;Bestechlichkeit und Bestechung im geschäftlichen Verkehr und im Gesundheitswesen §§ 299, 299a, 299b und 300 StGB;303;0;71;90;33;108;1;0;0;293;96.7;416;334;82;92;22.1
+657100;Bestechlichkeit und Bestechung § 299 StGB;112;0;26;24;13;48;1;0;0;104;92.9;195;173;22;33;16.9
+657200;Bestechlichkeit und Bestechung, gewerbsmäßig oder als Mitglied einer Bande § 300 Satz 2 Nr. 2 StGB;19;0;7;8;0;4;0;0;0;19;100;22;21;1;9;40.9
+657300;Bestechlichkeit und Bestechung, Vorteil großen Ausmaßes § 300 Satz 2 Nr. 1 StGB;66;0;8;31;1;26;0;0;0;65;98.5;75;60;15;46;61.3
+657400;Bestechlichkeit im Gesundheitswesen;94;0;27;23;17;27;0;0;0;93;98.9;109;70;39;4;3.7
+657500;Bestechung im Gesundheitswesen;12;0;3;4;2;3;0;0;0;12;100;18;13;5;0;0
+660000;Strafbarer Eigennutz §§ 284, 285, 287-293, 297 StGB;6,793;0.1;2,710;1,911;1,033;1,093;46;0;262;5,181;76.3;6,384;5,594;790;2,925;45.8
+660010;Vereiteln der Zwangsvollstreckung;428;0;143;141;81;59;4;0;0;418;97.7;594;348;246;130;21.9
+660020;Pfandkehr;201;0;63;68;30;40;0;0;0;180;89.6;237;189;48;53;22.4
+660030;Unbefugter Gebrauch von Pfandsachen;2;0;0;1;1;0;0;0;0;2;100;2;2;0;2;100
+660040;Gefährdung von Schiffen, Kraft- und Luftfahrzeugen durch Bannware;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+661000;Glücksspiel §§ 284, 285, 287 StGB;1,861;0;226;589;404;638;4;0;0;1,793;96.3;2,607;2,299;308;1,662;63.8
+661010;Unerlaubte Veranstaltung eines Glücksspiels;1,193;0;112;347;276;457;1;0;0;1,136;95.2;1,666;1,420;246;1,108;66.5
+661020;Beteiligung am unerlaubten Glückspiel;660;0;113;239;126;179;3;0;0;651;98.6;1,019;956;63;624;61.2
+661030;Unerlaubte Veranstaltung einer Lotterie oder Ausspielung;8;0;1;3;2;2;0;0;0;6;75;8;7;1;5;62.5
+662000;Wilderei §§ 292, 293 StGB;3,031;0.1;1,859;720;285;136;31;0;262;2,025;66.8;2,300;2,170;130;819;35.6
+662001;Fischwilderei;1,875;0;1,014;491;227;120;23;0;0;1,702;90.8;1,959;1,899;60;780;39.8
+662100;Jagdwilderei § 292 StGB;1,156;0;845;229;58;16;8;0;262;323;27.9;346;276;70;39;11.3
+663000;Wucher § 291 StGB;1,270;0;419;392;232;220;7;0;0;763;60.1;653;593;60;262;40.1
+670000;Alle sonstigen Straftaten gemäß StGB - ohne Verkehrsdelikte -;888,703;17;240,180;261,513;175,117;198,771;13,122;12;1,009;406,308;46;350,208;257,307;92,901;77,084;22
+670001;Falsche uneidliche Aussage (Falschaussage);2,874;0.1;359;1,249;793;463;10;0;0;2,814;97.9;3,263;2,025;1,238;707;21.7
+670002;Meineid;55;0;9;18;19;7;2;0;0;51;92.7;59;31;28;10;16.9
+670003;Falsche Versicherung an Eides statt;2,800;0.1;804;1,120;455;394;27;0;0;2,784;99.4;2,878;1,965;913;530;18.4
+670005;Verleitung zur Falschaussage;65;0;11;24;13;12;5;0;0;61;93.8;70;54;16;19;27.1
+670006;Fahrlässiger Falscheid, fahrlässige falsche Versicherung an Eides statt;22;0;8;12;1;1;0;0;0;22;100;22;18;4;1;4.5
+670007;Falsche Verdächtigung;15,747;0.3;4,884;4,945;2,689;3,071;158;0;0;15,015;95.4;15,653;8,399;7,254;3,376;21.6
+670008;Beschimpfung von Bekenntnissen, Religionsgemeinschaften und Weltanschauungsvereinigungen;69;0;16;9;10;30;4;0;0;42;60.9;37;28;9;5;13.5
+670009;Störung der Religionsausübung;57;0;17;15;11;14;0;0;0;41;71.9;69;52;17;17;24.6
+670010;Störung einer Bestattungsfeier;6;0;2;2;0;2;0;0;0;5;83.3;9;4;5;0;0
+670011;Störung der Totenruhe;1,275;0;610;347;204;113;1;0;0;334;26.2;282;199;83;29;10.3
+670012;Personenstandsfälschung;15;0;2;1;3;9;0;0;0;7;46.7;10;4;6;6;60
+670013;Doppelehe;14;0;5;4;2;3;0;0;0;14;100;15;11;4;7;46.7
+670014;Beischlaf zwischen Verwandten;38;0;13;11;3;6;5;0;0;35;92.1;54;33;21;6;11.1
+670015;Gegen Personen des politischen Lebens gerichtete Beleidigung, üble Nachrede und Verleumdung;1,404;0;484;379;147;329;65;0;0;1,037;73.9;909;734;175;37;4.1
+670016;Verletzung der Vertraulichkeit des Wortes;3,818;0.1;1,188;1,127;618;813;72;0;0;3,649;95.6;3,549;2,344;1,205;796;22.4
+670017;Verletzung des Briefgeheimnisses;3,329;0.1;1,044;891;568;731;95;0;0;1,743;52.4;1,635;937;698;241;14.7
+670018;Verletzung von Privatgeheimnissen;417;0;89;131;90;94;13;0;0;337;80.8;366;210;156;18;4.9
+670019;Verwertung fremder Geheimnisse;14;0;5;5;1;2;1;0;0;12;85.7;13;8;5;1;7.7
+670020;Verletzung des Post- u. Fernmeldegeheimnisses;3,194;0.1;1,294;843;314;337;406;0;0;1,325;41.5;951;759;192;443;46.6
+670021;Aussetzung;77;0;31;25;9;12;0;0;0;65;84.4;74;48;26;18;24.3
+670024;Gefährliche Eingriffe in den Bahn-, Schiffs- und Luftverkehr;2,716;0.1;904;746;473;584;9;0;4;1,337;49.2;1,564;1,303;261;444;28.4
+670025;Gefährliche Eingriffe in den Straßenverkehr;15,274;0.3;5,759;4,502;2,515;2,435;63;12;41;7,420;48.6;8,209;7,207;1,002;1,911;23.3
+670026;Störung öffentlicher Betriebe;590;0;207;156;78;149;0;0;0;101;17.1;117;100;17;20;17.1
+670027;Störung von Telekommunikationsanlagen;702;0;507;105;23;66;1;0;0;437;62.3;435;365;70;86;19.8
+670029;Baugefährdung;114;0;49;21;8;36;0;0;0;88;77.2;131;122;9;30;22.9
+670030;Vollrausch;68;0;19;12;4;33;0;0;0;68;100;63;53;10;25;39.7
+670031;Gefährdung einer Entziehungskur;4;0;0;2;2;0;0;0;0;3;75;3;3;0;1;33.3
+670032;Unterlassene Hilfeleistung, Behinderung von hilfeleistenden Personen § 323c StGB;2,156;0;639;638;330;544;5;0;0;1,436;66.6;1,857;1,193;664;250;13.5
+670033;Parteiverrat;80;0;15;28;20;16;1;0;0;73;91.3;83;66;17;1;1.2
+670034;Verletzung des höchstpersönlichen Lebensbereiches und von Persönlichkeitsrechten durch Bildaufnahmen § 201a StGB;8,933;0.2;2,713;2,665;1,582;1,630;343;0;0;7,421;83.1;7,518;5,291;2,227;1,389;18.5
+670079;Sonstige weitere Straftaten gemäß StGB;25;0;3;2;8;12;0;0;0;16;64;17;14;3;4;23.5
+671000;Verletzung der Unterhaltspflicht § 170 StGB;2,491;0;1,046;795;351;274;25;0;0;2,471;99.2;2,409;2,276;133;435;18.1
+672000;Verletzung der Fürsorge- oder Erziehungspflicht § 171 StGB;1,043;0;256;308;122;354;3;0;0;956;91.7;1,118;375;743;306;27.4
+673000;Beleidigung §§ 185-187, 189 StGB;234,799;4.5;62,830;69,867;45,606;51,845;4,651;0;0;207,411;88.3;189,026;129,490;59,536;40,179;21.3
+673010;Beleidigung ohne sexuelle Grundlage;178,506;3.4;45,666;51,641;36,153;42,421;2,625;0;0;159,195;89.2;146,653;104,692;41,961;32,702;22.3
+673020;Üble Nachrede ohne sexuelle Grundlage;12,573;0.2;4,126;3,829;2,063;2,015;540;0;0;10,664;84.8;11,390;5,419;5,971;1,339;11.8
+673030;Verleumdung ohne sexuelle Grundlage;19,062;0.4;5,992;5,586;2,992;3,623;869;0;0;16,302;85.5;16,914;8,488;8,426;2,101;12.4
+673040;Verunglimpfung des Andenkens Verstorbener ohne sexuelle Grundlage;155;0;42;44;26;35;8;0;0;114;73.5;111;89;22;15;13.5
+673100;Beleidigung auf sexueller Grundlage §§ 185-187, 189 StGB;24,503;0.5;7,004;8,767;4,372;3,751;609;0;0;21,136;86.3;20,809;15,436;5,373;5,286;25.4
+673110;Beleidigung auf sexueller Grundlage;21,861;0.4;6,029;7,892;4,012;3,461;467;0;0;18,921;86.6;18,506;14,428;4,078;4,977;26.9
+673120;Üble Nachrede auf sexueller Grundlage;1,116;0;404;373;161;121;57;0;0;929;83.2;1,022;478;544;142;13.9
+673130;Verleumdung auf sexueller Grundlage;1,518;0;569;498;198;169;84;0;0;1,279;84.3;1,373;584;789;179;13
+673140;Verunglimpfung des Andenkens Verstorbener auf sexueller Grundlage;8;0;2;4;1;0;1;0;0;7;87.5;7;5;2;1;14.3
+674000;Sachbeschädigung §§ 303-305a StGB;560,278;10.7;147,073;165,665;114,978;130,360;2,202;0;964;139,498;24.9;120,992;101,640;19,352;27,845;23
+674010;Sachbeschädigung § 303 StGB ohne Schl. 674100 u. 674300;209,450;4;59,476;59,119;35,987;54,718;150;0;492;71,730;34.2;70,065;58,159;11,906;16,934;24.2
+674011;Sachbeschädigung durch Graffiti ohne Schl. 674111 u. 674311;42,372;0.8;8,957;11,083;8,474;13,803;55;0;0;5,608;13.2;4,767;4,203;564;573;12
+674012;Sachbeschädigung durch Feuer ohne Schl. 674312;12,098;0.2;3,523;3,423;1,813;3,330;9;0;2;2,690;22.2;3,216;2,708;508;578;18
+674019;Sonstige Sachbeschädigung ohne Schl. 674119 u. 674319;154,980;3;46,996;44,613;25,700;37,585;86;0;490;63,432;40.9;63,067;52,122;10,945;15,932;25.3
+674020;Gemeinschädliche Sachbeschädigung ohne Schl. 674320;10,852;0.2;4,679;3,042;1,216;1,910;5;0;15;2,287;21.1;3,263;2,874;389;576;17.7
+674021;Gemeinschädliche Sachbeschädigung durch Graffiti ohne Schl. 674321;3,164;0.1;1,132;821;433;774;4;0;0;529;16.7;649;575;74;74;11.4
+674022;Gemeinschädliche Sachbeschädigung durch Feuer ohne Schl. 674322;761;0;316;256;93;96;0;0;0;185;24.3;328;286;42;50;15.2
+674029;Sonstige gemeinschädliche Sachbeschädigung ohne Schl. 674329;6,927;0.1;3,231;1,965;690;1,040;1;0;15;1,573;22.7;2,315;2,041;274;455;19.7
+674030;Zerstörung von Bauwerken ohne Schl. 674330;27;0;13;5;2;7;0;0;0;12;44.4;15;12;3;6;40
+674100;Sachbeschädigung an Kfz;196,311;3.8;44,633;59,631;43,648;47,564;835;0;170;35,263;18;27,058;22,842;4,216;6,514;24.1
+674111;Sachbeschädigung durch Graffiti an Kfz;4,196;0.1;758;1,218;1,084;1,134;2;0;0;512;12.2;446;377;69;55;12.3
+674119;Sonstige Sachbeschädigung an Kfz;192,115;3.7;43,875;58,413;42,564;46,430;833;0;170;34,751;18.1;26,698;22,537;4,161;6,471;24.2
+674200;Datenveränderung, Computersabotage §§ 303a, 303b StGB;3,303;0.1;495;685;427;619;1,077;0;0;857;25.9;784;573;211;173;22.1
+674210;Datenveränderung;2,801;0.1;395;563;267;557;1,019;0;0;752;26.8;681;481;200;157;23.1
+674220;Computersabotage;502;0;100;122;160;62;58;0;0;105;20.9;104;93;11;16;15.4
+674300;Sonstige Sachbeschädigung auf Straßen, Wegen oder Plätzen;139,990;2.7;37,697;43,115;33,641;25,403;134;0;286;29,212;20.9;29,409;25,777;3,632;5,513;18.7
+674310;Sonstige Sachbeschädigung auf Straßen, Wegen oder Plätzen § 303 StGB;124,134;2.4;30,469;38,078;31,588;23,871;128;0;226;26,574;21.4;26,245;22,962;3,283;5,051;19.2
+674311;Sonstige Sachbeschädigung durch Graffiti auf Straßen, Wegen oder Plätzen;48,734;0.9;12,056;12,685;13,906;10,007;80;0;0;8,023;16.5;5,489;4,846;643;691;12.6
+674312;Sonstige Sachbeschädigung durch Feuer auf Straßen, Wegen oder Plätzen;9,996;0.2;1,673;3,217;2,786;2,316;4;0;4;1,453;14.5;1,669;1,478;191;238;14.3
+674319;Sonstige Sachbeschädigung auf Straßen, Wegen oder Plätzen;65,404;1.3;16,740;22,176;14,896;11,548;44;0;222;17,098;26.1;19,549;17,051;2,498;4,192;21.4
+674320;Gemeinschädliche Sachbeschädigung auf Straßen, Wegen oder Plätzen;15,844;0.3;7,223;5,032;2,052;1,531;6;0;60;2,634;16.6;3,806;3,402;404;524;13.8
+674321;Gemeinschädliche Sachbeschädigung durch Graffiti auf Straßen, Wegen oder Plätzen;2,922;0.1;1,262;885;405;367;3;0;0;723;24.7;831;719;112;74;8.9
+674322;Gemeinschädliche Sachbeschädigung durch Feuer auf Straßen, Wegen oder Plätzen;919;0;316;317;191;95;0;0;0;167;18.2;269;236;33;37;13.8
+674329;Sonstige gemeinschädliche Sachbeschädigung auf Straßen, Wegen oder Plätzen;12,003;0.2;5,645;3,830;1,456;1,069;3;0;60;1,744;14.5;2,768;2,506;262;418;15.1
+674330;Zerstörung von Bauwerken auf Straßen, Wegen oder Plätzen;12;0;5;5;1;1;0;0;0;4;33.3;4;3;1;0;0
+674500;Zerstörung wichtiger Arbeitsmittel § 305a StGB;345;0;80;68;57;139;1;0;1;137;39.7;139;125;14;44;31.7
+674512;Zerstörung wichtiger Arbeitsmittel durch Feuer;4;0;2;0;0;2;0;0;0;0;0;0;0;0;0;0
+674519;Sonstige Zerstörung wichtiger Arbeitsmittel;341;0;78;68;57;137;1;0;1;137;40.2;139;125;14;44;31.7
+675000;Sprengstoff- und Strahlungsverbrechen §§ 307-312 StGB;1,488;0;604;436;181;254;13;0;0;479;32.2;583;539;44;120;20.6
+675100;Herbeiführen einer Explosion durch Kernenergie § 307 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+675200;Herbeiführen einer Sprengstoffexplosion § 308 StGB;1,473;0;598;433;181;248;13;0;0;468;31.8;574;531;43;119;20.7
+675300;Missbrauch ionisierender Strahlen § 309 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+675400;Vorbereitung eines Explosions- oder Strahlungsverbrechens § 310 StGB;12;0;6;2;0;4;0;0;0;11;91.7;19;18;1;10;52.6
+675500;Freisetzen ionisierender Strahlen § 311 StGB;3;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0
+675600;Fehlerhafte Herstellung einer kerntechnischen Anlage § 312 StGB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+676000;Straftaten gegen die Umwelt §§ 324, 324a, 325-330a StGB;9,431;0.2;4,564;1,937;1,137;1,745;48;0;0;4,988;52.9;6,101;5,371;730;1,799;29.5
+676010;Bodenverunreinigung 324a StGB;818;0;400;188;90;138;2;0;0;468;57.2;551;502;49;153;27.8
+676011;Bodenverunreinigung;795;0;391;181;87;134;2;0;0;456;57.4;538;491;47;148;27.5
+676012;Bodenverunreinigung - besonders schwerer Fall;23;0;9;7;3;4;0;0;0;12;52.2;13;11;2;5;38.5
+676100;Gewässerverunreinigung § 324 StGB;2,070;0;974;407;316;356;17;0;0;941;45.5;1,080;1,001;79;213;19.7
+676101;Gewässerverunreinigung;2,049;0;959;404;315;354;17;0;0;929;45.3;1,065;986;79;209;19.6
+676102;Gewässerverunreinigung - besonders schwerer Fall;21;0;15;3;1;2;0;0;0;12;57.1;16;16;0;4;25
+676200;Luftverunreinigung § 325 StGB;62;0;30;14;10;7;1;0;0;48;77.4;57;49;8;10;17.5
+676201;Luftverunreinigung;62;0;30;14;10;7;1;0;0;48;77.4;57;49;8;10;17.5
+676202;Luftverunreinigung - besonders schwerer Fall;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+676300;Verursachen von Lärm, Erschütterungen und nichtionisierenden Strahlen § 325a StGB;18;0;6;1;10;1;0;0;0;12;66.7;8;6;2;0;0
+676301;Verursachen von Lärm, Erschütterungen und nichtionisierenden Strahlen;18;0;6;1;10;1;0;0;0;12;66.7;8;6;2;0;0
+676302;Verursachen von Lärm, Erschütterungen und nichtionisierenden Strahlen - besonders schwerer Fall;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+676400;Unerlaubter Umgang mit Abfällen § 326 außer Abs. 2 StGB;6,051;0.1;2,925;1,251;660;1,188;27;0;0;3,186;52.7;4,038;3,490;548;1,370;33.9
+676410;Unerlaubter Umgang mit Abfällen § 326 Abs. 1 StGB;6,023;0.1;2,908;1,244;660;1,185;26;0;0;3,169;52.6;4,018;3,474;544;1,365;34
+676411;Unerlaubter Umgang mit Abfällen § 326 Abs. 1 StGB;5,854;0.1;2,854;1,190;608;1,177;25;0;0;3,087;52.7;3,898;3,361;537;1,322;33.9
+676412;Unerlaubter Umgang mit Abfällen § 326 Abs. 1 StGB - besonders schwerer Fall;169;0;54;54;52;8;1;0;0;82;48.5;124;117;7;45;36.3
+676420;Unerlaubter Umgang mit Abfällen § 326 Abs. 3 StGB;28;0;17;7;0;3;1;0;0;17;60.7;20;16;4;5;25
+676421;Unerlaubter Umgang mit Abfällen § 326 Abs. 3 StGB;27;0;17;7;0;2;1;0;0;16;59.3;19;15;4;4;21.1
+676422;Unerlaubter Umgang mit Abfällen § 326 Abs. 3 StGB - besonders schwerer Fall;1;0;0;0;0;1;0;0;0;1;100;1;1;0;1;100
+676500;Unerlaubtes Betreiben von Anlagen § 327 StGB;228;0;154;42;8;23;1;0;0;219;96.1;285;247;38;34;11.9
+676510;Unerlaubtes Betreiben von Anlagen § 327 StGB Abs. 1 (kerntechnische Anlage und Kernbrennstoffe);0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+676511;Unerlaubtes Betreiben von Anlagen § 327 Abs. 1 (kerntechnische Anlage und Kernbrennstoffe);0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+676512;Unerlaubtes Betreiben von Anlagen § 327 Abs. 1 (kerntechnische Anlage und Kernbrennstoffe) - besonders schwerer Fall;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+676520;Unerlaubtes Betreiben von Anlagen § 327 Abs. 2;228;0;154;42;8;23;1;0;0;219;96.1;285;247;38;34;11.9
+676521;Unerlaubtes Betreiben von Anlagen § 327 Abs. 2;221;0;151;42;8;20;0;0;0;214;96.8;278;240;38;32;11.5
+676522;Unerlaubtes Betreiben von Anlagen § 327 Abs. 2 - besonders schwerer Fall;7;0;3;0;0;3;1;0;0;5;71.4;7;7;0;2;28.6
+676600;Unerlaubter Umgang mit radioaktiven Stoffen und anderen gefährlichen Gütern § 328 StGB;108;0;49;20;34;5;0;0;0;80;74.1;93;90;3;15;16.1
+676610;Unerlaubter Umgang mit radioaktiven Stoffen § 328 StGB Abs. 1 und 2;10;0;5;4;1;0;0;0;0;9;90;11;11;0;1;9.1
+676611;Unerlaubter Umgang mit radioaktiven Stoffen § 328 StGB Abs. 1 und 2;10;0;5;4;1;0;0;0;0;9;90;11;11;0;1;9.1
+676612;Unerlaubter Umgang mit radioaktiven Stoffen § 328 StGB Abs. 1 und 2 - besonders schwerer Fall;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+676620;Unerlaubter Umgang mit anderen gefährlichen Stoffen und Gütern § 328 Abs. 3 StGB;98;0;44;16;33;5;0;0;0;71;72.4;84;81;3;14;16.7
+676621;Unerlaubter Umgang mit anderen gefährlichen Stoffen und Gütern § 328 Abs. 3 StGB;91;0;39;16;31;5;0;0;0;67;73.6;79;76;3;14;17.7
+676622;Unerlaubter Umgang mit anderen gefährlichen Stoffen und Gütern § 328 Abs. 3 StGB - besonders schwerer Fall;7;0;5;0;2;0;0;0;0;4;57.1;6;6;0;0;0
+676700;Gefährdung schutzbedürftiger Gebiete § 329 StGB;29;0;16;9;1;3;0;0;0;15;51.7;19;16;3;4;21.1
+676701;Gefährdung schutzbedürftiger Gebiete;26;0;15;8;0;3;0;0;0;14;53.8;18;15;3;4;22.2
+676702;Gefährdung schutzbedürftiger Gebiete - besonders schwerer Fall;3;0;1;1;1;0;0;0;0;1;33.3;1;1;0;0;0
+676800;Abfallein- / -aus- und -durchfuhr § 326 Abs. 2 StGB;17;0;5;4;6;2;0;0;0;12;70.6;17;15;2;9;52.9
+676810;Ungenehmigte Einfuhr von Abfällen § 326 Abs. 2 StGB;1;0;0;0;0;1;0;0;0;1;100;1;0;1;0;0
+676811;Ungenehmigte Einfuhr von Abfällen;1;0;0;0;0;1;0;0;0;1;100;1;0;1;0;0
+676812;Ungenehmigte Einfuhr von Abfällen - besonders schwerer Fall;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+676820;Ungenehmigte Ausfuhr von Abfällen § 326 Abs. 2 StGB;9;0;3;3;2;1;0;0;0;7;77.8;10;10;0;7;70
+676821;Ungenehmigte Ausfuhr von Abfällen;8;0;3;2;2;1;0;0;0;6;75;9;9;0;6;66.7
+676822;Ungenehmigte Ausfuhr von Abfällen - besonders schwerer Fall;1;0;0;1;0;0;0;0;0;1;100;1;1;0;1;100
+676830;Ungenehmigte Durchfuhr von Abfällen § 326 Abs. 2 StGB;7;0;2;1;4;0;0;0;0;4;57.1;6;5;1;2;33.3
+676831;Ungenehmigte Durchfuhr von Abfällen;7;0;2;1;4;0;0;0;0;4;57.1;6;5;1;2;33.3
+676832;Ungenehmigte Durchfuhr von Abfällen - besonders schwerer Fall;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+676900;Schwere Gefährdung durch Freisetzen von Giften § 330a StGB;30;0;5;1;2;22;0;0;0;7;23.3;7;5;2;2;28.6
+677000;Gemeingefährliche Vergiftung § 314 StGB;3;0;2;1;0;0;0;0;0;1;33.3;1;1;0;0;0
+678000;Ausspähen, Abfangen von Daten einschl. Vorbereitungshandlungen und Datenhehlerei §§ 202a, 202b, 202c, 202d StGB;13,206;0.3;2,110;2,468;1,748;1,986;4,894;0;0;2,707;20.5;2,804;2,030;774;648;23.1
+678010;Ausspähen von Daten § 202a StGB;12,266;0.2;1,984;2,267;1,603;1,819;4,593;0;0;2,576;21;2,674;1,931;743;617;23.1
+678020;Abfangen von Daten § 202b StGB;197;0;29;36;20;67;45;0;0;52;26.4;57;41;16;12;21.1
+678030;Vorbereiten des Ausspähens und Abfangens von Daten § 202c StGB;652;0;75;147;112;82;236;0;0;35;5.4;37;27;10;15;40.5
+678040;Datenhehlerei;91;0;22;18;13;18;20;0;0;44;48.4;44;36;8;6;13.6
+679000;Weitere Straftaten mit Umweltrelevanz gemäß StGB;12;0;5;1;1;5;0;0;0;4;33.3;5;4;1;2;40
+679010;Herbeiführen einer Überschwemmung § 313 StGB;11;0;5;1;1;4;0;0;0;3;27.3;4;3;1;1;25
+679020;Beschädigung wichtiger Anlagen § 318 StGB;1;0;0;0;0;1;0;0;0;1;100;1;1;0;1;100
+700000;Strafrechtliche Nebengesetze;643,098;12.3;165,377;180,539;105,812;181,924;9,446;0;1,826;592,203;92;510,162;421,490;88,672;275,805;54.1
+710000;Straftaten gegen strafrechtliche Nebengesetze auf dem Wirtschaftssektor;21,391;0.4;5,953;5,310;3,605;5,543;980;0;0;18,088;84.6;19,453;15,521;3,932;6,115;31.4
+712000;Straftaten nach AktG, GenG, GmbHG, HGB, RechnungslegungsG, UmwandlungsG, InsO;3,986;0.1;1,132;1,077;620;1,151;6;0;0;3,930;98.6;4,811;4,002;809;1,375;28.6
+712010;Aktiengesetz;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+712020;Handelsgesetzbuch;23;0;8;4;2;9;0;0;0;23;100;54;46;8;7;13
+712030;GmbH-Gesetz;108;0;25;33;22;28;0;0;0;106;98.1;114;96;18;21;18.4
+712040;Genossenschaftsgesetz;1;0;1;0;0;0;0;0;0;1;100;1;1;0;0;0
+712050;Rechnungslegungsgesetz;3;0;1;1;0;0;1;0;0;2;66.7;2;2;0;1;50
+712060;Umwandlungsgesetz;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+712200;Insolvenzverschleppung § 15a InsO;3,850;0.1;1,097;1,039;596;1,113;5;0;0;3,798;98.6;4,693;3,900;793;1,355;28.9
+713000;Delikte im Zusammenhang mit Schwarzarbeitsbekämpfungsgesetz und Arbeitnehmerüberlassungsgesetz;295;0;86;109;44;53;3;0;0;252;85.4;313;264;49;209;66.8
+713010;Arbeitnehmerüberlassungsgesetz;17;0;9;5;2;1;0;0;0;11;64.7;14;14;0;5;35.7
+713030;Schwarzarbeitsbekämpfungsgesetz;278;0;77;104;42;52;3;0;0;241;86.7;299;250;49;204;68.2
+714000;Straftaten i.V.m. dem Bankgewerbe sowie Wertpapierhandelsgesetz (Güd-Kreditwesen, BörsenG, DepotG, PfandBG, § 35 BundesbankG, ZAG);111;0;27;29;15;33;7;0;0;101;91;169;142;27;47;27.8
+714010;Bundesbankgesetz;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+714020;Börsengesetz;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+714030;Pfandbriefgesetz;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+714040;Kreditwesengesetz;42;0;16;10;3;11;2;0;0;39;92.9;61;55;6;13;21.3
+714050;Depotgesetz;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+714060;Wertpapierhandelsgesetz;31;0;8;10;0;10;3;0;0;27;87.1;56;45;11;6;10.7
+714070;Zahlungsdiensteaufsichtsgesetz;38;0;3;9;12;12;2;0;0;35;92.1;53;43;10;28;52.8
+715000;Straftaten im Zusammenhang mit Urheberrechtsbestimmungen (UrheberrechtsG, MarkenG, § 23 Abs. 1, 2 und 4 GeschGehG, DesignG,GebrauchsmusterG, KunsturheberrechtsG, PatentG, HalbleiterschutzG);9,139;0.2;2,445;2,208;1,560;2,033;893;0;0;7,082;77.5;7,174;5,132;2,042;2,301;32.1
+715010;Markengesetz;1,949;0;425;433;380;647;64;0;0;1,698;87.1;1,481;1,210;271;786;53.1
+715020;Designgesetz;12;0;3;1;4;4;0;0;0;12;100;12;9;3;9;75
+715030;Gebrauchsmustergesetz;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+715040;Kunsturheberrechtsgesetz;5,221;0.1;1,465;1,377;789;1,005;585;0;0;3,808;72.9;3,979;2,594;1,385;799;20.1
+715050;Urheberrechtsgesetz -sonstige Verstöße- (ohne Schl. 715100 u. 715200);1,612;0;414;305;329;325;239;0;0;1,238;76.8;1,332;1,019;313;639;48
+715060;Patentgesetz;3;0;0;0;1;2;0;0;0;3;100;4;3;1;3;75
+715070;Halbleiterschutzgesetz;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+715100;Softwarepiraterie (private Anwendung z.B. Computerspiele);108;0;49;28;19;11;1;0;0;100;92.6;104;90;14;34;32.7
+715200;Softwarepiraterie in Form gewerbsmäßigen Handelns;64;0;22;18;11;13;0;0;0;62;96.9;46;39;7;17;37
+715300;Verletzung von Geschäftsgeheimnissen § 23 Abs. 1 Nr. 3 und Abs. 4 GeschGehG;72;0;31;18;13;9;1;0;0;70;97.2;93;78;15;7;7.5
+715400;Verletzung von Geschäftsgeheimnissen § 23 Abs. 1 Nr. 1, 2, Abs. 2 und 4 GeschGehG;98;0;36;28;14;17;3;0;0;91;92.9;149;111;38;15;10.1
+716000;Straftaten im Zusammenhang mit Lebens- und Arzneimitteln (z.B. Lebensmittel- und Futtermittelgesetzbuch, ArzneimittelG, WeinG);7,249;0.1;2,012;1,728;1,234;2,211;64;0;0;6,145;84.8;6,413;5,530;883;1,923;30
+716030;Straftaten nach dem Gentechnikgesetz;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+716079;Sonstige Straftaten im Zusammenhang mit Lebensmitteln - soweit nicht unter anderen Schlüsseln zu erfassen -;30;0;8;3;7;12;0;0;0;27;90;25;25;0;8;32
+716100;Straftaten nach dem Lebensmittel- und Futtermittelgesetzbuch;1,406;0;553;338;138;375;2;0;0;1,364;97;1,599;1,283;316;486;30.4
+716300;Straftaten nach dem Weingesetz;67;0;58;4;3;2;0;0;0;67;100;73;59;14;1;1.4
+716400;Straftaten nach dem Arzneimittelgesetz (AMG);4,000;0.1;813;896;810;1,430;51;0;0;3,172;79.3;3,230;2,746;484;910;28.2
+716420;illegale Arzneimittel in der legalen Verteilerkette (iAMidlegV);238;0;49;53;44;89;3;0;0;175;73.5;184;160;24;58;31.5
+716421;Inverkehrbringen von bedenklichen Arzneimitteln (iAMidlegV);119;0;22;22;27;46;2;0;0;81;68.1;84;75;9;21;25
+716422;Inverkehrbringen von oder Handel treiben mit gefälschten Arzneimitteln, Wirkstoffen (iAMidlegV);11;0;4;2;0;5;0;0;0;11;100;11;9;2;3;27.3
+716423;Inverkehrbringen nicht zugelassener Arzneimittel (iAMidlegV);108;0;23;29;17;38;1;0;0;83;76.9;89;76;13;34;38.2
+716430;Arzneimittel in der illegalen Verteilerkette (AMidillegV);1,375;0;263;249;200;633;30;0;0;1,014;73.7;1,067;907;160;304;28.5
+716431;Inverkehrbringen von bedenklichen Arzneimitteln (AMidillegV);57;0;15;6;11;23;2;0;0;46;80.7;54;48;6;12;22.2
+716432;Inverkehrbringen von oder Handel treiben mit gefälschten Arzneimitteln, Wirkstoffen (AMidillegV);14;0;3;2;5;4;0;0;0;13;92.9;14;14;0;6;42.9
+716433;Inverkehrbringen nicht zugelassener Arzneimittel, Illegaler Handel oder Abgabe von verschreibungspflichtigen Arzneimitteln §§ 96 Nr. 5, 95 (1) 4 AMG (AMidillegV);1,304;0;245;241;184;606;28;0;0;955;73.2;1,000;846;154;286;28.6
+716440;Herstellen gefälschter Arzneimittel oder Wirkstoffe;3;0;1;0;0;2;0;0;0;2;66.7;2;2;0;0;0
+716450;Illegaler Umgang mit Tierarzneimitteln;55;0;39;11;4;0;1;0;0;51;92.7;68;49;19;8;11.8
+716460;Straftaten nach dem AMG § 95 Absatz 1 Nr. 2, 3, 5, 5a;1,973;0;379;486;481;613;14;0;0;1,634;82.8;1,620;1,401;219;466;28.8
+716470;Straftaten nach dem AMG § 96 ohne die Nummern 5, 15-18a und 20b;356;0;82;97;81;93;3;0;0;296;83.1;319;252;67;83;26
+716500;Straftaten nach dem Anti-Doping-Gesetz (AntiDopG);1,746;0;580;487;276;392;11;0;0;1,515;86.8;1,526;1,455;71;524;34.3
+716510;Herstellen, Inverkehrbringen, Verschreiben, Anwendung bei Dritten, Handel treiben, veräußern, abgeben von Dopingmitteln;359;0;76;129;58;91;5;0;0;190;52.9;209;191;18;45;21.5
+716520;Erwerb, Besitz, Verbringung von Dopingmitteln;1,323;0;486;342;207;283;5;0;0;1,265;95.6;1,268;1,219;49;456;36
+716530;Selbstdoping (anwenden/ anwenden lassen), Erwerb und Besitz von Dopingmitteln, zur Verschaffung eines Vorteils im Wettbewerb;64;0;18;16;11;18;1;0;0;60;93.8;60;56;4;26;43.3
+719000;sonstige Straftaten (Nebengesetze) auf dem Wirtschaftssektor (z.B. Rennwett- und LotterieG, § 23 Abs. 3 GeschGehG und UWG § 16, VersicherungsaufsichtsG, WirtschaftsstrafG, Gewerbeordnung);611;0;251;159;132;62;7;0;0;578;94.6;641;512;129;288;44.9
+719010;Rennwett- und Lotteriegesetz;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+719040;Gewerbeordnung;147;0;58;48;27;14;0;0;0;145;98.6;148;137;11;92;62.2
+719079;Sonstige Nebengesetze auf dem Wirtschaftssektor;398;0;180;92;91;31;4;0;0;383;96.2;436;329;107;190;43.6
+719200;Verletzung von Geschäftsgeheimnissen § 23 Abs. 3 GeschGehG, strafbare Werbung § 16 UWG;66;0;13;19;14;17;3;0;0;50;75.8;59;48;11;8;13.6
+720000;Straftaten gegen sonstige strafrechtliche Nebengesetze -ohne Verkehrsdelikte-;276,293;5.3;72,433;75,482;36,168;90,063;2,147;0;1,511;259,788;94;237,241;188,243;48,998;201,477;84.9
+720001;Vereinsgesetz;276;0;61;56;61;87;11;0;0;215;77.9;223;189;34;58;26
+720002;Versammlungsgesetze des Bundes und der Länder;12,694;0.2;5,843;4,809;1,126;914;2;0;0;2,878;22.7;3,169;2,450;719;114;3.6
+720005;Missbräuchliches Herstellen, Vertreiben oder Ausgeben von amtlichen Kennzeichen § 22a StVG;98;0;37;27;16;18;0;0;0;74;75.5;77;74;3;34;44.2
+720009;Telekommunikation-Telemedien-Datenschutz-Gesetz;55;0;12;19;9;13;2;0;0;31;56.4;34;27;7;5;14.7
+720011;Straftaten § 4 Gewaltschutzgesetz;12,437;0.2;2,758;3,589;2,262;3,667;161;0;0;12,399;99.7;6,587;6,041;546;2,393;36.3
+720012;Straftaten § 1 EU-Bestechungsgesetz (EUBestG);0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+720013;Straftaten gemäß § 2 des Gesetzes zur Bekämpfung internationaler Bestechung (IntBestG);1;0;1;0;0;0;0;0;0;2;200;2;2;0;2;100
+720014;Luftsicherheitsgesetz;1,985;0;47;8;2;1,928;0;0;0;1,950;98.2;1,924;1,222;702;1,780;92.5
+720079;Sonstige strafrechtliche Nebengesetze;1,802;0;462;548;412;373;7;0;0;1,680;93.2;1,851;1,469;382;878;47.4
+721000;Straftaten gegen § 27 Abs. 2 des Jugendschutzgesetzes;31;0;5;12;7;6;1;0;0;19;61.3;18;15;3;8;44.4
+722000;Straftaten gegen § 27 Abs. 1 des Jugendschutzgesetzes;28;0;9;10;5;3;1;0;0;22;78.6;22;21;1;3;13.6
+724000;Straftaten gegen § 24 des Passgesetzes;4;0;0;0;1;2;1;0;0;4;100;4;4;0;0;0
+725000;Straftaten gegen das Aufenthalts-, das Asyl- und das Freizügigkeitsgesetz/EU;207,632;4;48,929;55,918;26,511;74,485;1,789;0;0;204,846;98.7;188,374;145,188;43,186;187,413;99.5
+725100;Unerlaubte Einreise § 95 Abs. 1 Nr. 3 und Abs. 2 Nr.1a Aufenthaltsgesetz;48,694;0.9;19,062;17,084;4,945;7,413;190;0;0;48,546;99.7;48,553;40,062;8,491;48,436;99.8
+725110;Unerlaubte Einreise § 95 Abs. 1 Nr. 3 Aufenthaltsgesetz;46,909;0.9;18,466;16,543;4,620;7,136;144;0;0;46,762;99.7;47,161;38,818;8,343;47,048;99.8
+725120;Unerlaubte Wiedereinreise entgegen oder in Zuwiderhandlung eines Einreise- und Aufenthaltsverbotes § 95 Abs. 2 Nr. 1a AufenthG;1,785;0;596;541;325;277;46;0;0;1,784;99.9;1,708;1,546;162;1,704;99.8
+725200;Einschleusen von Ausländern § 96 Aufenthaltsgesetz;3,869;0.1;1,737;828;426;761;117;0;0;2,373;61.3;2,687;2,490;197;2,392;89
+725210;Einschleusen von Ausländern § 96 Abs. 1 und 4 Aufenthaltsgesetz;2,713;0.1;1,158;560;353;564;78;0;0;1,674;61.7;1,909;1,773;136;1,713;89.7
+725220;Einschleusen von Ausländern § 96 Abs. 2 Aufenthaltsgesetz;1,156;0;579;268;73;197;39;0;0;699;60.5;813;749;64;708;87.1
+725300;Erschleichen eines Aufenthaltstitels (§ 95 Abs. 2 Nr. 2 Aufenthaltsgesetz) durch unrichtige oder unvollständige Angaben oder Gebrauch eines so beschafften Aufenthaltstitels zur Täuschung im Rechtsverkehr;3,278;0.1;498;787;290;1,488;215;0;0;3,270;99.8;3,549;2,174;1,375;3,389;95.5
+725310;Erschleichen oder Gebrauch eines Aufenthaltstitels (Visum);2,460;0;368;547;172;1,168;205;0;0;2,457;99.9;2,584;1,529;1,055;2,536;98.1
+725311;Erschleichen oder Gebrauch eines Aufenthaltstitels (Visum) durch Scheinehe;93;0;16;26;14;34;3;0;0;92;98.9;139;80;59;113;81.3
+725312;Erschleichen oder Gebrauch eines Aufenthaltstitels (Visum) durch sonstigen Modus Operandi;2,367;0;352;521;158;1,134;202;0;0;2,365;99.9;2,446;1,449;997;2,424;99.1
+725320;Erschleichen oder Gebrauch eines Aufenthaltstitels (Aufenthaltserlaubnis oder Niederlassungsbefugnis);818;0;130;240;118;320;10;0;0;813;99.4;971;649;322;859;88.5
+725321;Erschleichen oder Gebrauch eines Aufenthaltstitels (Aufenthaltserlaubnis oder Niederlassungsbefugnis) durch Scheinehe;125;0;20;27;19;56;3;0;0;123;98.4;184;102;82;129;70.1
+725322;Erschleichen oder Gebrauch eines Aufenthaltstitels (Aufenthaltserlaubnis oder Niederlassungsbefugnis) durch sonstigen Modus Operandi;693;0;110;213;99;264;7;0;0;690;99.6;789;548;241;731;92.6
+725400;Einschleusen mit Todesfolge, gewerbs- und bandenmäßiges Einschleusen von Ausländern § 97 Aufenthaltsgesetz;605;0;242;286;10;59;8;0;0;292;48.3;247;201;46;199;80.6
+725410;Einschleusen mit Todesfolge § 97 Abs. 1 Aufenthaltsgesetz;1;0;1;0;0;0;0;0;0;1;100;2;2;0;2;100
+725420;Gewerbs- und bandenmäßiges Einschleusen von Ausländern § 97 Abs. 2 Aufenthaltsgesetz;604;0;241;286;10;59;8;0;0;291;48.2;245;199;46;197;80.4
+725500;Straftaten gegen §§ 84, 85 Asylgesetz;666;0;147;162;118;238;1;0;0;664;99.7;490;469;21;486;99.2
+725510;Straftaten gegen § 84 Asylgesetz;7;0;4;1;0;1;1;0;0;6;85.7;6;6;0;5;83.3
+725520;Straftaten gegen § 85 Asylgesetz;659;0;143;161;118;237;0;0;0;658;99.8;484;463;21;481;99.4
+725600;Gewerbs- und bandenmäßige Verleitung zur missbräuchlichen Asylantragstellung § 84a Asylgesetz;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+725700;Unerlaubter Aufenthalt § 95 Abs. 1 Nr. 1, 2 und Abs. 2 Nr. 1b Aufenthaltsgesetz;145,495;2.8;26,392;35,768;19,931;62,181;1,223;0;0;144,705;99.5;133,593;100,649;32,944;133,293;99.8
+725710;Unerlaubter Aufenthalt § 95 Abs. 1 Nr. 1 und 2 Aufenthaltsgesetz;142,771;2.7;26,039;35,273;19,355;60,895;1,209;0;0;141,988;99.5;131,712;99,054;32,658;131,420;99.8
+725711;Unerlaubter Aufenthalt ohne unerlaubte Einreise;35,080;0.7;6,432;5,238;2,852;20,410;148;0;0;34,968;99.7;31,886;22,172;9,714;31,788;99.7
+725712;Unerlaubter Aufenthalt nach unerlaubter/ungeklärter Einreise;107,691;2.1;19,607;30,035;16,503;40,485;1,061;0;0;107,020;99.4;102,484;79,229;23,255;102,287;99.8
+725720;Unerlaubter Aufenthalt entgegen oder in Zuwiderhandlung eines Einreise- und Aufenthaltsverbotes § 95 Abs. 2 Nr. 1b AufenthG;2,724;0.1;353;495;576;1,286;14;0;0;2,717;99.7;2,397;2,037;360;2,388;99.6
+725800;Straftaten gegen § 9 FreizügG/EU;759;0;121;160;93;384;1;0;0;758;99.9;580;495;85;576;99.3
+725900;Sonstige Verstöße gegen das Aufenthaltsgesetz;4,266;0.1;730;843;698;1,961;34;0;0;4,238;99.3;3,279;2,804;475;3,235;98.7
+726000;Straftaten gegen das Sprengstoff-, das Waffen-, das Kriegswaffenkontrollgesetz und das Ausgangsstoffgesetz;38,383;0.7;14,040;10,244;5,619;8,348;132;0;1,511;35,125;92;35,181;31,940;3,241;9,215;26.2
+726100;Straftaten gegen das Sprengstoffgesetz;4,012;0.1;1,841;951;520;696;4;0;0;3,379;84.2;3,690;3,514;176;516;14
+726200;Straftaten gegen das Waffengesetz;33,511;0.6;11,823;9,030;5,000;7,537;121;0;1,511;31,014;93;31,223;28,219;3,004;8,672;27.8
+726300;Straftaten gegen das Kriegswaffenkontrollgesetz;535;0;247;157;52;72;7;0;0;418;78.1;457;441;16;72;15.8
+726400;Straftaten gegen das Ausgangsstoffgesetz;325;0;129;106;47;43;0;0;0;314;96.6;324;261;63;20;6.2
+727000;Straftaten nach dem Kulturgutschutzgesetz (KGSG);15;0;7;5;2;1;0;0;0;10;66.7;10;10;0;1;10
+727100;Illegale Ausfuhr von Kulturgut § 83 Abs. 1 Nr. 1, 2 und Abs. 2 KGSG;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+727200;Illegale Einfuhr von Kulturgut § 83 Abs. 1 Nr. 3 KGSG;2;0;1;0;1;0;0;0;0;2;100;2;2;0;0;0
+727300;Illegaler Handel mit Kulturgut § 83 Abs. 1 Nr. 4, 5 und Abs. 5 KGSG;8;0;4;3;1;0;0;0;0;6;75;6;6;0;0;0
+727400;Beschädigung, Zerstörung oder Veränderung von Kulturgut § 83 Abs. 3 KGSG;5;0;2;2;0;1;0;0;0;2;40;2;2;0;1;50
+728000;Straftaten gegen das Bundes- (oder Landes-) Datenschutzgesetz;852;0;222;237;135;218;40;0;0;533;62.6;551;356;195;66;12
+728010;Straftaten gegen Landesdatenschutzgesetz;197;0;47;44;33;66;7;0;0;134;68;149;97;52;19;12.8
+728020;Straftaten gegen das Bundesdatenschutzgesetz;655;0;175;193;102;152;33;0;0;399;60.9;403;260;143;47;11.7
+730000;Rauschgiftdelikte (soweit nicht bereits mit anderer Schlüsselzahl erfasst);335,353;6.4;82,092;97,261;64,790;84,961;6,249;0;0;307,711;91.8;264,712;230,225;34,487;76,276;28.8
+731000;Allgemeine Verstöße § 29 BtMG (soweit nicht unter 7340 pp. zu erfassen);261,743;5;62,012;76,354;53,114;68,351;1,912;0;0;243,966;93.2;210,671;182,859;27,812;57,932;27.5
+731100;Allgemeiner Verstoß mit Heroin;8,008;0.2;578;1,210;2,000;4,197;23;0;0;7,651;95.5;6,380;5,528;852;2,494;39.1
+731200;Allgemeiner Verstoß mit Kokain einschl. Crack;20,724;0.4;3,255;4,487;3,541;9,261;180;0;0;19,540;94.3;17,584;15,644;1,940;7,169;40.8
+731201;Allgemeiner Verstoß mit Crack;2,782;0.1;42;70;80;2,590;0;0;0;2,693;96.8;1,741;1,470;271;1,033;59.3
+731202;Allgemeiner Verstoß mit Kokain;17,942;0.3;3,213;4,417;3,461;6,671;180;0;0;16,847;93.9;16,153;14,449;1,704;6,359;39.4
+731300;Allgemeiner Verstoß mit LSD;671;0;275;183;113;92;8;0;0;618;92.1;642;514;128;85;13.2
+731400;Allgemeiner Verstoß mit NPS (BtMG);1,932;0;526;659;335;388;24;0;0;1,678;86.9;1,581;1,356;225;411;26
+731600;Allgemeiner Verstoß mit Amphetamin und seinen Derivaten in Pulver- oder flüssiger sowie in Tabletten- bzw. Kapselform (Ecstasy);33,710;0.6;9,624;10,580;7,562;5,593;351;0;0;31,645;93.9;29,570;24,615;4,955;5,371;18.2
+731601;Allgemeiner Verstoß mit Amphetamin und seinen Derivaten in Pulver- oder flüssiger Form;28,112;0.5;8,100;9,067;6,393;4,270;282;0;0;26,553;94.5;24,775;20,790;3,985;4,199;16.9
+731602;Allgemeiner Verstoß mit Amphetamin und seinen Derivaten in Tabletten- bzw. Kapselform (Ecstasy);5,598;0.1;1,524;1,513;1,169;1,323;69;0;0;5,092;91;5,171;4,148;1,023;1,231;23.8
+731700;Allgemeiner Verstoß mit Methamphetamin in Pulver-, kristalliner oder flüssiger sowie in Tabletten- bzw. Kapselform;8,696;0.2;2,629;3,230;1,280;1,534;23;0;0;8,246;94.8;7,509;6,048;1,461;1,306;17.4
+731701;Allgemeiner Verstoß mit Methamphetamin in Pulver- oder flüssiger Form;959;0;327;285;184;158;5;0;0;886;92.4;899;757;142;211;23.5
+731702;Allgemeiner Verstoß mit Methamphetamin in kristalliner Form (Crystal);7,413;0.1;2,225;2,852;1,036;1,287;13;0;0;7,059;95.2;6,371;5,093;1,278;1,034;16.2
+731703;Allgemeiner Verstoß mit Methamphetamin in Tabletten- bzw. Kapselform;324;0;77;93;60;89;5;0;0;301;92.9;312;258;54;72;23.1
+731800;Allgemeiner Verstoß mit Cannabis und Zubereitungen;172,856;3.3;41,216;51,378;35,569;43,634;1,059;0;0;160,992;93.1;146,725;129,143;17,582;41,429;28.2
+731900;Allgemeiner Verstoß mit sonstigen Betäubungsmitteln;15,146;0.3;3,909;4,627;2,714;3,652;244;0;0;13,596;89.8;13,504;11,527;1,977;3,577;26.5
+732000;Unerlaubter Handel mit und Schmuggel von Rauschgiften § 29 BtMG;49,244;0.9;13,212;13,888;7,380;11,120;3,644;0;0;42,094;85.5;43,236;38,528;4,708;16,022;37.1
+732100;Unerlaubter Handel mit und Schmuggel von Heroin;1,675;0;115;270;370;900;20;0;0;1,439;85.9;1,400;1,246;154;715;51.1
+732110;Unerlaubter Handel mit Heroin;1,509;0;67;216;352;868;6;0;0;1,346;89.2;1,299;1,159;140;651;50.1
+732120;Schmuggel von Heroin;166;0;48;54;18;32;14;0;0;93;56;102;88;14;65;63.7
+732200;Unerlaubter Handel mit und Schmuggel von Kokain einschl. Crack;4,858;0.1;698;859;779;2,395;127;0;0;4,117;84.7;4,493;4,131;362;2,454;54.6
+732210;Unerlaubter Handel mit Kokain einschl. Crack;4,177;0.1;382;734;738;2,269;54;0;0;3,749;89.8;4,078;3,762;316;2,176;53.4
+732211;Unerlaubter Handel mit Crack;208;0;3;4;8;192;1;0;0;198;95.2;194;178;16;142;73.2
+732212;Unerlaubter Handel mit Kokain;3,969;0.1;379;730;730;2,077;53;0;0;3,551;89.5;3,901;3,600;301;2,049;52.5
+732220;Schmuggel von Kokain einschl. Crack;681;0;316;125;41;126;73;0;0;368;54;425;379;46;283;66.6
+732221;Schmuggel von Crack;7;0;2;2;2;1;0;0;0;5;71.4;6;5;1;4;66.7
+732222;Schmuggel von Kokain;674;0;314;123;39;125;73;0;0;363;53.9;419;374;45;279;66.6
+732300;Unerlaubter Handel mit und Schmuggel von LSD;181;0;65;38;23;35;20;0;0;148;81.8;156;137;19;32;20.5
+732310;Unerlaubter Handel mit LSD;108;0;43;22;15;25;3;0;0;97;89.8;104;93;11;3;2.9
+732320;Schmuggel von LSD;73;0;22;16;8;10;17;0;0;51;69.9;53;45;8;29;54.7
+732400;Unerlaubter Handel mit und Schmuggel von NPS (BtMG);703;0;142;220;109;118;114;0;0;422;60;453;379;74;142;31.3
+732410;Unerlaubter Handel mit NPS (BtMG);293;0;75;76;57;65;20;0;0;217;74.1;248;203;45;68;27.4
+732420;Schmuggel von NPS (BtMG);410;0;67;144;52;53;94;0;0;205;50;205;176;29;74;36.1
+732600;Unerlaubter Handel mit und Schmuggel von Amphetamin und seinen Derivaten in Pulver- oder flüssiger sowie in Tabletten- bzw. Kapselform (Ecstasy);5,673;0.1;1,759;1,844;923;811;336;0;0;4,788;84.4;5,038;4,332;706;1,342;26.6
+732610;Unerlaubter Handel mit Amphetamin und seinen Derivaten in Pulver- oder flüssiger sowie in Tabletten- bzw. Kapselform (Ecstasy);4,270;0.1;1,277;1,496;790;622;85;0;0;3,835;89.8;4,052;3,474;578;696;17.2
+732611;Unerlaubter Handel mit Amphetamin und seinen Derivaten in Pulver- oder flüssiger Form;3,152;0.1;952;1,173;582;385;60;0;0;2,837;90;3,013;2,567;446;435;14.4
+732612;Unerlaubter Handel mit Amphetamin und seinen Derivaten in Tabletten- bzw. Kapselform (Ecstasy);1,118;0;325;323;208;237;25;0;0;998;89.3;1,064;929;135;267;25.1
+732620;Schmuggel von Amphetamin und seinen Derivaten in Pulver- oder flüssiger sowie in Tabletten- bzw. Kapselform (Ecstasy);1,403;0;482;348;133;189;251;0;0;953;67.9;994;865;129;647;65.1
+732621;Schmuggel von Amphetamin und seinen Derivaten in Pulver- oder flüssiger Form;1,095;0;381;272;105;117;220;0;0;808;73.8;840;731;109;562;66.9
+732622;Schmuggel von Amphetamin und seinen Derivaten in Tabletten- bzw. Kapselform (Ecstasy);308;0;101;76;28;72;31;0;0;145;47.1;156;136;20;87;55.8
+732700;Unerlaubter Handel mit und Schmuggel von Methamphetamin in Pulver-, kristalliner oder flüssiger sowie in Tabletten- bzw. Kapselform;1,579;0;569;492;187;264;67;0;0;1,296;82.1;1,382;1,118;264;354;25.6
+732710;Unerlaubter Handel mit Methamphetamin in Pulver-, kristalliner oder flüssiger sowie in Tabletten- bzw. Kapselform;1,118;0;347;432;124;203;12;0;0;1,045;93.5;1,119;902;217;176;15.7
+732711;Unerlaubter Handel mit Methamphetamin in Pulver- oder flüssiger Form;83;0;32;26;7;15;3;0;0;72;86.7;83;70;13;14;16.9
+732712;Unerlaubter Handel mit Methamphetamin in kristalliner Form (Crystal);976;0;296;389;108;174;9;0;0;917;94;966;766;200;139;14.4
+732713;Unerlaubter Handel mit Methamphetamin in Tabletten- bzw. Kapselform;59;0;19;17;9;14;0;0;0;56;94.9;71;66;5;23;32.4
+732720;Schmuggel von Methamphetamin in Pulver-, kristalliner oder flüssiger sowie in Tabletten- bzw. Kapselform;461;0;222;60;63;61;55;0;0;251;54.4;263;216;47;178;67.7
+732721;Schmuggel von Methamphetamin in Pulver- oder flüssiger Form;23;0;17;3;0;0;3;0;0;18;78.3;20;17;3;15;75
+732722;Schmuggel von Methamphetamin in kristalliner Form (Crystal);434;0;204;55;62;61;52;0;0;230;53;241;196;45;163;67.6
+732723;Schmuggel von Methamphetamin in Tabletten- bzw. Kapselform;4;0;1;2;1;0;0;0;0;3;75;3;3;0;1;33.3
+732800;Unerlaubter Handel mit und Schmuggel von Cannabis und Zubereitungen;29,929;0.6;8,617;8,959;4,238;5,610;2,505;0;0;26,150;87.4;27,477;24,855;2,622;10,298;37.5
+732810;Unerlaubter Handel mit Cannabis und Zubereitungen;19,757;0.4;4,622;5,894;3,915;4,968;358;0;0;17,674;89.5;18,134;16,577;1,557;5,233;28.9
+732820;Schmuggel von Cannabis und Zubereitungen;10,172;0.2;3,995;3,065;323;642;2,147;0;0;8,476;83.3;9,423;8,357;1,066;5,090;54
+732900;Unerlaubter Handel mit und Schmuggel von sonstigen Betäubungsmitteln;4,646;0.1;1,247;1,206;751;987;455;0;0;3,734;80.4;4,100;3,522;578;1,278;31.2
+732910;Unerlaubter Handel mit sonstigen Betäubungsmitteln;3,628;0.1;963;1,045;691;837;92;0;0;3,110;85.7;3,465;3,032;433;901;26
+732920;Schmuggel von sonstigen Betäubungsmitteln;1,018;0;284;161;60;150;363;0;0;624;61.3;635;490;145;377;59.4
+733000;Unerlaubte Einfuhr von Betäubungsmitteln § 30 Abs. 1 Nr. 4 BtMG (in nicht geringer Menge);1,533;0;418;396;213;282;224;0;0;1,172;76.5;1,571;1,384;187;926;58.9
+733100;Unerlaubte Einfuhr in nicht geringer Menge von Heroin;116;0;19;58;8;15;16;0;0;97;83.6;126;114;12;90;71.4
+733200;Unerlaubte Einfuhr in nicht geringer Menge von Kokain einschl. Crack;303;0;110;69;37;59;28;0;0;263;86.8;382;345;37;271;70.9
+733201;Unerlaubte Einfuhr in nicht geringer Menge von Crack;4;0;2;0;0;2;0;0;0;3;75;3;3;0;3;100
+733202;Unerlaubte Einfuhr in nicht geringer Menge von Kokain;299;0;108;69;37;57;28;0;0;260;87;379;342;37;268;70.7
+733300;Unerlaubte Einfuhr in nicht geringer Menge von LSD;3;0;0;1;1;0;1;0;0;1;33.3;2;2;0;1;50
+733400;Unerlaubte Einfuhr in nicht geringer Menge von NPS (BtMG);18;0;2;5;7;2;2;0;0;16;88.9;13;11;2;3;23.1
+733600;Unerlaubte Einfuhr in nicht geringer Menge von Amphetamin und seinen Derivaten in Pulver- oder flüssiger sowie in Tabletten- bzw. Kapselform (Ecstasy);193;0;63;69;23;18;20;0;0;145;75.1;190;171;19;111;58.4
+733601;Unerlaubte Einfuhr in nicht geringer Menge von Amphetamin und seinen Derivaten in Pulver- oder flüssiger Form;145;0;51;56;16;13;9;0;0;120;82.8;149;133;16;81;54.4
+733602;Unerlaubte Einfuhr in nicht geringer Menge von Amphetamin und seinen Derivaten in Tabletten- bzw. Kapselform (Ecstasy);48;0;12;13;7;5;11;0;0;25;52.1;41;38;3;30;73.2
+733700;Unerlaubte Einfuhr in nicht geringer Menge von Methamphetamin in Pulver-, kristalliner oder flüssiger sowie in Tabletten- bzw. Kapselform;89;0;33;23;9;11;13;0;0;76;85.4;109;95;14;56;51.4
+733701;Unerlaubte Einfuhr in nicht geringer Menge von Methamphetamin in Pulver- oder flüssiger Form;4;0;0;2;1;1;0;0;0;3;75;5;5;0;1;20
+733702;Unerlaubte Einfuhr in nicht geringer Menge von Methamphetamin in kristalliner Form (Crystal);83;0;33;19;8;10;13;0;0;71;85.5;102;88;14;54;52.9
+733703;Unerlaubte Einfuhr in nicht geringer Menge von Methamphetamin in Tabletten- bzw. Kapselform;2;0;0;2;0;0;0;0;0;2;100;2;2;0;1;50
+733800;Unerlaubte Einfuhr in nicht geringer Menge von Cannabis und Zubereitungen;722;0;169;151;112;155;135;0;0;501;69.4;673;586;87;353;52.5
+733900;Unerlaubte Einfuhr in nicht geringer Menge von sonstigen Betäubungsmitteln;89;0;22;20;16;22;9;0;0;73;82;88;69;19;47;53.4
+734000;Sonstige Verstöße gegen das BtMG;22,127;0.4;6,263;6,251;3,993;5,158;462;0;0;19,842;89.7;23,364;20,587;2,777;5,908;25.3
+734100;Unerlaubter Anbau von Betäubungsmitteln § 29 Abs. 1 Nr. 1 BtMG;3,479;0.1;1,410;1,042;509;506;12;0;0;2,990;85.9;3,552;2,938;614;365;10.3
+734200;Betäubungsmittelanbau, -herstellung und -handel §§ 30 Abs. 1 Nr. 1, 30a BtMG;2,103;0;476;581;481;505;60;0;0;2,035;96.8;3,076;2,749;327;947;30.8
+734210;Verstöße gemäß § 30 Abs. 1 Nr. 1 BtMG;151;0;46;40;29;27;9;0;0;145;96;366;334;32;151;41.3
+734220;Verstöße gemäß § 30a BtMG;1,952;0;430;541;452;478;51;0;0;1,890;96.8;2,720;2,424;296;799;29.4
+734300;Bereitstellung von Geldmitteln oder anderen Vermögensgegenständen § 29 Abs. 1 Nr. 13 BtMG;21;0;5;13;3;0;0;0;0;21;100;20;16;4;6;30
+734400;Werbung für Betäubungsmittel § 29 Abs. 1 Nr. 8 BtMG;10;0;3;2;2;3;0;0;0;6;60;6;4;2;1;16.7
+734500;Abgabe, Verabreichung oder Überlassung von Betäubungsmitteln an Minderjährige § 29a Abs. 1 Nr. 1, ggf. § 30 Abs. 1 Nr. 2 BtMG;1,700;0;616;551;279;235;19;0;0;1,492;87.8;1,566;1,331;235;379;24.2
+734510;Abgabe, Verabreichung oder Überlassung von Betäubungsmitteln an Minderjährige § 29a Abs. 1 Nr. 1 BtMG;1,585;0;577;511;256;222;19;0;0;1,390;87.7;1,448;1,227;221;336;23.2
+734520;Gewerbsmäßige Abgabe, Verabreichung oder Überlassung von Betäubungsmitteln an Minderjährige § 30 Abs. 1 Nr. 2 BtMG;115;0;39;40;23;13;0;0;0;102;88.7;121;107;14;45;37.2
+734600;Leichtfertige Verursachung des Todes eines Anderen durch Abgabe pp. von Betäubungsmitteln § 30 Abs. 1 Nr. 3 BtMG;21;0;5;7;4;5;0;0;0;20;95.2;24;18;6;1;4.2
+734700;Unerlaubte Verschreibung und Verabreichung durch Ärzte § 29 Abs. 1 Nr. 6 BtMG;38;0;14;7;6;11;0;0;0;37;97.4;38;32;6;4;10.5
+734800;Unerlaubte(r) Handel, Herstellung, Abgabe und Besitz in nicht geringer Menge von Betäubungsmitteln § 29a Abs. 1 Nr. 2 BtMG;14,755;0.3;3,734;4,048;2,709;3,893;371;0;0;13,241;89.7;15,544;13,922;1,622;4,315;27.8
+734810;Unerlaubte(r) Abgabe und Besitz in nicht geringer Menge § 29a Abs. 1 Nr. 2 BtMG;3,388;0.1;894;993;629;720;152;0;0;3,084;91;3,585;3,180;405;859;24
+734811;Unerlaubte(r) Abgabe und Besitz in nicht geringer Menge von Heroin;142;0;17;27;34;64;0;0;0;133;93.7;164;137;27;69;42.1
+734812;Unerlaubte(r) Abgabe und Besitz in nicht geringer Menge von Kokain einschl. Crack;331;0;53;74;70;129;5;0;0;293;88.5;360;331;29;157;43.6
+734813;Unerlaubte(r) Abgabe und Besitz in nicht geringer Menge von LSD;7;0;2;2;0;3;0;0;0;5;71.4;5;5;0;0;0
+734814;Unerlaubte(r) Abgabe und Besitz in nicht geringer Menge von NPS (BtMG);24;0;5;8;7;4;0;0;0;24;100;27;24;3;5;18.5
+734816;Unerlaubte(r) Abgabe und Besitz in nicht geringer Menge von Amphetamin und seinen Derivaten in Pulver- oder flüssiger sowie in Tabletten- bzw. Kapselform (Ecstasy);560;0;160;160;80;53;107;0;0;494;88.2;558;490;68;85;15.2
+734817;Unerlaubte(r) Abgabe und Besitz in nicht geringer Menge von Methamphetamin in Pulver-, kristalliner oder flüssiger sowie in Tabletten- bzw. Kapselform;206;0;72;66;28;26;14;0;0;196;95.1;225;192;33;47;20.9
+734818;Unerlaubte(r) Abgabe und Besitz in nicht geringer Menge von Cannabis und Zubereitungen;1,762;0;475;534;342;389;22;0;0;1,630;92.5;1,917;1,723;194;422;22
+734819;Unerlaubte(r) Abgabe und Besitz in nicht geringer Menge von sonstigen Betäubungsmitteln;356;0;110;122;68;52;4;0;0;309;86.8;349;294;55;80;22.9
+734820;Unerlaubter Handel in nicht geringer Menge § 29a Abs. 1 Nr. 2 BtMG;10,715;0.2;2,595;2,882;1,964;3,062;212;0;0;9,563;89.2;11,359;10,225;1,134;3,348;29.5
+734821;Unerlaubter Handel in nicht geringer Menge von Heroin;394;0;38;92;66;191;7;0;0;359;91.1;420;365;55;197;46.9
+734822;Unerlaubter Handel in nicht geringer Menge von Kokain einschl. Crack;1,832;0;307;403;400;691;31;0;0;1,699;92.7;2,207;2,014;193;1,001;45.4
+734823;Unerlaubter Handel in nicht geringer Menge von LSD;19;0;4;12;1;1;1;0;0;18;94.7;21;19;2;4;19
+734824;Unerlaubter Handel in nicht geringer Menge von NPS (BtMG);72;0;21;24;9;13;5;0;0;56;77.8;71;66;5;24;33.8
+734826;Unerlaubter Handel in nicht geringer Menge mit Amphetamin und seinen Derivaten in Pulver- oder flüssiger sowie in Tabletten- bzw. Kapselform (Ecstasy);1,469;0;509;442;248;219;51;0;0;1,281;87.2;1,458;1,268;190;233;16
+734827;Unerlaubter Handel in nicht geringer Menge mit Methamphetamin in Pulver-, kristalliner oder flüssiger sowie in Tabletten- bzw. Kapselform;727;0;197;224;102;187;17;0;0;657;90.4;772;650;122;184;23.8
+734828;Unerlaubter Handel in nicht geringer Menge von Cannabis und Zubereitungen;5,448;0.1;1,340;1,501;1,023;1,500;84;0;0;4,879;89.6;5,904;5,389;515;1,606;27.2
+734829;Unerlaubter Handel in nicht geringer Menge von sonstigen Betäubungsmitteln;754;0;179;184;115;260;16;0;0;614;81.4;761;691;70;195;25.6
+734840;Unerlaubte Herstellung in nicht geringer Menge § 29a Abs. 1 Nr. 2 BtMG;652;0;245;173;116;111;7;0;0;594;91.1;811;714;97;169;20.8
+734841;Unerlaubte Herstellung in nicht geringer Menge von Heroin;5;0;0;0;2;3;0;0;0;5;100;6;5;1;4;66.7
+734842;Unerlaubte Herstellung in nicht geringer Menge von Kokain einschl. Crack;39;0;9;10;9;10;1;0;0;32;82.1;41;35;6;15;36.6
+734843;Unerlaubte Herstellung in nicht geringer Menge von LSD;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+734844;Unerlaubte Herstellung in nicht geringer Menge von NPS (BtMG);6;0;0;5;1;0;0;0;0;6;100;10;9;1;4;40
+734846;Unerlaubte Herstellung in nicht geringer Menge von Amphetamin und seinen Derivaten in Pulver- oder flüssiger sowie in Tabletten- bzw. Kapselform (Ecstasy);58;0;12;20;15;10;1;0;0;54;93.1;76;66;10;13;17.1
+734847;Unerlaubte Herstellung in nicht geringer Menge von Methamphetamin in Pulver-, kristalliner oder flüssiger sowie in Tabletten- bzw. Kapselform;20;0;5;3;2;10;0;0;0;17;85;27;26;1;10;37
+734848;Unerlaubte Herstellung in nicht geringer Menge von Cannabis und Zubereitungen;490;0;210;126;74;75;5;0;0;447;91.2;608;538;70;115;18.9
+734849;Unerlaubte Herstellung in nicht geringer Menge von sonstigen Betäubungsmitteln;34;0;9;9;13;3;0;0;0;33;97.1;43;35;8;8;18.6
+735000;Straftaten gemäß § 4 NpSG;706;0;187;372;90;50;7;0;0;637;90.2;564;477;87;126;22.3
+740000;Straftaten gegen strafrechtliche Nebengesetze auf dem Umwelt- und Verbraucherschutzsektor (neben Schlüssel 716000);10,061;0.2;4,899;2,486;1,249;1,357;70;0;315;6,616;65.8;7,472;5,449;2,023;1,264;16.9
+740001;Transplantationsgesetz (unerlaubter Organhandel);1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+740002;Hundeverbringungs- und -einfuhrbeschränkungsgesetz;113;0;31;31;19;31;1;0;0;105;92.9;112;74;38;74;66.1
+740003;Verstoß gegen das Heilpraktikergesetz;61;0;5;12;12;32;0;0;0;55;90.2;62;28;34;26;41.9
+740079;Sonstiges strafrechtliches Nebengesetz auf dem Umwelt- und Verbraucherschutzsektor (ohne Lebensmittel);157;0;73;50;19;15;0;0;0;97;61.8;117;98;19;30;25.6
+741000;Straftaten nach dem ChemikalienG;329;0;155;86;33;55;0;0;0;283;86;369;334;35;97;26.3
+741001;Straftaten nach § 27 ChemikalienG i.V.m. der Gefahrstoffverordnung;278;0;139;67;29;43;0;0;0;241;86.7;318;289;29;86;27
+741079;Sonstige Straftaten nach dem ChemikalienG;51;0;16;19;4;12;0;0;0;42;82.4;51;45;6;11;21.6
+742000;Straftaten nach dem Infektionsschutz- und Tiergesundheitsgesetz;1,167;0;483;225;161;290;8;0;0;1,104;94.6;1,149;675;474;265;23.1
+742010;Infektionsschutzgesetz;1,066;0;445;204;131;278;8;0;0;1,035;97.1;1,061;619;442;226;21.3
+742020;Tiergesundheitsgesetz (TierGesG);101;0;38;21;30;12;0;0;0;69;68.3;88;56;32;39;44.3
+743000;Straftaten nach dem Bundesnaturschutz-, Tierschutz-, Bundesjagd- und PflanzenschutzG;8,119;0.2;4,106;2,058;984;910;61;0;315;4,903;60.4;5,585;4,165;1,420;736;13.2
+743010;Bundesnaturschutzgesetz;512;0;303;88;60;57;4;0;11;339;66.2;387;318;69;27;7
+743020;Tierschutzgesetz;7,526;0.1;3,751;1,948;923;849;55;0;282;4,500;59.8;5,141;3,793;1,348;709;13.8
+743030;Bundesjagdgesetz;71;0;47;19;0;3;2;0;22;55;77.5;58;55;3;1;1.7
+743040;Pflanzenschutzgesetz;10;0;5;3;1;1;0;0;0;9;90;7;6;1;0;0
+744000;Straftaten nach dem Abfallverbringungsgesetz (AbfVerbrG);114;0;46;24;21;23;0;0;0;69;60.5;91;86;5;43;47.3
+744100;Illegale Verbringung gefährlicher Abfälle § 18a AbfVerbrG;57;0;17;10;15;15;0;0;0;42;73.7;58;55;3;30;51.7
+744200;Illegale Verbringung nichtgefährlicher Abfälle § 18b AbfVerbrG;57;0;29;14;6;8;0;0;0;27;47.4;35;33;2;13;37.1
+890000;Straftaten insgesamt, jedoch ohne Verstöße gegen das Aufenthalts-, das Asyl- und das Freizügigkeitsgesetz/EU (Schlüssel 725000);5,006,755;96;1,164,385;1,349,201;997,387;1,386,385;109397;3649;4061;2,866,673;57.3;1,865,612;1,392,991;472,621;592,084;31.7
+891000;Rauschgiftkriminalität darunter:;337,443;6.5;82,614;97,917;65,261;85,364;6,287;11;0;308,910;91.5;265,409;230,714;34,695;76,366;28.8
+891100;direkte Beschaffungskriminalität;2,090;0;522;656;471;403;38;11;0;1,199;57.4;1,052;808;244;132;12.5
+892000;Gewaltkriminalität;164,128;3.1;32,210;44,729;36,494;50,329;366;1283;669;125,609;76.5;154,800;130,593;24,207;60,605;39.2
+892500;Mord, Totschlag und Tötung auf Verlangen;513;0;157;133;80;138;5;0;52;493;96.1;580;472;108;188;32.4
+893000;Wirtschaftskriminalität und zwar:;70,368;1.3;43,586;7,257;6,884;10,952;1,689;0;0;65,668;93.3;26,039;18,842;7,197;7,380;28.3
+893100;Wirtschaftskriminalität bei Betrug;51,273;1;38,125;2,897;2,347;6,645;1259;0;0;47,486;92.6;11,150;8,015;3,135;3,478;31.2
+893200;Insolvenzstraftaten gemäß StGB und Nebenstrafrecht (Wikri);6,379;0.1;2,047;1,710;975;1,640;7;0;0;6,307;98.9;6,056;4,957;1,099;1,696;28
+893300;Wirtschaftskriminalität im Anlage- und Finanzierungsbereich pp.;3,288;0.1;957;601;375;948;407;0;0;1,589;48.3;1,134;933;201;358;31.6
+893400;Wettbewerbsdelikte (Wikri);996;0;286;156;141;284;129;0;0;782;78.5;798;644;154;232;29.1
+893500;Wirtschaftskriminalität im Zusammenhang mit Arbeitsverhältnissen;3,989;0.1;1,487;1,006;759;732;5;0;0;3,929;98.5;2,628;2,100;528;868;33
+893600;Betrug und Untreue im Zusammenhang mit Beteiligungen und Kapitalanlagen (Wikri);3,066;0.1;916;542;318;895;395;0;0;1,390;45.3;791;649;142;227;28.7
+895000;Menschenhandel insgesamt;767;0;132;130;182;282;41;0;0;590;76.9;706;572;134;376;53.3
+896000;Straftaten gegen Bestimmungen zum Schutze der Jugend;2,464;0;956;699;275;276;258;0;0;2,131;86.5;2,155;1,854;301;237;11
+897000;Cybercrime;123,085;2.4;19,439;22,585;14,930;39,832;26299;0;0;36,980;30;27,316;18,460;8,856;7,526;27.6
+897100;Computerbetrug § 263a StGB;93,952;1.8;14,486;16,522;11,367;36,175;15,402;0;0;29,055;30.9;20,367;13,433;6,934;5,631;27.6
+898000;Straftaten insgesamt auf dem Umwelt- und Verbraucherschutzsektor;31,275;0.6;13,945;7,309;4,087;5,708;226;0;577;20,258;64.8;22,711;18,917;3,794;5,891;25.9
+898100;Umweltstraftaten gemäß 29. Abschnitt des StGB;9,431;0.2;4,564;1,937;1,137;1,745;48;0;0;4,988;52.9;6,101;5,371;730;1,799;29.5
+898200;Sonstige Straftaten nach dem StGB mit Umweltrelevanz;4,534;0.1;2,470;1,158;467;395;44;0;262;2,509;55.3;2,887;2,712;175;941;32.6
+898300;Straftaten auf dem Umwelt- und Verbraucherschutzsektor gemäß strafrechtlicher Nebengesetze;17,310;0.3;6,911;4,214;2,483;3,568;134;0;315;12,761;73.7;13,869;10,965;2,904;3,181;22.9
+899000;Straßenkriminalität;1,022,631;19.6;193,403;274,397;221,026;330,804;3001;345;749;182,626;17.9;166,864;147,130;19,734;56,277;33.7
+899500;Sachbeschädigung durch Graffiti insgesamt;101,388;1.9;24,165;26,692;24,302;26,085;144;0;0;15,395;15.2;10,818;9,454;1,364;1,376;12.7
+943520;Wohnungseinbruchdiebstahl (mit TWE) bandenmäßig § 244a StGB;584;0;190;198;78;117;1;0;0;401;68.7;407;349;58;286;70.3
+972500;Unerlaubt eingereiste/aufhältige Personen (SZ: 725100, 725700);194,189;3.7;45,454;52,852;24,876;69,594;1,413;0;0;193,251;99.5;179,157;138,024;41,133;178,740;99.8
+973000;Drogenarten insgesamt bei RG-Delikten (SZ 730000);327,981;6.3;79,563;95,058;63,506;83,696;6158;0;0;301,110;91.8;258,553;225,068;33,485;75,044;29
+973010;Heroin;10,340;0.2;767;1,657;2,480;5,370;66;0;0;9,684;93.7;8,082;7,032;1,050;3,347;41.4
+973020;Kokain einschl. Crack;28,087;0.5;4,432;5,902;4,836;12,545;372;0;0;25,944;92.4;24,383;21,860;2,523;10,659;43.7
+973030;LSD;881;0;346;236;138;131;30;0;0;790;89.7;822;674;148;121;14.7
+973040;NPS;3,461;0.1;883;1,293;558;575;152;0;0;2,839;82;2,637;2,251;386;690;26.2
+973060;Amphetamin und seine Derivate in Pulver- oder flüssiger sowie in Tabletten- bzw. Kapselform (Ecstasy);41,663;0.8;12,127;13,115;8,851;6,704;866;0;0;38,407;92.2;36,071;30,204;5,867;7,013;19.4
+973070;Methamphetamin in Pulver-, kristalliner oder flüssiger sowie in Tabletten- bzw. Kapselform;11,317;0.2;3,505;4,038;1,608;2,032;134;0;0;10,488;92.7;9,671;7,838;1,833;1,907;19.7
+973080;Cannabis und Zubereitungen;211,207;4.1;52,027;62,649;41,358;51,363;3,810;0;0;194,599;92.1;176,930;156,166;20,764;52,058;29.4
+973090;Sonstige Betäubungsmittel;21,025;0.4;5,476;6,168;3,677;4,976;728;0;0;18,359;87.3;18,626;15,945;2,681;5,122;27.5
+973172;Crystal -Methamphetamin in kristalliner Form- (nur SB 731000, 732000, 733000);8,906;0.2;2,758;3,315;1,214;1,532;87;0;0;8,277;92.9;7,523;6,017;1,506;1,372;18.2
