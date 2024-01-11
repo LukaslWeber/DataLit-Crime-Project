@@ -114,6 +114,74 @@ class T08DataLoader(Dataset):
 
         return df
 
+def load_BU01_2016_2022(fpath):
+    df = pd.read_excel(fpath,skiprows=3,thousands=',',decimal='.')
+    df = df.rename(columns={
+            'erfasste Fälle':'Anzahl erfasste Fälle',
+            'erfasste Fälle davon:\nVersuche':'erfasste Fälle: Anzahl Versuche',
+            'von Spalte 3\nVersuche':'erfasste Fälle: Anzahl Versuche',
+            'Unnamed: 5':'erfasste Fälle: Versuche in %',
+            'Tatortverteilung':'Tatortverteilung: bis unter 20.000 Einwohner',
+            'Unnamed: 7':'Tatortverteilung: 20.000 bis unter 100.000',
+            'Unnamed: 8':'Tatortverteilung: 100.000 bis unter 500.000',
+            'Unnamed: 9':'Tatortveteilung: 500.000 und mehr',
+            'Unnamed: 10':'Tatortverteilung: unbekannt',
+            'mit Schusswaffe':'mit Schusswaffe: gedroht',
+            'Unnamed: 12':'mit Schusswaffe: geschossen',
+            'Aufklärung':'Aufklärung: Anzahl Fälle',
+            'Unnamed: 14':'Aufklärung: in % (AQ)',
+            'Tatverdächtige':'Tatverdächtige: insgesamt',
+            'Unnamed: 16':'Tatverdächtige: männlich',
+            'Unnamed: 17':'Tatverdächtige: weiblich',
+            'Nichtdeutsche Tatverdächtige':'Nichtdeutsche Tatverdächtige: Anzahl',
+            'Unnamed: 19':'Nichtdeutsche Tatverdächtige: Anteil an TV insg. in %'})
+    return df.drop(range(4)).reset_index(drop=True)
+
+def load_BU01_2012_2015(fpath):
+    df = pd.read_excel(fpath,skiprows=3,thousands=',',decimal='.')
+    df = df.rename(columns={
+                'Schl.':'Schlüssel', # only applies to 2015
+                'Schl.-':'Schlüssel',
+                'Unnamed: 1':'Straftat',
+                'erfasste Fälle':'Anzahl erfasste Fälle', # 2015
+                'Unnamed: 2':'Anzahl erfasste Fälle',
+                'Unnamed: 3':'%-Anteil an allen Fällen',
+                'Unnamed: 4':'erfasste Fälle: Anzahl Versuche',
+                'Unnamed: 5':'erfasste Fälle: Versuche in %',
+                'Tatortverteilung':'Tatortverteilung: bis unter 20.000 Einwohner',
+                'Unnamed: 7':'Tatortverteilung: 20.000 bis unter 100.000',
+                'Unnamed: 8':'Tatortverteilung: 100.000 bis unter 500.000',
+                'Unnamed: 9':'Tatortveteilung: 500.000 und mehr',
+                'Unnamed: 10':'Tatortverteilung: unbekannt',
+                'mit Schusswaffe':'mit Schusswaffe: gedroht',
+                'Unnamed: 12':'mit Schusswaffe: geschossen',
+                'Aufklärung':'Aufklärung: Anzahl Fälle',
+                'Unnamed: 14':'Aufklärung: in % (AQ)',
+                'Gesamtzahl':'Tatverdächtige: insgesamt',
+                'von Spalte 16':'Tatverdächtige: männlich',
+                'Unnamed: 17':'Tatverdächtige: weiblich',
+                'Unnamed: 18':'Nichtdeutsche Tatverdächtige: Anzahl',
+                'Unnamed: 19':'Nichtdeutsche Tatverdächtige: Anteil an TV insg. in %'})
+    return df.drop(range(4)).reset_index(drop=True)
+
+class T01DataLoader(Dataset):
+    def __init__(self,root_dir:str='Datasets/PKS/'):
+        self.root_dir = root_dir
+
+    def __len__(self):
+        return len(os.listdir(self.root_dir))
+    
+    def __getitem__(self,year:int):
+        ypath = os.path.join(self.root_dir,str(year))
+        for file in os.listdir(ypath):
+            fpath = os.path.join(ypath,file)
+            # load different types of tables
+            if any(desi in file for desi in ['BU-T01','BU-F-01','STD-F-01']):#
+                return load_BU01_2016_2022(fpath)
+            elif 'tb01_FaelleGrundtabelle_excel' in file:
+                return load_BU01_2012_2015(fpath)
+            
+
 
 
 if __name__ == '__main__':
