@@ -8,6 +8,7 @@ class T20DataLoader(Dataset):
         self.root_dir = root_dir
 
     def __len__(self):
+        # FIXME: @Das-Tiim with new file structure this no longer returns the overall length
         return len(os.listdir(self.root_dir))
     
     def __getitem__(self,year:int):
@@ -63,6 +64,7 @@ class T08DataLoader(Dataset):
         self.root_dir = root_dir
 
     def __len__(self):
+        # FIXME: @Das-Tiim with new file structure this no longer returns the overall length
         return len(os.listdir(self.root_dir))
     
     def __getitem__(self, year):
@@ -169,6 +171,7 @@ class T01DataLoader(Dataset):
         self.root_dir = root_dir
 
     def __len__(self):
+        # FIXME: @Das-Tiim with new file structure this no longer returns the overall length
         return len(os.listdir(self.root_dir))
     
     def __getitem__(self,year:int):
