@@ -22,11 +22,11 @@ def transform_yearly_data_to_list(data, years):
         df.append((year, data[year]))
     return df
 
-def transform_monthly_data_to_list(db_t08_list, key, years, sum_duplicated_key:bool):
+def transform_monthly_data_to_list(db_t08, key, years, sum_duplicated_key:bool):
     # returns list of lists. Each list represents one year and contains cases of certain crime from Jan. to Dec.
     cases_by_year = list()
     for year in years:
-        df_year = db_t08_list[year]
+        df_year = db_t08[year]
         cases_curr_year = list()            
         for month in get_months():
             if sum_duplicated_key:
@@ -40,6 +40,6 @@ def transform_monthly_data_to_list(db_t08_list, key, years, sum_duplicated_key:b
             
             cases_curr_year.append(cases_month)
             
-        cases_by_year.append((year, cases_curr_year))
+        cases_by_year.append(cases_curr_year)
 
     return(cases_by_year)
