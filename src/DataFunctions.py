@@ -43,3 +43,22 @@ def transform_monthly_data_to_list(db_t08, key, years, sum_duplicated_key:bool):
         cases_by_year.append(cases_curr_year)
 
     return(cases_by_year)
+
+def get_yearly_cases_by_key(key, data, sum_same_key, years):
+    cases_by_year = list()
+    data_years = list()
+    for year in years:
+        df = data[year]           
+        if sum_same_key:
+            # summing up the entries in df that have an identical key
+            cases_curr_year = 0
+            for i in range(len(df['Anzahl erfasste Fälle'][df['Schlüssel'] == key])):
+                cases_curr_year += df['Anzahl erfasste Fälle'][df['Schlüssel'] == key].iloc[i]
+        else:
+            # taking only the first entry that uses the key in df
+            cases_curr_year = df['Anzahl erfasste Fälle'][df['Schlüssel'] == key].iloc[0]
+            
+        cases_by_year.append(cases_curr_year)
+        data_years.append(year)
+
+    return data_years, cases_by_year
