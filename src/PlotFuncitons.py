@@ -19,7 +19,7 @@ def plot_cities(ax):
         # Plot city name.
         ax.text(x=top_cities[c][0], 
                 # Add small shift to avoid overlap with point.
-                y=top_cities[c][1] + 0.08, 
+                y=top_cities[c][1] + 0.1, 
                 s=c, 
                 fontsize=12,
                 ha='center')
