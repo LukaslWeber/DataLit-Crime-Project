@@ -4,22 +4,24 @@ import pandas as pd
 import numpy as np
 
 class T20DataLoader(Dataset):
-    """
-    
-    """
     def __init__(self,root_dir:str='Datasets/PKS/'):
+        '''Loads and formats the PKS tables of germany grouped by suspect age and sex for all available years in the root directory
+
+        Params:
+        root_dir: The root directory containing the yearly directories of tables (default: 'Datasets/PKS/')
+
+        Returns: Iterable dataset indexed by years
+        '''
         self.root_dir = root_dir
 
     def __len__(self):
-        # FIXME: @Das-Tiim with new file structure this no longer returns the overall length
-        return len(os.listdir(self.root_dir))
+        return len(os.listdir(self.root_dir)) # assume this table exists for each year
     
     def __getitem__(self,year:int):
+        if 2012 > year or year > 2022:
+                raise IndexError(f'No data for requested year: {year}.\nNote: There is no official data before 2012 for this table')
+
         y_path = os.path.join(self.root_dir,str(year))
-        
-        # Check whether there is data for the year
-        if(os.path.isdir(y_path) != True):
-           raise Exception(f"There is no dataset folder for the year: {year}") 
         
         files_in_path = [file for file in os.listdir(y_path) if 'BU-T20-Tatverdaechtige.' in file]
 
@@ -64,18 +66,23 @@ class T20DataLoader(Dataset):
 
 class T08DataLoader(Dataset):
     def __init__(self,root_dir:str='Datasets/PKS/'):
+        '''Loads and formats the base crime tables of germany grouped by month for all available years in the root directory
+
+        Params:
+        root_dir: The root directory containing the yearly directories of tables (default: 'Datasets/PKS/')
+
+        Returns: Iterable dataset indexed by years
+        '''
         self.root_dir = root_dir
 
     def __len__(self):
-        # FIXME: @Das-Tiim with new file structure this no longer returns the overall length
-        return len(os.listdir(self.root_dir))
+        return len(os.listdir(self.root_dir)) # assume this table exists for each year
     
     def __getitem__(self, year):
-        y_path = os.path.join(self.root_dir,str(year))
+        if 2012 > year or year > 2022:
+                raise IndexError(f'No data for requested year: {year}.\nNote: There is no official data before 2012 for this table')
         
-        # Check whether there is data for the year
-        if(os.path.isdir(y_path) != True):
-           raise Exception(f"There is no dataset folder for the year: {year}") 
+        y_path = os.path.join(self.root_dir,str(year))
         
         files_in_path = [file for file in os.listdir(y_path) if 'BU-T08-Tatzeit.' in file]
 
@@ -171,13 +178,21 @@ def load_BU01_2012_2015(fpath):
 
 class T01DataLoader(Dataset):
     def __init__(self,root_dir:str='Datasets/PKS/'):
+        '''Loads and formats the base crime tables of germany for all available years in the root directory
+
+        Params:
+        root_dir: The root directory containing the yearly directories of tables (default: 'Datasets/PKS/')
+
+        Returns: Iterable dataset indexed by years
+        '''
         self.root_dir = root_dir
 
     def __len__(self):
-        # FIXME: @Das-Tiim with new file structure this no longer returns the overall length
-        return len(os.listdir(self.root_dir))
+        return len(os.listdir(self.root_dir)) # assume this table exists for each year
     
     def __getitem__(self,year:int):
+        if 2012 > year or year > 2022:
+                raise IndexError(f'No data for requested year: {year}.\nNote: There is no official data before 2012 for this table')
         ypath = os.path.join(self.root_dir,str(year))
         for file in os.listdir(ypath):
             fpath = os.path.join(ypath,file)
@@ -188,7 +203,7 @@ class T01DataLoader(Dataset):
                 return load_BU01_2012_2015(fpath)
             
 
-### LKS Dataset
+### LKS Dataset ###
 
 def load_LKS01_2019_2022(fpath:str):
     df = pd.read_excel(fpath,skiprows=3,thousands='.',decimal=',')
@@ -267,19 +282,25 @@ def load_LKS01_2013(fpath:str='Datasets/PKS/2013/tb01_FaelleGrundtabelleLaender_
 
 class LKS01(Dataset):
     def __init__(self,root_dir:str='Datasets/PKS/'):
+        '''Loads and formats the base crime tables grouped by federal states for all available years in the root directory
+
+        Params:
+        root_dir: The root directory containing the yearly directories of tables (default: 'Datasets/PKS/')
+
+        Returns: Iterable dataset indexed by years
+        '''
         self.root_dir = root_dir
 
     def __len__(self):
-        return len(os.listdir(self.root_dir))
+        return min(len(os.listdir(self.root_dir)),10) # this table is missing in 2012, but the directory exists for other tables
     
     def __getitem__(self,year):
-        
+        if 2013 > year or year > 2022:
+                raise IndexError(f'No data for requested year: {year}.\nNote: There is no official data before 2013 for this table')
         ypath = os.path.join(self.root_dir,str(year))
         for file in os.listdir(ypath):
             fpath = os.path.join(ypath,file)
             # load table for all years
-            if 2013 > year or year > 2022:
-                raise IndexError(f'No data for requested year: {year}.\nNote: There is no official data before 2013 for this table.')
             if any(desi in file for desi in ['LA','Laender']):
                 if 2019 <= year <= 2022:
                     return load_LKS01_2019_2022(fpath)
