@@ -188,7 +188,107 @@ class T01DataLoader(Dataset):
                 return load_BU01_2012_2015(fpath)
             
 
+### LKS Dataset
 
+def load_LKS01_2019_2022(fpath:str):
+    df = pd.read_excel(fpath,skiprows=3,thousands='.',decimal=',')
+    df = df.rename(columns={
+        'erfasste Fälle':'Anzahl erfasste Fälle', # 2019
+        'erfasste Fälle davon:\nVersuche':'erfasste Fälle: Anzahl Versuche',
+        'von Spalte 3\nVersuche':'erfasste Fälle: Anzahl Versuche', # 2019
+        'Unnamed: 6':'erfasste Fälle: Versuche in %',
+        'Tatortverteilung':'Tatortverteilung: bis unter 20.000 Einwohner',
+        'Unnamed: 8':'Tatortverteilung: 20.000 bis unter 100.000',
+        'Unnamed: 9':'Tatortverteilung: 100.000 bis unter 500.000',
+        'Unnamed: 10': 'Tatortverteilung: 500.000 und mehr',
+        'Unnamed: 11':'Tatortverteilung: unbekannt',
+        'mit Schusswaffe':'mit Schusswaffe: gedroht',
+        'Unnamed: 13':'mit Schusswaffe: geschossen',
+        'Aufklärung':'Aufklärung: Anzahl Fälle',
+        'Unnamed: 15':'Aufklärung: in % (AQ)',
+        'Tatverdächtige':'Tatverdächtige: insgesamt',
+        'Unnamed: 17':'Tatverdächtige: männlich',
+        'von Spalte 16':'Tatverdächtige: männlich',
+        'Unnamed: 18':'Tatverdächtige: weiblich',
+        'Nichtdeutsche Tatverdächtige':'Nichtdeutsche Tatverdächtige: Anzahl',
+        'Unnamed: 19':'Nichtdeutsche Tatverdächtige: Anzahl', # 2019
+        'Unnamed: 20':'Nichtdeutsche Tatverdächtige: Anteil an TV insg. in %'
+    })
+    return df.drop(range(4)).reset_index(drop=True)
+
+def load_LKS01_2015_2018(fpath):
+    # confirmed for 2018,2017,2016,2015
+    df = pd.read_excel(fpath,skiprows=4,thousands='.',decimal=',')
+    df = df.drop(['BL-Schl.','Sort'], axis=1, errors='ignore')
+    df = df.rename(columns={
+        'erfasste Fälle':'Anzahl erfasste Fälle',
+        'von Spalte 4 Versuche':'erfasste Fälle: Anzahl Versuche',
+        'Unnamed: 6':'erfasste Fälle: Versuche in %',
+        'Unnamed: 7':'erfasste Fälle: Versuche in %', # 2018
+        'Aufklärung':'Aufklärung: Anzahl Fälle',
+        'Unnamed: 8':'Aufklärung: in % (AQ)', # really the same?
+        'Unnamed: 9':'Aufklärung: in % (AQ)', # really the same?
+        'Tatver-dächtige insg.':'Tatverdächtige: insgesamt',
+        'Nichtdeutsche Tat-verdächtige':'Nichtdeutsche Tatverdächtige: Anzahl',
+        'Unnamed: 11':'Nichtdeutsche Tatverdächtige: Anteil an TV insg. in %',
+        'Unnamed: 12':'Nichtdeutsche Tatverdächtige: Anteil an TV insg. in %' # 2018
+    })
+    return df.drop(range(2)).reset_index(drop=True)
+
+def load_LKS01_2014(fpath:str='Datasets/PKS/2014/tb01_FaelleGrundtabelleLaender_excel.xlsx'):
+    df = pd.read_excel(fpath,skiprows=7,thousands='.',decimal=',')
+    df = df.rename(columns={
+        'Strft. Schl.':'Schlüssel',
+        'erfasste Fälle 2014':'Anzahl erfasste Fälle',
+        'Versuche absolut':'erfasste Fälle: Anzahl Versuche',
+        'Versuche in %':'erfasste Fälle: Versuche in %',
+        'aufgeklärte Fälle':'Aufklärung: Anzahl Fälle',
+        'AQ \nin %':'Aufklärung: in % (AQ)',
+        'TV insges.':'Tatverdächtige: insgesamt',
+        'NDTV insges.':'Nichtdeutsche Tatverdächtige: Anzahl',
+        'NDTV in %':'Nichtdeutsche Tatverdächtige: Anteil an TV insg. in %'
+    })
+    return df
+
+def load_LKS01_2013(fpath:str='Datasets/PKS/2013/tb01_FaelleGrundtabelleLaender_excel.xls'):
+    df = pd.read_excel(fpath,skiprows=8,thousands='.',decimal=',')
+    df = df.rename(columns={
+        'Strft. Schl.':'Schlüssel',
+        'erfasste Fälle 2013':'Anzahl erfasste Fälle',
+        'Versuche absolut':'erfasste Fälle: Anzahl Versuche',
+        'Versuche in %':'erfasste Fälle: Versuche in %',
+        'aufgeklärte Fälle':'Aufklärung: Anzahl Fälle',
+        'AQ \nin %':'Aufklärung: in % (AQ)',
+        'TV insges.':'Tatverdächtige: insgesamt',
+        'NDTV insges.':'Nichtdeutsche Tatverdächtige: Anzahl',
+        'NDTV in %':'Nichtdeutsche Tatverdächtige: Anteil an TV insg. in %'
+    })
+    return df
+
+class LKS01(Dataset):
+    def __init__(self,root_dir:str='Datasets/PKS/'):
+        self.root_dir = root_dir
+
+    def __len__(self):
+        return len(os.listdir(self.root_dir))
+    
+    def __getitem__(self,year):
+        
+        ypath = os.path.join(self.root_dir,str(year))
+        for file in os.listdir(ypath):
+            fpath = os.path.join(ypath,file)
+            # load table for all years
+            if 2013 > year or year > 2022:
+                raise IndexError(f'No data for requested year: {year}.\nNote: There is no official data before 2013 for this table.')
+            if any(desi in file for desi in ['LA','Laender']):
+                if 2019 <= year <= 2022:
+                    return load_LKS01_2019_2022(fpath)
+                if 2015 <= year <= 2018:
+                    return load_LKS01_2015_2018(fpath)
+                if year == 2014:
+                    return load_LKS01_2014(fpath)
+                if year == 2013:
+                    return load_LKS01_2013(fpath)
 
 if __name__ == '__main__':
     # Possible Tests 
