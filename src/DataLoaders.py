@@ -213,7 +213,7 @@ class T01DataLoader(Dataset):
             elif 'tb01_FaelleGrundtabelle_excel' in file:
                 return self.load_BU01_2012_2015(fpath)
     
-    def load_BU01_2016_2022(fpath:str):
+    def load_BU01_2016_2022(self, fpath:str):
         """Method for loading T01 tables with the format given between 2016 and 2022
 
         Args:
@@ -244,7 +244,7 @@ class T01DataLoader(Dataset):
                 'Unnamed: 19':'Nichtdeutsche Tatverdächtige: Anteil an TV insg. in %'})
         return df.drop(range(4)).reset_index(drop=True)
 
-    def load_BU01_2012_2015(fpath:str):
+    def load_BU01_2012_2015(self, fpath:str):
         """Method for loading T01 tables with the format given between 2012 and 2015
 
         Args:
@@ -330,7 +330,7 @@ class LKS01(Dataset):
                 if year == 2013:
                     return self.load_LKS01_2013(fpath)
 
-    def load_LKS01_2019_2022(fpath:str):
+    def load_LKS01_2019_2022(self, fpath:str):
         """Method for loading LA-F-01 tables with the format given between 2019 and 2022
 
         Args:
@@ -364,7 +364,7 @@ class LKS01(Dataset):
         })
         return df.drop(range(4)).reset_index(drop=True)
 
-    def load_LKS01_2015_2018(fpath):
+    def load_LKS01_2015_2018(self, fpath):
         """Method for loading LA-F-01 tables with the format given between 2015 and 2018
 
         Args:
@@ -391,7 +391,7 @@ class LKS01(Dataset):
         })
         return df.drop(range(2)).reset_index(drop=True)
 
-    def load_LKS01_2014(fpath:str='Datasets/PKS/2014/tb01_FaelleGrundtabelleLaender_excel.xlsx'):
+    def load_LKS01_2014(self, fpath:str='Datasets/PKS/2014/tb01_FaelleGrundtabelleLaender_excel.xlsx'):
         """Method for loading LA-F-01 tables with the format given for 2014
 
         Args:
@@ -414,7 +414,7 @@ class LKS01(Dataset):
         })
         return df
 
-    def load_LKS01_2013(fpath:str='Datasets/PKS/2013/tb01_FaelleGrundtabelleLaender_excel.xls'):
+    def load_LKS01_2013(self, fpath:str='Datasets/PKS/2013/tb01_FaelleGrundtabelleLaender_excel.xls'):
         """Method for loading LA-F-01 tables with the format given for 2013
 
         Args:
