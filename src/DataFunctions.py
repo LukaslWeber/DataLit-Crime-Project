@@ -157,6 +157,8 @@ def get_key_col(df:pd.DataFrame,key:str,col:str=None) -> pd.Series:
     
     Returns: Slice of data'''
 
+    if col is None:
+        return pd.DataFrame(df.loc[df.Schlüssel == key,:]).reset_index(drop=True)
     return pd.DataFrame(df.loc[df.Schlüssel == key, ['Bundesland',col]]).rename(columns={col:'data'}).reset_index(drop=True)
 
 
