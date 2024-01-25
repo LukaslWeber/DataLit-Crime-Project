@@ -3,32 +3,32 @@ import numpy as np
 def plot_cities(ax):
     # Get lat and lng of Germany's main cities. 
     top_cities = {
-    'Berlin': (13.404954, 52.520008), 
-    'Köln': (6.953101, 50.935173),
-    'Düsseldorf': (6.782048, 51.227144),
-    'Frankfurt am Main': (8.682127, 50.110924),
-    'Hamburg': (9.993682, 53.551086),
-    'Leipzig': (12.387772, 51.343479),
-    'München': (11.576124, 48.137154),
-    'Dortmund': (7.468554, 51.513400),
-    'Stuttgart': (9.181332, 48.777128),
-    'Nürnberg': (11.077438, 49.449820),
-    'Hannover': (9.73322, 52.37052)
+    'Berlin': (1489825.814677,6894090.067075),
+    'Köln': (774015.662754,6609834.57817),
+    'Frankfurt am Main': (966489.956643,6465508.13095),
+    'Hamburg': (1112491.59139,7085591.65015),
+    'Leipzig': (1379000.4711,6682277.55847),
+    'München': (1288648.22904,6129702.78025),
+    'Dortmund': (831395.628242,6712615.65422),
+    'Stuttgart': (1022061.20304,6237128.94263),
+    'Nürnberg': (1233134.75745,6351533.97836),
+    'Hannover': (1083497.09418,6867399.4956)
     }
     for c in top_cities.keys():
         # Plot city name.
         ax.text(x=top_cities[c][0], 
                 # Add small shift to avoid overlap with point.
-                y=top_cities[c][1] + 0.08, 
+                y=top_cities[c][1]+25000, 
                 s=c, 
-                fontsize=12,
+                # fontsize=12,
                 ha='center')
         # Plot city location centroid.
         ax.plot(top_cities[c][0], 
                 top_cities[c][1], 
                 marker='o',
                 c='black', 
-                alpha=0.5)
+                alpha=0.5,
+                markersize=3)
 
 
 def plot_cbar(ax,vmin,vmax,cmap,label=None):

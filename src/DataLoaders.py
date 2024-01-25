@@ -4,22 +4,24 @@ import pandas as pd
 import numpy as np
 
 class T20DataLoader(Dataset):
-    """
-    
-    """
     def __init__(self,root_dir:str='Datasets/PKS/'):
+        '''Loads and formats the PKS tables of germany grouped by suspect age and sex for all available years in the root directory
+
+        Params:
+        root_dir: The root directory containing the yearly directories of tables (default: 'Datasets/PKS/')
+
+        Returns: Iterable dataset indexed by years
+        '''
         self.root_dir = root_dir
 
     def __len__(self):
-        # FIXME: @Das-Tiim with new file structure this no longer returns the overall length
-        return len(os.listdir(self.root_dir))
+        return len(os.listdir(self.root_dir)) # assume this table exists for each year
     
     def __getitem__(self,year:int):
+        if 2012 > year or year > 2022:
+                raise IndexError(f'No data for requested year: {year}.\nNote: There is no official data before 2012 for this table')
+
         y_path = os.path.join(self.root_dir,str(year))
-        
-        # Check whether there is data for the year
-        if(os.path.isdir(y_path) != True):
-           raise Exception(f"There is no dataset folder for the year: {year}") 
         
         files_in_path = [file for file in os.listdir(y_path) if 'BU-T20-Tatverdaechtige.' in file]
 
@@ -64,18 +66,23 @@ class T20DataLoader(Dataset):
 
 class T08DataLoader(Dataset):
     def __init__(self,root_dir:str='Datasets/PKS/'):
+        '''Loads and formats the base crime tables of germany grouped by month for all available years in the root directory
+
+        Params:
+        root_dir: The root directory containing the yearly directories of tables (default: 'Datasets/PKS/')
+
+        Returns: Iterable dataset indexed by years
+        '''
         self.root_dir = root_dir
 
     def __len__(self):
-        # FIXME: @Das-Tiim with new file structure this no longer returns the overall length
-        return len(os.listdir(self.root_dir))
+        return len(os.listdir(self.root_dir)) # assume this table exists for each year
     
     def __getitem__(self, year):
-        y_path = os.path.join(self.root_dir,str(year))
+        if 2012 > year or year > 2022:
+                raise IndexError(f'No data for requested year: {year}.\nNote: There is no official data before 2012 for this table')
         
-        # Check whether there is data for the year
-        if(os.path.isdir(y_path) != True):
-           raise Exception(f"There is no dataset folder for the year: {year}") 
+        y_path = os.path.join(self.root_dir,str(year))
         
         files_in_path = [file for file in os.listdir(y_path) if 'BU-T08-Tatzeit.' in file]
 
@@ -171,13 +178,21 @@ def load_BU01_2012_2015(fpath):
 
 class T01DataLoader(Dataset):
     def __init__(self,root_dir:str='Datasets/PKS/'):
+        '''Loads and formats the base crime tables of germany for all available years in the root directory
+
+        Params:
+        root_dir: The root directory containing the yearly directories of tables (default: 'Datasets/PKS/')
+
+        Returns: Iterable dataset indexed by years
+        '''
         self.root_dir = root_dir
 
     def __len__(self):
-        # FIXME: @Das-Tiim with new file structure this no longer returns the overall length
-        return len(os.listdir(self.root_dir))
+        return len(os.listdir(self.root_dir)) # assume this table exists for each year
     
     def __getitem__(self,year:int):
+        if 2012 > year or year > 2022:
+                raise IndexError(f'No data for requested year: {year}.\nNote: There is no official data before 2012 for this table')
         ypath = os.path.join(self.root_dir,str(year))
         for file in os.listdir(ypath):
             fpath = os.path.join(ypath,file)
@@ -188,7 +203,113 @@ class T01DataLoader(Dataset):
                 return load_BU01_2012_2015(fpath)
             
 
+### LKS Dataset ###
 
+def load_LKS01_2019_2022(fpath:str):
+    df = pd.read_excel(fpath,skiprows=3,thousands='.',decimal=',')
+    df = df.rename(columns={
+        'erfasste Fälle':'Anzahl erfasste Fälle', # 2019
+        'erfasste Fälle davon:\nVersuche':'erfasste Fälle: Anzahl Versuche',
+        'von Spalte 3\nVersuche':'erfasste Fälle: Anzahl Versuche', # 2019
+        'Unnamed: 6':'erfasste Fälle: Versuche in %',
+        'Tatortverteilung':'Tatortverteilung: bis unter 20.000 Einwohner',
+        'Unnamed: 8':'Tatortverteilung: 20.000 bis unter 100.000',
+        'Unnamed: 9':'Tatortverteilung: 100.000 bis unter 500.000',
+        'Unnamed: 10': 'Tatortverteilung: 500.000 und mehr',
+        'Unnamed: 11':'Tatortverteilung: unbekannt',
+        'mit Schusswaffe':'mit Schusswaffe: gedroht',
+        'Unnamed: 13':'mit Schusswaffe: geschossen',
+        'Aufklärung':'Aufklärung: Anzahl Fälle',
+        'Unnamed: 15':'Aufklärung: in % (AQ)',
+        'Tatverdächtige':'Tatverdächtige: insgesamt',
+        'Unnamed: 17':'Tatverdächtige: männlich',
+        'von Spalte 16':'Tatverdächtige: männlich',
+        'Unnamed: 18':'Tatverdächtige: weiblich',
+        'Nichtdeutsche Tatverdächtige':'Nichtdeutsche Tatverdächtige: Anzahl',
+        'Unnamed: 19':'Nichtdeutsche Tatverdächtige: Anzahl', # 2019
+        'Unnamed: 20':'Nichtdeutsche Tatverdächtige: Anteil an TV insg. in %'
+    })
+    return df.drop(range(4)).reset_index(drop=True)
+
+def load_LKS01_2015_2018(fpath):
+    # confirmed for 2018,2017,2016,2015
+    df = pd.read_excel(fpath,skiprows=4,thousands='.',decimal=',')
+    df = df.drop(['BL-Schl.','Sort'], axis=1, errors='ignore')
+    df = df.rename(columns={
+        'erfasste Fälle':'Anzahl erfasste Fälle',
+        'von Spalte 4 Versuche':'erfasste Fälle: Anzahl Versuche',
+        'Unnamed: 6':'erfasste Fälle: Versuche in %',
+        'Unnamed: 7':'erfasste Fälle: Versuche in %', # 2018
+        'Aufklärung':'Aufklärung: Anzahl Fälle',
+        'Unnamed: 8':'Aufklärung: in % (AQ)', # really the same?
+        'Unnamed: 9':'Aufklärung: in % (AQ)', # really the same?
+        'Tatver-dächtige insg.':'Tatverdächtige: insgesamt',
+        'Nichtdeutsche Tat-verdächtige':'Nichtdeutsche Tatverdächtige: Anzahl',
+        'Unnamed: 11':'Nichtdeutsche Tatverdächtige: Anteil an TV insg. in %',
+        'Unnamed: 12':'Nichtdeutsche Tatverdächtige: Anteil an TV insg. in %' # 2018
+    })
+    return df.drop(range(2)).reset_index(drop=True)
+
+def load_LKS01_2014(fpath:str='Datasets/PKS/2014/tb01_FaelleGrundtabelleLaender_excel.xlsx'):
+    df = pd.read_excel(fpath,skiprows=7,thousands='.',decimal=',')
+    df = df.rename(columns={
+        'Strft. Schl.':'Schlüssel',
+        'erfasste Fälle 2014':'Anzahl erfasste Fälle',
+        'Versuche absolut':'erfasste Fälle: Anzahl Versuche',
+        'Versuche in %':'erfasste Fälle: Versuche in %',
+        'aufgeklärte Fälle':'Aufklärung: Anzahl Fälle',
+        'AQ \nin %':'Aufklärung: in % (AQ)',
+        'TV insges.':'Tatverdächtige: insgesamt',
+        'NDTV insges.':'Nichtdeutsche Tatverdächtige: Anzahl',
+        'NDTV in %':'Nichtdeutsche Tatverdächtige: Anteil an TV insg. in %'
+    })
+    return df
+
+def load_LKS01_2013(fpath:str='Datasets/PKS/2013/tb01_FaelleGrundtabelleLaender_excel.xls'):
+    df = pd.read_excel(fpath,skiprows=8,thousands='.',decimal=',')
+    df = df.rename(columns={
+        'Strft. Schl.':'Schlüssel',
+        'erfasste Fälle 2013':'Anzahl erfasste Fälle',
+        'Versuche absolut':'erfasste Fälle: Anzahl Versuche',
+        'Versuche in %':'erfasste Fälle: Versuche in %',
+        'aufgeklärte Fälle':'Aufklärung: Anzahl Fälle',
+        'AQ \nin %':'Aufklärung: in % (AQ)',
+        'TV insges.':'Tatverdächtige: insgesamt',
+        'NDTV insges.':'Nichtdeutsche Tatverdächtige: Anzahl',
+        'NDTV in %':'Nichtdeutsche Tatverdächtige: Anteil an TV insg. in %'
+    })
+    return df
+
+class LKS01(Dataset):
+    def __init__(self,root_dir:str='Datasets/PKS/'):
+        '''Loads and formats the base crime tables grouped by federal states for all available years in the root directory
+
+        Params:
+        root_dir: The root directory containing the yearly directories of tables (default: 'Datasets/PKS/')
+
+        Returns: Iterable dataset indexed by years
+        '''
+        self.root_dir = root_dir
+
+    def __len__(self):
+        return min(len(os.listdir(self.root_dir)),10) # this table is missing in 2012, but the directory exists for other tables
+    
+    def __getitem__(self,year):
+        if 2013 > year or year > 2022:
+                raise IndexError(f'No data for requested year: {year}.\nNote: There is no official data before 2013 for this table')
+        ypath = os.path.join(self.root_dir,str(year))
+        for file in os.listdir(ypath):
+            fpath = os.path.join(ypath,file)
+            # load table for all years
+            if any(desi in file for desi in ['LA','Laender']):
+                if 2019 <= year <= 2022:
+                    return load_LKS01_2019_2022(fpath)
+                if 2015 <= year <= 2018:
+                    return load_LKS01_2015_2018(fpath)
+                if year == 2014:
+                    return load_LKS01_2014(fpath)
+                if year == 2013:
+                    return load_LKS01_2013(fpath)
 
 if __name__ == '__main__':
     # Possible Tests 
