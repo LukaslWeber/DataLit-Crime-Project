@@ -1,4 +1,5 @@
 import pandas as pd
+import geopandas as gpd
 
 tesssst = "test"
 
@@ -98,3 +99,28 @@ def create_x_labels(years):
     
     flat_months_year = [element for year in months_year for element in year]
     return flat_months_year
+
+
+def get_key_col(df:pd.DataFrame,key:str,col:str=None) -> pd.Series:
+    '''Copy slice of data frame specified by key and column
+    
+    Params:
+    df: Full data frame to select from
+    key: Numerical crime key
+    col: Column header, optional. Returns all columns if not specified (default: None)
+    
+    Returns: Slice of data'''
+
+    return pd.DataFrame(df.loc[df.Schlüssel == key, ['Bundesland',col]]).rename(columns={col:'data'}).reset_index(drop=True)
+
+
+def add_geomery(df:pd.DataFrame,geo:gpd.GeoDataFrame) -> gpd.GeoDataFrame:
+    '''Adds geometry of federal states to slice of data frame
+    
+    Params:
+    df: Data frame containing data per federal state (requires: 'Bundesland' column)
+    geo: Geo data frame containing the geometry of each federal state (requires: 'Bundesland' column)
+    
+    Returns: Augmented data with geometry ready for plotting'''
+
+    return gpd.GeoDataFrame(pd.merge(df,geo,on='Bundesland'),geometry='geometry')
