@@ -6,5 +6,6 @@ geopandas
 shapely
 contextily
 tueplots
-os
 jupyter
+openpyxl
+xlrd
