@@ -1,8 +1,7 @@
 import os
-from torch.utils.data import Dataset
 import pandas as pd
 
-class T20DataLoader(Dataset):
+class T20DataLoader(object):
     """
         This is a class for loading T20 tables
     """
@@ -83,7 +82,7 @@ class T20DataLoader(Dataset):
         
         return df
 
-class T08DataLoader(Dataset):
+class T08DataLoader(object):
     """
         This is a class for loading T08 Tables
     """
@@ -166,7 +165,7 @@ class T08DataLoader(Dataset):
         return df
 
 
-class T01DataLoader(Dataset):
+class T01DataLoader(object):
     """
         This is a class for loading T01 tables
     """
@@ -278,7 +277,7 @@ class T01DataLoader(Dataset):
                     'Unnamed: 19':'Nichtdeutsche Tatverdächtige: Anteil an TV insg. in %'})
         return df.drop(range(4)).reset_index(drop=True)
                 
-class LKS01(Dataset):
+class LKS01(object):
     """
         This is a class for loading the LKS (LA-F-01) tables
 
