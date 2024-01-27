@@ -1,0 +1,9 @@
+# non-functional list of all packages that are imported directly
+pandas
+numpy
+matplotlib
+geopandas
+shapely
+contextily
+tueplots
+os
