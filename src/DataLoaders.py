@@ -1,7 +1,6 @@
 import os
 from torch.utils.data import Dataset
 import pandas as pd
-import numpy as np
 
 class T20DataLoader(Dataset):
     """
