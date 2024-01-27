@@ -6,5 +6,4 @@ geopandas
 shapely
 contextily
 tueplots
-os
 jupyter
