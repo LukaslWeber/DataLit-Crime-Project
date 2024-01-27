@@ -7,3 +7,4 @@ shapely
 contextily
 tueplots
 os
+jupyter
