@@ -175,7 +175,7 @@ def add_geomery(df:pd.DataFrame,geo:gpd.GeoDataFrame) -> gpd.GeoDataFrame:
 
 
 # Methods that are not used anymore but might be needed again
-def get_yearly_cases_by_key(key:str, data:tuple((int, pd.DataFrame)), sum_same_key:bool):
+def get_yearly_cases_by_key(key:str, data:tuple((int, pd.DataFrame)), sum_same_key:bool, column_of_interest:str='Anzahl erfasste Fälle'):
     """_summary_
 
     Args:
@@ -193,11 +193,11 @@ def get_yearly_cases_by_key(key:str, data:tuple((int, pd.DataFrame)), sum_same_k
         if sum_same_key:
             # summing up the entries in df that have an identical key
             cases_curr_year = 0
-            for i in range(len(df['Anzahl erfasste Fälle'][df['Schlüssel'] == key])):
-                cases_curr_year += df['Anzahl erfasste Fälle'][df['Schlüssel'] == key].iloc[i]
+            for i in range(len(df[column_of_interest][df['Schlüssel'] == key])):
+                cases_curr_year += df[column_of_interest][df['Schlüssel'] == key].iloc[i]
         else:
             # taking only the first entry that uses the key in df
-            cases_curr_year = df['Anzahl erfasste Fälle'][df['Schlüssel'] == key].iloc[0]
+            cases_curr_year = df[column_of_interest][df['Schlüssel'] == key].iloc[0]
             
         cases_by_year.append(cases_curr_year)
         data_years.append(year)
