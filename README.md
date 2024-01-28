@@ -8,10 +8,6 @@ Within the scope of this project, we conduct an exploratory data analysis on var
 # Installation manual
 Installation via conda is recommended, but can lead to issues on some platforms. For a more flexible install try using ``pip``.
 
-## Conda
-
-...
-
 ## Virual Environment
 ### Windows
 Create a virtual environment by running in your repository:
