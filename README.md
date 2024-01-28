@@ -6,7 +6,7 @@ The PKS refers to crime statistics released by the Bundeskriminalamt (German Fed
 Within the scope of this project, we conduct an exploratory data analysis on various tables found in the PKS, focusing either on spatial or temporal data.
 
 # Installation manual
-Installation via conda is recommended, but can lead to issues on some platforms. For a more flexible install try using ``pip``.
+Installation via ``pip`` is recommended. If prompted, we can also provide a conda environment which wasn't as reliable as a pip-based environment in our tests.
 
 ## Virual Environment
 ### Windows
