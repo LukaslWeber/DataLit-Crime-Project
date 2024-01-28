@@ -7,6 +7,12 @@ def get_months():
     """
     return ['Jan.', 'Febr.', 'März', 'April', 'Mai', 'Juni', 'Juli', 'Aug.', 'Sept.', 'Okt.', 'Nov.', 'Dez.']
 
+def get_months_english():
+    """
+        Returns a list with all months in a year with the same naming schemes as the T08 DataFrame
+    """
+    return ['Jan.', 'Febr.', 'March', 'April', 'May', 'June', 'July', 'Aug.', 'Sept.', 'Oct.', 'Nov.', 'Dec.']
+
 
 def get_crime_name(data:pd.DataFrame, key:str):
     """Get crime names based on the crime names of the newest yearly report
@@ -129,7 +135,7 @@ def transform_monthly_data_to_list(data:list[tuple[int, pd.DataFrame]], key:str,
 
 
 # Get flattend list of months of years for the x-axis label
-def create_x_labels(years):
+def create_x_labels(years, use_english_months:bool=False):
     """Generates a flattened list of months for using it in plots. 
 
     Args:
@@ -138,9 +144,15 @@ def create_x_labels(years):
     Returns:
         x axis labels list(str): List with names of months for each year in the data
     """
+    months = None
+    if use_english_months:
+        months = get_months_english()
+    else:
+        months = get_months()
     months_year = list()
     for i in years:
-        with_year = list(month + ' ' + str(i) for month in get_months())
+        with_year = list(month + ' ' + str(i) for month in months)
+
         months_year.append(with_year)
     
     flat_months_year = [element for year in months_year for element in year]
