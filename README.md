@@ -1,12 +1,9 @@
 # DataLit-Crime-Project
- This is the project proposal for the "Data Literacy" course by Prof. Henning.
+ This is our project proposal for the "Data Literacy" course by Prof. Dr. Philipp Hennig.
 
 # Topic: Analyzing the "Polizeiliche Kriminalstatistik" (PKS)
-TODO: Themenbeschreibung
-
-## Maybe: Short description of every list used
-- This would be an explanation so that one can keep track of everything
-- E.g. explanation of Fälle, vollendete Fälle, Wirtschaftskriminalität, etc.
+The PKS refers to crime statistics released by the Bundeskriminalamt (German Federal Office of Criminal Investigation). 
+Within the scope of this project, we conduct an exploratory data analysis on various tables found in the PKS, focusing either on spatial or temporal data.
 
 # Installation manual
 Installation via conda is recommended, but can lead to issues on some platforms. For a more flexible install try using ``pip``.
