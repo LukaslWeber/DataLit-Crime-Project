@@ -6,7 +6,7 @@ The PKS refers to crime statistics released by the Bundeskriminalamt (German Fed
 Within the scope of this project, we conduct an exploratory data analysis on various tables found in the PKS, focusing either on spatial or temporal data.
 
 # Overview
-- exp contains our analyses in spatial_exploration.ipynb and temporal_exploration.ipynb analysis along with related plots
+- exp contains our analyses in spatial_exploration.ipynb and temporal_exploration.ipynb along with related plots
 - dat contais all used datasets sorted by source and years
 - src contains necessary files to import and process the data
 - doc contains our report and figures
