@@ -47,14 +47,3 @@ python -m pip install -r requirements.txt
 ```
 
 
-
-
-
-
-
-
-# Contributors
-- Lukas Weber
-- Tim Gerne
-- Monica Janders
-- Tim Haigis
