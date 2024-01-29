@@ -5,11 +5,11 @@ class T20DataLoader(object):
     """
         This is a class for loading T20 tables
     """
-    def __init__(self,root_dir:str='dat/PKS/'):
+    def __init__(self,root_dir:str='../dat/PKS/'):
         """Creates an object that can load the PKS tables of Germany grouped by suspect age and sex for all available years in the root directory
 
         Params:
-            root_dir (str): The root directory containing the yearly directories of tables (default: 'Datasets/PKS/')
+            root_dir (str): The root directory containing the yearly directories of tables (default: '../dat/PKS/')
 
         Returns: Iterable dataset indexed by years
         """
@@ -86,11 +86,11 @@ class T08DataLoader(object):
     """
         This is a class for loading T08 Tables
     """
-    def __init__(self,root_dir:str='dat/PKS/'):
+    def __init__(self,root_dir:str='../dat/PKS/'):
         """Creates an object to load base crime tables of Germany grouped by month for all available years in the root directory
 
         Params:
-        root_dir: The root directory containing the yearly directories of tables (default: 'Datasets/PKS/')
+        root_dir: The root directory containing the yearly directories of tables (default: '../dat/PKS/')
 
         Returns: Iterable dataset indexed by years
         """
@@ -169,11 +169,11 @@ class T01DataLoader(object):
     """
         This is a class for loading T01 tables
     """
-    def __init__(self,root_dir:str='dat/PKS/'):
+    def __init__(self,root_dir:str='../dat/PKS/'):
         """Creates an object to load base crime tables of Germany containing a multitide of informaiton, like the percentage of solved crimes for crimes of a year in the root directory.
 
         Params:
-        root_dir: The root directory containing the yearly directories of tables (default: 'Datasets/PKS/')
+        root_dir: The root directory containing the yearly directories of tables (default: '../dat/PKS/')
 
         Returns: Iterable dataset indexed by years
         """
@@ -282,11 +282,11 @@ class LKS01(object):
         This is a class for loading the LKS (LA-F-01) tables
 
     """
-    def __init__(self,root_dir:str='dat/PKS/'):
+    def __init__(self,root_dir:str='../dat/PKS/'):
         """Creates an object to load and format the base crime tables grouped by federal states for all available years in the root directory
 
         Params:
-            root_dir (str): The root directory containing the yearly directories of tables (default: 'Datasets/PKS/')
+            root_dir (str): The root directory containing the yearly directories of tables (default: '../dat/PKS/')
 
         Returns: Iterable dataset indexed by years
         """
@@ -389,7 +389,7 @@ class LKS01(object):
         })
         return df.drop(range(2)).reset_index(drop=True)
 
-    def load_LKS01_2014(self, fpath:str='Datasets/PKS/2014/tb01_FaelleGrundtabelleLaender_excel.xlsx'):
+    def load_LKS01_2014(self, fpath:str='../dat/PKS/2014/tb01_FaelleGrundtabelleLaender_excel.xlsx'):
         """Method for loading LA-F-01 tables with the format given for 2014
 
         Args:
@@ -412,7 +412,7 @@ class LKS01(object):
         })
         return df
 
-    def load_LKS01_2013(self, fpath:str='Datasets/PKS/2013/tb01_FaelleGrundtabelleLaender_excel.xls'):
+    def load_LKS01_2013(self, fpath:str='../dat/PKS/2013/tb01_FaelleGrundtabelleLaender_excel.xls'):
         """Method for loading LA-F-01 tables with the format given for 2013
 
         Args:
