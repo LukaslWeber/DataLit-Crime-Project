@@ -9,7 +9,7 @@ Within the scope of this project, we conduct an exploratory data analysis on var
 - spatial_exploration.ipynb and temporal_exploration.ipynb contain our analysis and related plots
 - Datasets contais all used data sorted by years
 - scr contains necessary files to import and process the data
-- doc/icml2023/fig contains plots used in the report
+- doc contains our report and used plots
 
 # Installation manual
 Installation via ``pip`` is recommended. If prompted, we can also provide a conda environment which wasn't as reliable as a pip-based environment in our tests.
