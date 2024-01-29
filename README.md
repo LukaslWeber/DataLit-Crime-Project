@@ -5,6 +5,12 @@
 The PKS refers to crime statistics released by the Bundeskriminalamt (German Federal Office of Criminal Investigation). 
 Within the scope of this project, we conduct an exploratory data analysis on various tables found in the PKS, focusing either on spatial or temporal data.
 
+# Overview
+- spatial_exploration.ipynb and temporal_exploration.ipynb contain our analysis and related plots
+- Datasets contais all used data sorted by years
+- scr contains necessary files to import and process the data
+- doc/icml2023/fig contains plots used in the report
+
 # Installation manual
 Installation via ``pip`` is recommended. If prompted, we can also provide a conda environment which wasn't as reliable as a pip-based environment in our tests.
 
